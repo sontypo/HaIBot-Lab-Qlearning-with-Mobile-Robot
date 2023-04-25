@@ -1,0 +1,5860 @@
+
+SIMULATION START ==> 07/10/2022 06:36:11
+
+
+---------------------------------------
+
+Episode 1 ==> CRASH {-1.14,-0.86,30.09}    07/10/2022 06:36:20
+episode time: 8.03 s (avg step: 0.05 s) 
+episode steps: 167 
+episode reward: -120.10 
+episode max | avg | min reward: 0.40 | -0.72 | -100.00 
+T = 25.000000 
+
+---------------------------------------
+
+Episode 2 ==> CRASH {-1.19,-0.96,-4.42}    07/10/2022 06:36:27
+episode time: 7.53 s (avg step: 0.04 s) 
+episode steps: 170 
+episode reward: -118.10 
+episode max | avg | min reward: 0.40 | -0.70 | -100.00 
+T = 24.625000 
+
+---------------------------------------
+
+Episode 3 ==> CRASH {-1.18,-1.45,-17.98}    07/10/2022 06:36:35
+episode time: 7.97 s (avg step: 0.06 s) 
+episode steps: 142 
+episode reward: -111.70 
+episode max | avg | min reward: 0.40 | -0.79 | -100.00 
+T = 24.255625 
+
+---------------------------------------
+
+Episode 4 ==> CRASH {-1.17,-1.14,-15.75}    07/10/2022 06:36:43
+episode time: 7.54 s (avg step: 0.06 s) 
+episode steps: 130 
+episode reward: -108.80 
+episode max | avg | min reward: 0.40 | -0.84 | -100.00 
+T = 23.891791 
+
+---------------------------------------
+
+Episode 5 ==> CRASH {-1.18,-0.53,16.49}    07/10/2022 06:36:51
+episode time: 7.91 s (avg step: 0.05 s) 
+episode steps: 145 
+episode reward: -113.60 
+episode max | avg | min reward: 0.40 | -0.79 | -100.00 
+T = 23.533414 
+
+---------------------------------------
+
+Episode 6 ==> CRASH {-1.18,-0.82,4.49}    07/10/2022 06:36:59
+episode time: 7.95 s (avg step: 0.05 s) 
+episode steps: 157 
+episode reward: -111.20 
+episode max | avg | min reward: 0.40 | -0.71 | -100.00 
+T = 23.180413 
+
+---------------------------------------
+
+Episode 7 ==> CRASH {-1.19,-0.96,10.55}    07/10/2022 06:37:05
+episode time: 5.69 s (avg step: 0.06 s) 
+episode steps: 100 
+episode reward: -106.30 
+episode max | avg | min reward: 0.40 | -1.07 | -100.00 
+T = 22.832706 
+
+---------------------------------------
+
+Episode 8 ==> CRASH {-1.18,-1.16,-13.41}    07/10/2022 06:37:12
+episode time: 6.98 s (avg step: 0.04 s) 
+episode steps: 161 
+episode reward: -108.30 
+episode max | avg | min reward: 0.40 | -0.68 | -100.00 
+T = 22.490216 
+
+---------------------------------------
+
+Episode 9 ==> CRASH {-1.17,-1.44,-2.49}    07/10/2022 06:37:20
+episode time: 7.70 s (avg step: 0.04 s) 
+episode steps: 172 
+episode reward: -110.90 
+episode max | avg | min reward: 0.40 | -0.65 | -100.00 
+T = 22.152863 
+
+---------------------------------------
+
+Episode 10 ==> CRASH {-1.08,-0.77,46.88}    07/10/2022 06:37:28
+episode time: 8.65 s (avg step: 0.06 s) 
+episode steps: 137 
+episode reward: -112.00 
+episode max | avg | min reward: 0.40 | -0.82 | -100.00 
+T = 21.820570 
+
+---------------------------------------
+
+Episode 11 ==> CRASH {-1.15,-1.35,-26.53}    07/10/2022 06:37:36
+episode time: 7.91 s (avg step: 0.05 s) 
+episode steps: 148 
+episode reward: -111.20 
+episode max | avg | min reward: 0.40 | -0.76 | -100.00 
+T = 21.493261 
+
+---------------------------------------
+
+Episode 12 ==> CRASH {-1.19,-1.15,5.32}    07/10/2022 06:37:44
+episode time: 7.23 s (avg step: 0.05 s) 
+episode steps: 132 
+episode reward: -106.60 
+episode max | avg | min reward: 0.40 | -0.81 | -100.00 
+T = 21.170862 
+
+---------------------------------------
+
+Episode 13 ==> CRASH {-1.18,-1.23,-13.66}    07/10/2022 06:37:52
+episode time: 7.93 s (avg step: 0.05 s) 
+episode steps: 169 
+episode reward: -113.90 
+episode max | avg | min reward: 0.40 | -0.68 | -100.00 
+T = 20.853299 
+
+---------------------------------------
+
+Episode 14 ==> CRASH {-0.52,0.73,62.80}    07/10/2022 06:38:09
+episode time: 17.27 s (avg step: 0.05 s) 
+episode steps: 360 
+episode reward: -133.20 
+episode max | avg | min reward: 0.40 | -0.37 | -100.00 
+T = 20.540500 
+
+---------------------------------------
+
+Episode 15 ==> CRASH {-1.19,-1.12,-9.36}    07/10/2022 06:38:16
+episode time: 6.75 s (avg step: 0.05 s) 
+episode steps: 130 
+episode reward: -110.70 
+episode max | avg | min reward: 0.40 | -0.86 | -100.00 
+T = 20.232392 
+
+---------------------------------------
+
+Episode 16 ==> CRASH {-1.16,-1.15,-34.06}    07/10/2022 06:38:25
+episode time: 8.99 s (avg step: 0.05 s) 
+episode steps: 176 
+episode reward: -113.20 
+episode max | avg | min reward: 0.40 | -0.65 | -100.00 
+T = 19.928906 
+
+---------------------------------------
+
+Episode 17 ==> CRASH {-1.19,-1.32,-28.87}    07/10/2022 06:38:33
+episode time: 8.05 s (avg step: 0.07 s) 
+episode steps: 122 
+episode reward: -108.90 
+episode max | avg | min reward: 0.40 | -0.90 | -100.00 
+T = 19.629973 
+
+---------------------------------------
+
+Episode 18 ==> CRASH {-1.17,-0.87,7.08}    07/10/2022 06:38:41
+episode time: 7.41 s (avg step: 0.06 s) 
+episode steps: 134 
+episode reward: -112.00 
+episode max | avg | min reward: 0.40 | -0.84 | -100.00 
+T = 19.335523 
+
+---------------------------------------
+
+Episode 19 ==> CRASH {-1.19,-0.99,-13.67}    07/10/2022 06:38:48
+episode time: 6.58 s (avg step: 0.06 s) 
+episode steps: 110 
+episode reward: -112.90 
+episode max | avg | min reward: 0.40 | -1.04 | -100.00 
+T = 19.045490 
+
+---------------------------------------
+
+Episode 20 ==> CRASH {-1.18,-1.26,-25.86}    07/10/2022 06:38:55
+episode time: 7.80 s (avg step: 0.05 s) 
+episode steps: 156 
+episode reward: -107.80 
+episode max | avg | min reward: 0.40 | -0.70 | -100.00 
+T = 18.759808 
+
+---------------------------------------
+
+Episode 21 ==> CRASH {-1.16,-0.71,30.08}    07/10/2022 06:39:03
+episode time: 7.43 s (avg step: 0.07 s) 
+episode steps: 114 
+episode reward: -111.30 
+episode max | avg | min reward: 0.40 | -0.98 | -100.00 
+T = 18.478411 
+
+---------------------------------------
+
+Episode 22 ==> CRASH {-1.14,-0.54,27.76}    07/10/2022 06:39:12
+episode time: 9.12 s (avg step: 0.05 s) 
+episode steps: 202 
+episode reward: -116.90 
+episode max | avg | min reward: 0.40 | -0.58 | -100.00 
+T = 18.201235 
+
+---------------------------------------
+
+Episode 23 ==> CRASH {-1.16,0.13,119.29}    07/10/2022 06:39:26
+episode time: 13.64 s (avg step: 0.06 s) 
+episode steps: 229 
+episode reward: -116.80 
+episode max | avg | min reward: 0.40 | -0.51 | -100.00 
+T = 17.928216 
+
+---------------------------------------
+
+Episode 24 ==> CRASH {-1.11,-0.46,24.56}    07/10/2022 06:39:34
+episode time: 8.19 s (avg step: 0.06 s) 
+episode steps: 129 
+episode reward: -110.90 
+episode max | avg | min reward: 0.40 | -0.87 | -100.00 
+T = 17.659293 
+
+---------------------------------------
+
+Episode 25 ==> CRASH {-1.19,-1.32,-23.19}    07/10/2022 06:39:42
+episode time: 7.73 s (avg step: 0.05 s) 
+episode steps: 155 
+episode reward: -117.60 
+episode max | avg | min reward: 0.40 | -0.76 | -100.00 
+T = 17.394404 
+
+---------------------------------------
+
+Episode 26 ==> CRASH {-1.21,-0.92,10.75}    07/10/2022 06:39:50
+episode time: 7.57 s (avg step: 0.06 s) 
+episode steps: 134 
+episode reward: -110.40 
+episode max | avg | min reward: 0.40 | -0.83 | -100.00 
+T = 17.133487 
+
+---------------------------------------
+
+Episode 27 ==> CRASH {-1.15,-1.99,-79.48}    07/10/2022 06:40:01
+episode time: 11.23 s (avg step: 0.04 s) 
+episode steps: 259 
+episode reward: -110.00 
+episode max | avg | min reward: 0.40 | -0.43 | -100.00 
+T = 16.876485 
+
+---------------------------------------
+
+Episode 28 ==> CRASH {-1.18,-0.87,9.18}    07/10/2022 06:40:08
+episode time: 6.74 s (avg step: 0.05 s) 
+episode steps: 135 
+episode reward: -112.20 
+episode max | avg | min reward: 0.40 | -0.84 | -100.00 
+T = 16.623338 
+
+---------------------------------------
+
+Episode 29 ==> CRASH {-1.19,-0.68,11.93}    07/10/2022 06:40:15
+episode time: 6.94 s (avg step: 0.05 s) 
+episode steps: 136 
+episode reward: -112.10 
+episode max | avg | min reward: 0.40 | -0.83 | -100.00 
+T = 16.373988 
+
+---------------------------------------
+
+Episode 30 ==> CRASH {-1.19,-1.01,-12.25}    07/10/2022 06:40:21
+episode time: 6.20 s (avg step: 0.04 s) 
+episode steps: 138 
+episode reward: -111.10 
+episode max | avg | min reward: 0.40 | -0.81 | -100.00 
+T = 16.128378 
+
+---------------------------------------
+
+Episode 31 ==> CRASH {-1.20,-1.05,-6.39}    07/10/2022 06:40:29
+episode time: 7.73 s (avg step: 0.06 s) 
+episode steps: 138 
+episode reward: -115.60 
+episode max | avg | min reward: 0.40 | -0.84 | -100.00 
+T = 15.886452 
+
+---------------------------------------
+
+Episode 32 ==> CRASH {-1.20,-1.27,-13.63}    07/10/2022 06:40:36
+episode time: 6.85 s (avg step: 0.06 s) 
+episode steps: 114 
+episode reward: -109.20 
+episode max | avg | min reward: 0.40 | -0.97 | -100.00 
+T = 15.648156 
+
+---------------------------------------
+
+Episode 33 ==> CRASH {-1.19,-1.21,-24.28}    07/10/2022 06:40:43
+episode time: 7.08 s (avg step: 0.06 s) 
+episode steps: 116 
+episode reward: -108.80 
+episode max | avg | min reward: 0.40 | -0.95 | -100.00 
+T = 15.413433 
+
+---------------------------------------
+
+Episode 34 ==> CRASH {-1.18,-0.81,0.93}    07/10/2022 06:40:50
+episode time: 7.21 s (avg step: 0.05 s) 
+episode steps: 155 
+episode reward: -114.10 
+episode max | avg | min reward: 0.40 | -0.74 | -100.00 
+T = 15.182232 
+
+---------------------------------------
+
+Episode 35 ==> CRASH {-0.87,-2.03,-72.73}    07/10/2022 06:41:04
+episode time: 12.95 s (avg step: 0.06 s) 
+episode steps: 225 
+episode reward: -118.10 
+episode max | avg | min reward: 0.40 | -0.53 | -100.00 
+T = 14.954498 
+
+---------------------------------------
+
+Episode 36 ==> CRASH {-1.19,-0.97,-17.13}    07/10/2022 06:41:10
+episode time: 6.75 s (avg step: 0.04 s) 
+episode steps: 156 
+episode reward: -117.80 
+episode max | avg | min reward: 0.40 | -0.76 | -100.00 
+T = 14.730181 
+
+---------------------------------------
+
+Episode 37 ==> CRASH {-1.19,-0.58,5.06}    07/10/2022 06:41:19
+episode time: 8.83 s (avg step: 0.06 s) 
+episode steps: 146 
+episode reward: -109.30 
+episode max | avg | min reward: 0.40 | -0.75 | -100.00 
+T = 14.509228 
+
+---------------------------------------
+
+Episode 38 ==> CRASH {-1.16,-1.16,-4.20}    07/10/2022 06:41:26
+episode time: 6.33 s (avg step: 0.06 s) 
+episode steps: 108 
+episode reward: -106.60 
+episode max | avg | min reward: 0.40 | -1.00 | -100.00 
+T = 14.291590 
+
+---------------------------------------
+
+Episode 39 ==> CRASH {-1.15,-1.25,-2.36}    07/10/2022 06:41:33
+episode time: 6.98 s (avg step: 0.05 s) 
+episode steps: 138 
+episode reward: -100.60 
+episode max | avg | min reward: 0.40 | -0.73 | -100.00 
+T = 14.077216 
+
+---------------------------------------
+
+Episode 40 ==> CRASH {-1.19,-0.89,15.47}    07/10/2022 06:41:40
+episode time: 6.81 s (avg step: 0.06 s) 
+episode steps: 123 
+episode reward: -108.70 
+episode max | avg | min reward: 0.40 | -0.89 | -100.00 
+T = 13.866058 
+
+---------------------------------------
+
+Episode 41 ==> CRASH {-1.20,-0.96,-9.01}    07/10/2022 06:41:46
+episode time: 6.21 s (avg step: 0.06 s) 
+episode steps: 109 
+episode reward: -109.10 
+episode max | avg | min reward: 0.40 | -1.01 | -100.00 
+T = 13.658067 
+
+---------------------------------------
+
+Episode 42 ==> CRASH {-1.19,-1.17,1.68}    07/10/2022 06:41:53
+episode time: 6.93 s (avg step: 0.05 s) 
+episode steps: 132 
+episode reward: -109.10 
+episode max | avg | min reward: 0.40 | -0.83 | -100.00 
+T = 13.453196 
+
+---------------------------------------
+
+Episode 43 ==> CRASH {-2.00,2.27,-159.89}    07/10/2022 06:42:24
+episode time: 30.96 s (avg step: 0.05 s) 
+episode steps: 644 
+episode reward: -134.10 
+episode max | avg | min reward: 0.40 | -0.21 | -100.00 
+T = 13.251398 
+
+---------------------------------------
+
+Episode 44 ==> CRASH {-1.20,-0.85,19.28}    07/10/2022 06:42:31
+episode time: 6.75 s (avg step: 0.06 s) 
+episode steps: 111 
+episode reward: -108.30 
+episode max | avg | min reward: 0.40 | -0.98 | -100.00 
+T = 13.052627 
+
+---------------------------------------
+
+Episode 45 ==> CRASH {-1.21,-0.92,17.62}    07/10/2022 06:42:38
+episode time: 6.96 s (avg step: 0.05 s) 
+episode steps: 140 
+episode reward: -119.30 
+episode max | avg | min reward: 0.40 | -0.86 | -100.00 
+T = 12.856837 
+
+---------------------------------------
+
+Episode 46 ==> CRASH {-1.18,-1.05,0.71}    07/10/2022 06:42:45
+episode time: 6.72 s (avg step: 0.07 s) 
+episode steps: 103 
+episode reward: -108.40 
+episode max | avg | min reward: 0.40 | -1.06 | -100.00 
+T = 12.663985 
+
+---------------------------------------
+
+Episode 47 ==> CRASH {-0.64,2.02,111.61}    07/10/2022 06:43:10
+episode time: 24.49 s (avg step: 0.06 s) 
+episode steps: 421 
+episode reward: -113.20 
+episode max | avg | min reward: 0.40 | -0.27 | -100.00 
+T = 12.474025 
+
+---------------------------------------
+
+Episode 48 ==> CRASH {-1.06,-0.59,42.13}    07/10/2022 06:43:20
+episode time: 9.63 s (avg step: 0.05 s) 
+episode steps: 207 
+episode reward: -113.70 
+episode max | avg | min reward: 0.40 | -0.55 | -100.00 
+T = 12.286915 
+
+---------------------------------------
+
+Episode 49 ==> CRASH {-1.19,-0.95,20.89}    07/10/2022 06:43:27
+episode time: 6.96 s (avg step: 0.05 s) 
+episode steps: 144 
+episode reward: -111.80 
+episode max | avg | min reward: 0.40 | -0.78 | -100.00 
+T = 12.102611 
+
+---------------------------------------
+
+Episode 50 ==> CRASH {-1.11,-0.95,39.46}    07/10/2022 06:43:34
+episode time: 7.13 s (avg step: 0.06 s) 
+episode steps: 116 
+episode reward: -112.20 
+episode max | avg | min reward: 0.40 | -0.98 | -100.00 
+T = 11.921072 
+
+---------------------------------------
+
+Episode 51 ==> CRASH {0.05,0.44,25.40}    07/10/2022 06:43:52
+episode time: 17.90 s (avg step: 0.05 s) 
+episode steps: 330 
+episode reward: -127.10 
+episode max | avg | min reward: 0.40 | -0.39 | -100.00 
+T = 11.742256 
+
+---------------------------------------
+
+Episode 52 ==> CRASH {-1.01,-0.55,43.93}    07/10/2022 06:44:01
+episode time: 8.72 s (avg step: 0.05 s) 
+episode steps: 185 
+episode reward: -112.50 
+episode max | avg | min reward: 0.40 | -0.61 | -100.00 
+T = 11.566122 
+
+---------------------------------------
+
+Episode 53 ==> CRASH {-1.19,-0.87,16.24}    07/10/2022 06:44:08
+episode time: 7.18 s (avg step: 0.07 s) 
+episode steps: 107 
+episode reward: -110.00 
+episode max | avg | min reward: 0.40 | -1.04 | -100.00 
+T = 11.392630 
+
+---------------------------------------
+
+Episode 54 ==> CRASH {-1.17,-1.23,24.60}    07/10/2022 06:44:16
+episode time: 7.95 s (avg step: 0.06 s) 
+episode steps: 130 
+episode reward: -111.20 
+episode max | avg | min reward: 0.40 | -0.86 | -100.00 
+T = 11.221741 
+
+---------------------------------------
+
+Episode 55 ==> CRASH {-1.01,-0.55,45.35}    07/10/2022 06:44:26
+episode time: 9.85 s (avg step: 0.06 s) 
+episode steps: 178 
+episode reward: -107.60 
+episode max | avg | min reward: 0.40 | -0.61 | -100.00 
+T = 11.053414 
+
+---------------------------------------
+
+Episode 56 ==> CRASH {-1.36,2.08,121.71}    07/10/2022 06:44:54
+episode time: 28.08 s (avg step: 0.06 s) 
+episode steps: 465 
+episode reward: -133.50 
+episode max | avg | min reward: 0.40 | -0.29 | -100.00 
+T = 10.887613 
+
+---------------------------------------
+
+Episode 57 ==> CRASH {-1.17,-1.15,-11.91}    07/10/2022 06:45:02
+episode time: 7.42 s (avg step: 0.05 s) 
+episode steps: 136 
+episode reward: -115.00 
+episode max | avg | min reward: 0.40 | -0.85 | -100.00 
+T = 10.724299 
+
+---------------------------------------
+
+Episode 58 ==> CRASH {-1.11,-0.79,40.29}    07/10/2022 06:45:10
+episode time: 7.72 s (avg step: 0.05 s) 
+episode steps: 144 
+episode reward: -114.00 
+episode max | avg | min reward: 0.40 | -0.80 | -100.00 
+T = 10.563435 
+
+---------------------------------------
+
+Episode 59 ==> CRASH {-1.19,-1.05,11.09}    07/10/2022 06:45:17
+episode time: 6.81 s (avg step: 0.05 s) 
+episode steps: 131 
+episode reward: -106.70 
+episode max | avg | min reward: 0.40 | -0.82 | -100.00 
+T = 10.404983 
+
+---------------------------------------
+
+Episode 60 ==> CRASH {-1.18,-1.14,6.72}    07/10/2022 06:45:24
+episode time: 7.57 s (avg step: 0.07 s) 
+episode steps: 113 
+episode reward: -109.20 
+episode max | avg | min reward: 0.40 | -0.97 | -100.00 
+T = 10.248908 
+
+---------------------------------------
+
+Episode 61 ==> CRASH {0.05,0.34,27.47}    07/10/2022 06:45:43
+episode time: 18.33 s (avg step: 0.06 s) 
+episode steps: 292 
+episode reward: -129.90 
+episode max | avg | min reward: 0.40 | -0.45 | -100.00 
+T = 10.095175 
+
+---------------------------------------
+
+Episode 62 ==> CRASH {-1.18,-0.73,25.14}    07/10/2022 06:45:50
+episode time: 7.01 s (avg step: 0.06 s) 
+episode steps: 119 
+episode reward: -110.80 
+episode max | avg | min reward: 0.40 | -0.94 | -100.00 
+T = 9.943747 
+
+---------------------------------------
+
+Episode 63 ==> CRASH {-1.17,-1.01,20.50}    07/10/2022 06:45:57
+episode time: 7.31 s (avg step: 0.05 s) 
+episode steps: 162 
+episode reward: -118.30 
+episode max | avg | min reward: 0.40 | -0.73 | -100.00 
+T = 9.794591 
+
+---------------------------------------
+
+Episode 64 ==> CRASH {-1.09,-0.46,27.66}    07/10/2022 06:46:06
+episode time: 8.83 s (avg step: 0.06 s) 
+episode steps: 153 
+episode reward: -108.50 
+episode max | avg | min reward: 0.40 | -0.71 | -100.00 
+T = 9.647672 
+
+---------------------------------------
+
+Episode 65 ==> CRASH {-1.20,-1.28,15.70}    07/10/2022 06:46:13
+episode time: 7.06 s (avg step: 0.06 s) 
+episode steps: 112 
+episode reward: -108.60 
+episode max | avg | min reward: 0.40 | -0.98 | -100.00 
+T = 9.502957 
+
+---------------------------------------
+
+Episode 66 ==> CRASH {-1.17,-0.93,31.95}    07/10/2022 06:46:21
+episode time: 7.37 s (avg step: 0.05 s) 
+episode steps: 162 
+episode reward: -117.00 
+episode max | avg | min reward: 0.40 | -0.73 | -100.00 
+T = 9.360413 
+
+---------------------------------------
+
+Episode 67 ==> CRASH {-1.20,-0.97,-14.65}    07/10/2022 06:46:28
+episode time: 7.28 s (avg step: 0.07 s) 
+episode steps: 110 
+episode reward: -106.00 
+episode max | avg | min reward: 0.40 | -0.97 | -100.00 
+T = 9.220006 
+
+---------------------------------------
+
+Episode 68 ==> CRASH {-1.21,-1.08,16.62}    07/10/2022 06:46:35
+episode time: 6.77 s (avg step: 0.07 s) 
+episode steps: 104 
+episode reward: -107.10 
+episode max | avg | min reward: 0.40 | -1.04 | -100.00 
+T = 9.081706 
+
+---------------------------------------
+
+Episode 69 ==> CRASH {-1.17,-1.27,4.92}    07/10/2022 06:46:42
+episode time: 6.94 s (avg step: 0.05 s) 
+episode steps: 137 
+episode reward: -109.10 
+episode max | avg | min reward: 0.40 | -0.80 | -100.00 
+T = 8.945481 
+
+---------------------------------------
+
+Episode 70 ==> CRASH {-1.20,-0.95,7.50}    07/10/2022 06:46:49
+episode time: 6.81 s (avg step: 0.05 s) 
+episode steps: 126 
+episode reward: -113.10 
+episode max | avg | min reward: 0.40 | -0.90 | -100.00 
+T = 8.811298 
+
+---------------------------------------
+
+Episode 71 ==> CRASH {-1.19,-0.77,18.08}    07/10/2022 06:46:56
+episode time: 7.11 s (avg step: 0.05 s) 
+episode steps: 131 
+episode reward: -111.60 
+episode max | avg | min reward: 0.40 | -0.86 | -100.00 
+T = 8.679129 
+
+---------------------------------------
+
+Episode 72 ==> CRASH {-0.28,-2.16,-41.86}    07/10/2022 06:47:12
+episode time: 15.60 s (avg step: 0.05 s) 
+episode steps: 299 
+episode reward: -119.20 
+episode max | avg | min reward: 0.40 | -0.40 | -100.00 
+T = 8.548942 
+
+---------------------------------------
+
+Episode 73 ==> CRASH {-1.53,-1.36,-78.42}    07/10/2022 06:47:18
+episode time: 6.41 s (avg step: 0.07 s) 
+episode steps: 98 
+episode reward: -110.60 
+episode max | avg | min reward: 0.40 | -1.14 | -100.00 
+T = 8.420708 
+
+---------------------------------------
+
+Episode 74 ==> CRASH {-1.13,-0.91,33.69}    07/10/2022 06:47:26
+episode time: 7.40 s (avg step: 0.07 s) 
+episode steps: 111 
+episode reward: -113.30 
+episode max | avg | min reward: 0.40 | -1.03 | -100.00 
+T = 8.294397 
+
+---------------------------------------
+
+Episode 75 ==> CRASH {-1.10,-0.57,33.57}    07/10/2022 06:47:34
+episode time: 7.94 s (avg step: 0.06 s) 
+episode steps: 138 
+episode reward: -108.30 
+episode max | avg | min reward: 0.40 | -0.79 | -100.00 
+T = 8.169981 
+
+---------------------------------------
+
+Episode 76 ==> CRASH {-1.18,-0.65,7.64}    07/10/2022 06:47:41
+episode time: 7.05 s (avg step: 0.04 s) 
+episode steps: 163 
+episode reward: -115.90 
+episode max | avg | min reward: 0.40 | -0.72 | -100.00 
+T = 8.047432 
+
+---------------------------------------
+
+Episode 77 ==> CRASH {-1.20,-1.06,20.83}    07/10/2022 06:47:48
+episode time: 7.02 s (avg step: 0.06 s) 
+episode steps: 111 
+episode reward: -107.10 
+episode max | avg | min reward: 0.40 | -0.97 | -100.00 
+T = 7.926720 
+
+---------------------------------------
+
+Episode 78 ==> CRASH {-1.11,-1.13,-1.05}    07/10/2022 06:47:56
+episode time: 7.21 s (avg step: 0.05 s) 
+episode steps: 136 
+episode reward: -109.20 
+episode max | avg | min reward: 0.40 | -0.81 | -100.00 
+T = 7.807819 
+
+---------------------------------------
+
+Episode 79 ==> CRASH {-1.19,-0.87,22.21}    07/10/2022 06:48:03
+episode time: 7.28 s (avg step: 0.07 s) 
+episode steps: 106 
+episode reward: -108.20 
+episode max | avg | min reward: 0.40 | -1.03 | -100.00 
+T = 7.690702 
+
+---------------------------------------
+
+Episode 80 ==> CRASH {-1.17,-1.20,4.01}    07/10/2022 06:48:10
+episode time: 7.29 s (avg step: 0.05 s) 
+episode steps: 147 
+episode reward: -108.00 
+episode max | avg | min reward: 0.40 | -0.74 | -100.00 
+T = 7.575342 
+
+---------------------------------------
+
+Episode 81 ==> CRASH {-1.17,-1.02,25.12}    07/10/2022 06:48:18
+episode time: 7.32 s (avg step: 0.06 s) 
+episode steps: 129 
+episode reward: -111.40 
+episode max | avg | min reward: 0.40 | -0.87 | -100.00 
+T = 7.461711 
+
+---------------------------------------
+
+Episode 82 ==> CRASH {-1.19,-0.88,13.49}    07/10/2022 06:48:25
+episode time: 6.93 s (avg step: 0.06 s) 
+episode steps: 112 
+episode reward: -108.50 
+episode max | avg | min reward: 0.40 | -0.98 | -100.00 
+T = 7.349786 
+
+---------------------------------------
+
+Episode 83 ==> CRASH {-1.17,-1.17,-23.17}    07/10/2022 06:48:33
+episode time: 7.65 s (avg step: 0.07 s) 
+episode steps: 116 
+episode reward: -112.80 
+episode max | avg | min reward: 0.40 | -0.98 | -100.00 
+T = 7.239539 
+
+---------------------------------------
+
+Episode 84 ==> CRASH {-1.11,-1.35,-40.73}    07/10/2022 06:48:42
+episode time: 8.92 s (avg step: 0.04 s) 
+episode steps: 218 
+episode reward: -119.80 
+episode max | avg | min reward: 0.40 | -0.55 | -100.00 
+T = 7.130946 
+
+---------------------------------------
+
+Episode 85 ==> CRASH {-1.19,-1.38,-20.61}    07/10/2022 06:48:49
+episode time: 7.90 s (avg step: 0.04 s) 
+episode steps: 225 
+episode reward: -112.40 
+episode max | avg | min reward: 0.40 | -0.50 | -100.00 
+T = 7.023982 
+
+---------------------------------------
+
+Episode 86 ==> CRASH {-1.17,-0.75,1.84}    07/10/2022 06:48:58
+episode time: 8.24 s (avg step: 0.03 s) 
+episode steps: 238 
+episode reward: -115.40 
+episode max | avg | min reward: 0.40 | -0.49 | -100.00 
+T = 6.918622 
+
+---------------------------------------
+
+Episode 87 ==> CRASH {-1.21,-1.40,-12.21}    07/10/2022 06:49:06
+episode time: 7.94 s (avg step: 0.04 s) 
+episode steps: 222 
+episode reward: -118.20 
+episode max | avg | min reward: 0.40 | -0.53 | -100.00 
+T = 6.814843 
+
+---------------------------------------
+
+Episode 88 ==> CRASH {-1.22,-1.05,13.38}    07/10/2022 06:49:13
+episode time: 7.52 s (avg step: 0.05 s) 
+episode steps: 146 
+episode reward: -114.70 
+episode max | avg | min reward: 0.40 | -0.79 | -100.00 
+T = 6.712620 
+
+---------------------------------------
+
+Episode 89 ==> CRASH {-1.17,-0.91,-1.60}    07/10/2022 06:49:21
+episode time: 7.29 s (avg step: 0.05 s) 
+episode steps: 139 
+episode reward: -112.70 
+episode max | avg | min reward: 0.40 | -0.82 | -100.00 
+T = 6.611931 
+
+---------------------------------------
+
+Episode 90 ==> CRASH {-1.15,-1.31,-32.31}    07/10/2022 06:49:29
+episode time: 8.07 s (avg step: 0.05 s) 
+episode steps: 163 
+episode reward: -109.60 
+episode max | avg | min reward: 0.40 | -0.68 | -100.00 
+T = 6.512752 
+
+---------------------------------------
+
+Episode 91 ==> CRASH {-1.12,-1.45,-31.03}    07/10/2022 06:49:37
+episode time: 7.76 s (avg step: 0.05 s) 
+episode steps: 149 
+episode reward: -104.80 
+episode max | avg | min reward: 0.40 | -0.71 | -100.00 
+T = 6.415060 
+
+---------------------------------------
+
+Episode 92 ==> CRASH {-0.67,-2.05,-76.84}    07/10/2022 06:49:51
+episode time: 14.41 s (avg step: 0.06 s) 
+episode steps: 255 
+episode reward: -125.10 
+episode max | avg | min reward: 0.40 | -0.49 | -100.00 
+T = 6.318835 
+
+---------------------------------------
+
+Episode 93 ==> CRASH {-1.20,-1.51,-132.65}    07/10/2022 06:50:02
+episode time: 10.10 s (avg step: 0.05 s) 
+episode steps: 209 
+episode reward: -120.90 
+episode max | avg | min reward: 0.40 | -0.58 | -100.00 
+T = 6.224052 
+
+---------------------------------------
+
+Episode 94 ==> CRASH {-1.19,-0.99,-4.54}    07/10/2022 06:50:08
+episode time: 6.59 s (avg step: 0.05 s) 
+episode steps: 120 
+episode reward: -111.60 
+episode max | avg | min reward: 0.40 | -0.94 | -100.00 
+T = 6.130691 
+
+---------------------------------------
+
+Episode 95 ==> CRASH {-1.17,-0.65,27.33}    07/10/2022 06:50:16
+episode time: 7.65 s (avg step: 0.06 s) 
+episode steps: 126 
+episode reward: -105.70 
+episode max | avg | min reward: 0.40 | -0.85 | -100.00 
+T = 6.038731 
+
+---------------------------------------
+
+Episode 96 ==> CRASH {-1.11,-0.54,25.07}    07/10/2022 06:50:24
+episode time: 7.84 s (avg step: 0.05 s) 
+episode steps: 153 
+episode reward: -108.20 
+episode max | avg | min reward: 0.40 | -0.71 | -100.00 
+T = 5.948150 
+
+---------------------------------------
+
+Episode 97 ==> CRASH {-1.58,-1.38,-69.27}    07/10/2022 06:50:30
+episode time: 5.84 s (avg step: 0.06 s) 
+episode steps: 104 
+episode reward: -113.90 
+episode max | avg | min reward: 0.40 | -1.11 | -100.00 
+T = 5.858928 
+
+---------------------------------------
+
+Episode 98 ==> CRASH {-0.44,0.63,74.49}    07/10/2022 06:50:46
+episode time: 16.26 s (avg step: 0.05 s) 
+episode steps: 309 
+episode reward: -119.10 
+episode max | avg | min reward: 0.40 | -0.39 | -100.00 
+T = 5.771044 
+
+---------------------------------------
+
+Episode 99 ==> CRASH {-1.19,-0.57,-15.16}    07/10/2022 06:50:54
+episode time: 7.75 s (avg step: 0.06 s) 
+episode steps: 133 
+episode reward: -107.00 
+episode max | avg | min reward: 0.40 | -0.81 | -100.00 
+T = 5.684478 
+
+---------------------------------------
+
+Episode 100 ==> CRASH {-1.18,-0.92,6.70}    07/10/2022 06:51:01
+episode time: 6.48 s (avg step: 0.05 s) 
+episode steps: 127 
+episode reward: -105.60 
+episode max | avg | min reward: 0.40 | -0.84 | -100.00 
+T = 5.599211 
+
+---------------------------------------
+
+Episode 101 ==> CRASH {-1.06,-0.51,36.30}    07/10/2022 06:51:08
+episode time: 7.47 s (avg step: 0.05 s) 
+episode steps: 145 
+episode reward: -103.30 
+episode max | avg | min reward: 0.40 | -0.72 | -100.00 
+T = 5.515223 
+
+---------------------------------------
+
+Episode 102 ==> CRASH {-1.07,-1.31,-46.62}    07/10/2022 06:51:16
+episode time: 7.55 s (avg step: 0.06 s) 
+episode steps: 117 
+episode reward: -107.40 
+episode max | avg | min reward: 0.40 | -0.93 | -100.00 
+T = 5.432494 
+
+---------------------------------------
+
+Episode 103 ==> CRASH {-1.15,-0.94,-1.12}    07/10/2022 06:51:23
+episode time: 6.85 s (avg step: 0.06 s) 
+episode steps: 107 
+episode reward: -112.30 
+episode max | avg | min reward: 0.40 | -1.06 | -100.00 
+T = 5.351007 
+
+---------------------------------------
+
+Episode 104 ==> CRASH {-1.19,-1.40,-7.40}    07/10/2022 06:51:31
+episode time: 8.22 s (avg step: 0.05 s) 
+episode steps: 154 
+episode reward: -115.80 
+episode max | avg | min reward: 0.40 | -0.76 | -100.00 
+T = 5.270742 
+
+---------------------------------------
+
+Episode 105 ==> CRASH {-1.14,-0.99,5.74}    07/10/2022 06:51:38
+episode time: 6.50 s (avg step: 0.07 s) 
+episode steps: 94 
+episode reward: -110.40 
+episode max | avg | min reward: 0.40 | -1.19 | -100.00 
+T = 5.191681 
+
+---------------------------------------
+
+Episode 106 ==> CRASH {-1.16,-0.96,4.47}    07/10/2022 06:51:45
+episode time: 7.00 s (avg step: 0.06 s) 
+episode steps: 108 
+episode reward: -109.10 
+episode max | avg | min reward: 0.40 | -1.02 | -100.00 
+T = 5.113806 
+
+---------------------------------------
+
+Episode 107 ==> CRASH {-1.18,-0.77,-2.25}    07/10/2022 06:51:52
+episode time: 6.69 s (avg step: 0.05 s) 
+episode steps: 129 
+episode reward: -111.60 
+episode max | avg | min reward: 0.40 | -0.87 | -100.00 
+T = 5.037098 
+
+---------------------------------------
+
+Episode 108 ==> CRASH {-1.16,-0.75,7.68}    07/10/2022 06:51:59
+episode time: 6.79 s (avg step: 0.06 s) 
+episode steps: 112 
+episode reward: -105.50 
+episode max | avg | min reward: 0.40 | -0.95 | -100.00 
+T = 4.961542 
+
+---------------------------------------
+
+Episode 109 ==> CRASH {-1.19,-0.99,8.64}    07/10/2022 06:52:06
+episode time: 7.11 s (avg step: 0.06 s) 
+episode steps: 124 
+episode reward: -116.40 
+episode max | avg | min reward: 0.40 | -0.95 | -100.00 
+T = 4.887119 
+
+---------------------------------------
+
+Episode 110 ==> CRASH {-1.15,-0.93,4.42}    07/10/2022 06:52:13
+episode time: 7.15 s (avg step: 0.05 s) 
+episode steps: 131 
+episode reward: -116.90 
+episode max | avg | min reward: 0.40 | -0.90 | -100.00 
+T = 4.813812 
+
+---------------------------------------
+
+Episode 111 ==> CRASH {0.09,0.60,45.35}    07/10/2022 06:52:31
+episode time: 18.10 s (avg step: 0.05 s) 
+episode steps: 335 
+episode reward: -133.60 
+episode max | avg | min reward: 0.40 | -0.40 | -100.00 
+T = 4.741605 
+
+---------------------------------------
+
+Episode 112 ==> CRASH {0.05,0.52,18.13}    07/10/2022 06:52:50
+episode time: 17.79 s (avg step: 0.04 s) 
+episode steps: 443 
+episode reward: -132.80 
+episode max | avg | min reward: 0.40 | -0.30 | -100.00 
+T = 4.670481 
+
+---------------------------------------
+
+Episode 113 ==> CRASH {0.97,-1.46,-105.82}    07/10/2022 06:53:25
+episode time: 34.95 s (avg step: 0.04 s) 
+episode steps: 959 
+episode reward: -115.70 
+episode max | avg | min reward: 0.40 | -0.12 | -100.00 
+T = 4.600424 
+
+---------------------------------------
+
+Episode 114 ==> CRASH {-1.17,-0.92,-0.92}    07/10/2022 06:53:32
+episode time: 7.50 s (avg step: 0.03 s) 
+episode steps: 215 
+episode reward: -125.00 
+episode max | avg | min reward: 0.40 | -0.58 | -100.00 
+T = 4.531417 
+
+---------------------------------------
+
+Episode 115 ==> CRASH {-0.76,-2.08,-55.19}    07/10/2022 06:53:45
+episode time: 12.15 s (avg step: 0.04 s) 
+episode steps: 344 
+episode reward: -121.80 
+episode max | avg | min reward: 0.40 | -0.36 | -100.00 
+T = 4.463446 
+
+---------------------------------------
+
+Episode 116 ==> CRASH {-1.07,-1.49,-34.62}    07/10/2022 06:53:54
+episode time: 9.33 s (avg step: 0.04 s) 
+episode steps: 266 
+episode reward: -128.20 
+episode max | avg | min reward: 0.40 | -0.48 | -100.00 
+T = 4.396494 
+
+---------------------------------------
+
+Episode 117 ==> CRASH {-1.21,-1.36,-12.63}    07/10/2022 06:54:01
+episode time: 6.84 s (avg step: 0.04 s) 
+episode steps: 195 
+episode reward: -116.00 
+episode max | avg | min reward: 0.40 | -0.60 | -100.00 
+T = 4.330547 
+
+---------------------------------------
+
+Episode 118 ==> CRASH {-1.19,-1.34,-21.10}    07/10/2022 06:54:09
+episode time: 8.42 s (avg step: 0.03 s) 
+episode steps: 242 
+episode reward: -125.80 
+episode max | avg | min reward: 0.40 | -0.52 | -100.00 
+T = 4.265589 
+
+---------------------------------------
+
+Episode 119 ==> CRASH {-1.09,-0.79,41.48}    07/10/2022 06:54:17
+episode time: 7.75 s (avg step: 0.03 s) 
+episode steps: 222 
+episode reward: -116.20 
+episode max | avg | min reward: 0.40 | -0.53 | -100.00 
+T = 4.201605 
+
+---------------------------------------
+
+Episode 120 ==> CRASH {0.06,0.35,31.84}    07/10/2022 06:54:36
+episode time: 18.28 s (avg step: 0.04 s) 
+episode steps: 520 
+episode reward: -148.30 
+episode max | avg | min reward: 0.40 | -0.29 | -100.00 
+T = 4.138581 
+
+---------------------------------------
+
+Episode 121 ==> CRASH {-1.10,-0.85,42.98}    07/10/2022 06:54:43
+episode time: 7.49 s (avg step: 0.04 s) 
+episode steps: 212 
+episode reward: -120.60 
+episode max | avg | min reward: 0.40 | -0.57 | -100.00 
+T = 4.076502 
+
+---------------------------------------
+
+Episode 122 ==> CRASH {-1.21,-1.39,-14.53}    07/10/2022 06:54:51
+episode time: 7.43 s (avg step: 0.04 s) 
+episode steps: 210 
+episode reward: -115.40 
+episode max | avg | min reward: 0.40 | -0.55 | -100.00 
+T = 4.015355 
+
+---------------------------------------
+
+Episode 123 ==> CRASH {-1.09,2.04,114.41}    07/10/2022 06:55:14
+episode time: 23.33 s (avg step: 0.04 s) 
+episode steps: 662 
+episode reward: -140.40 
+episode max | avg | min reward: 0.40 | -0.21 | -100.00 
+T = 3.955124 
+
+---------------------------------------
+
+Episode 124 ==> CRASH {-1.42,-1.43,-66.37}    07/10/2022 06:55:21
+episode time: 6.99 s (avg step: 0.04 s) 
+episode steps: 195 
+episode reward: -116.90 
+episode max | avg | min reward: 0.40 | -0.60 | -100.00 
+T = 3.895797 
+
+---------------------------------------
+
+Episode 125 ==> CRASH {-0.88,-2.02,-68.00}    07/10/2022 06:55:33
+episode time: 11.77 s (avg step: 0.04 s) 
+episode steps: 334 
+episode reward: -123.80 
+episode max | avg | min reward: 0.40 | -0.37 | -100.00 
+T = 3.837360 
+
+---------------------------------------
+
+Episode 126 ==> CRASH {-0.85,-2.00,-75.25}    07/10/2022 06:55:45
+episode time: 12.29 s (avg step: 0.04 s) 
+episode steps: 346 
+episode reward: -129.90 
+episode max | avg | min reward: 0.40 | -0.38 | -100.00 
+T = 3.779800 
+
+---------------------------------------
+
+Episode 127 ==> CRASH {-1.21,-1.12,24.41}    07/10/2022 06:55:52
+episode time: 6.81 s (avg step: 0.04 s) 
+episode steps: 192 
+episode reward: -118.10 
+episode max | avg | min reward: 0.40 | -0.62 | -100.00 
+T = 3.723103 
+
+---------------------------------------
+
+Episode 128 ==> CRASH {-1.16,-1.48,-98.18}    07/10/2022 06:56:01
+episode time: 8.51 s (avg step: 0.04 s) 
+episode steps: 236 
+episode reward: -122.00 
+episode max | avg | min reward: 0.40 | -0.52 | -100.00 
+T = 3.667256 
+
+---------------------------------------
+
+Episode 129 ==> CRASH {-1.18,-0.97,27.68}    07/10/2022 06:56:08
+episode time: 7.06 s (avg step: 0.03 s) 
+episode steps: 202 
+episode reward: -128.00 
+episode max | avg | min reward: 0.40 | -0.64 | -100.00 
+T = 3.612248 
+
+---------------------------------------
+
+Episode 130 ==> CRASH {-1.11,-1.58,-92.47}    07/10/2022 06:56:16
+episode time: 8.56 s (avg step: 0.04 s) 
+episode steps: 243 
+episode reward: -119.40 
+episode max | avg | min reward: 0.40 | -0.49 | -100.00 
+T = 3.558064 
+
+---------------------------------------
+
+Episode 131 ==> CRASH {-1.19,-1.09,20.14}    07/10/2022 06:56:23
+episode time: 6.93 s (avg step: 0.06 s) 
+episode steps: 107 
+episode reward: -107.90 
+episode max | avg | min reward: 0.40 | -1.02 | -100.00 
+T = 3.504693 
+
+---------------------------------------
+
+Episode 132 ==> CRASH {-1.04,-2.02,-66.73}    07/10/2022 06:56:34
+episode time: 10.33 s (avg step: 0.06 s) 
+episode steps: 178 
+episode reward: -108.50 
+episode max | avg | min reward: 0.40 | -0.61 | -100.00 
+T = 3.452123 
+
+---------------------------------------
+
+Episode 133 ==> CRASH {-0.79,-2.08,-61.20}    07/10/2022 06:56:45
+episode time: 10.89 s (avg step: 0.05 s) 
+episode steps: 212 
+episode reward: -111.70 
+episode max | avg | min reward: 0.40 | -0.53 | -100.00 
+T = 3.400341 
+
+---------------------------------------
+
+Episode 134 ==> CRASH {-0.63,-2.14,-44.30}    07/10/2022 06:56:59
+episode time: 13.47 s (avg step: 0.05 s) 
+episode steps: 290 
+episode reward: -128.40 
+episode max | avg | min reward: 0.40 | -0.44 | -100.00 
+T = 3.349336 
+
+---------------------------------------
+
+Episode 135 ==> CRASH {-0.62,-2.15,-42.72}    07/10/2022 06:57:11
+episode time: 11.81 s (avg step: 0.06 s) 
+episode steps: 189 
+episode reward: -118.50 
+episode max | avg | min reward: 0.40 | -0.63 | -100.00 
+T = 3.299096 
+
+---------------------------------------
+
+Episode 136 ==> CRASH {-0.69,-2.14,-41.58}    07/10/2022 06:57:24
+episode time: 13.53 s (avg step: 0.07 s) 
+episode steps: 204 
+episode reward: -118.20 
+episode max | avg | min reward: 0.40 | -0.58 | -100.00 
+T = 3.249609 
+
+---------------------------------------
+
+Episode 137 ==> CRASH {-1.19,-0.94,9.05}    07/10/2022 06:57:31
+episode time: 6.91 s (avg step: 0.06 s) 
+episode steps: 113 
+episode reward: -112.00 
+episode max | avg | min reward: 0.40 | -1.00 | -100.00 
+T = 3.200865 
+
+---------------------------------------
+
+Episode 138 ==> CRASH {-0.65,-2.15,-40.53}    07/10/2022 06:57:46
+episode time: 14.61 s (avg step: 0.05 s) 
+episode steps: 276 
+episode reward: -120.80 
+episode max | avg | min reward: 0.40 | -0.44 | -100.00 
+T = 3.152852 
+
+---------------------------------------
+
+Episode 139 ==> CRASH {-1.20,-1.27,17.05}    07/10/2022 06:57:54
+episode time: 7.96 s (avg step: 0.06 s) 
+episode steps: 138 
+episode reward: -114.20 
+episode max | avg | min reward: 0.40 | -0.83 | -100.00 
+T = 3.105559 
+
+---------------------------------------
+
+Episode 140 ==> CRASH {-0.70,-2.13,-38.21}    07/10/2022 06:58:08
+episode time: 13.82 s (avg step: 0.06 s) 
+episode steps: 234 
+episode reward: -122.00 
+episode max | avg | min reward: 0.40 | -0.52 | -100.00 
+T = 3.058976 
+
+---------------------------------------
+
+Episode 141 ==> CRASH {-0.73,-2.14,-43.30}    07/10/2022 06:58:21
+episode time: 12.52 s (avg step: 0.06 s) 
+episode steps: 214 
+episode reward: -116.00 
+episode max | avg | min reward: 0.40 | -0.54 | -100.00 
+T = 3.013091 
+
+---------------------------------------
+
+Episode 142 ==> CRASH {-0.96,-2.01,-73.27}    07/10/2022 06:58:31
+episode time: 10.28 s (avg step: 0.05 s) 
+episode steps: 205 
+episode reward: -115.50 
+episode max | avg | min reward: 0.40 | -0.57 | -100.00 
+T = 2.967895 
+
+---------------------------------------
+
+Episode 143 ==> CRASH {-1.04,0.45,112.33}    07/10/2022 06:58:47
+episode time: 15.99 s (avg step: 0.06 s) 
+episode steps: 262 
+episode reward: -125.30 
+episode max | avg | min reward: 0.40 | -0.48 | -100.00 
+T = 2.923376 
+
+---------------------------------------
+
+Episode 144 ==> CRASH {-1.10,-0.90,41.36}    07/10/2022 06:58:54
+episode time: 7.12 s (avg step: 0.06 s) 
+episode steps: 112 
+episode reward: -112.00 
+episode max | avg | min reward: 0.40 | -1.01 | -100.00 
+T = 2.879526 
+
+---------------------------------------
+
+Episode 145 ==> CRASH {0.04,0.50,68.95}    07/10/2022 06:59:12
+episode time: 17.75 s (avg step: 0.05 s) 
+episode steps: 339 
+episode reward: -128.00 
+episode max | avg | min reward: 0.40 | -0.38 | -100.00 
+T = 2.836333 
+
+---------------------------------------
+
+Episode 146 ==> CRASH {-1.03,-2.04,-62.53}    07/10/2022 06:59:23
+episode time: 10.40 s (avg step: 0.06 s) 
+episode steps: 187 
+episode reward: -105.30 
+episode max | avg | min reward: 0.40 | -0.57 | -100.00 
+T = 2.793788 
+
+---------------------------------------
+
+Episode 147 ==> CRASH {-1.20,-0.94,14.65}    07/10/2022 06:59:30
+episode time: 7.36 s (avg step: 0.06 s) 
+episode steps: 133 
+episode reward: -115.80 
+episode max | avg | min reward: 0.40 | -0.88 | -100.00 
+T = 2.751881 
+
+---------------------------------------
+
+Episode 148 ==> CRASH {-0.69,-2.13,-38.39}    07/10/2022 06:59:44
+episode time: 13.72 s (avg step: 0.05 s) 
+episode steps: 293 
+episode reward: -121.30 
+episode max | avg | min reward: 0.40 | -0.42 | -100.00 
+T = 2.710603 
+
+---------------------------------------
+
+Episode 149 ==> CRASH {-0.62,-2.15,-44.76}    07/10/2022 06:59:57
+episode time: 13.07 s (avg step: 0.05 s) 
+episode steps: 256 
+episode reward: -121.50 
+episode max | avg | min reward: 0.40 | -0.48 | -100.00 
+T = 2.669944 
+
+---------------------------------------
+
+Episode 150 ==> CRASH {-1.19,-0.92,-1.67}    07/10/2022 07:00:05
+episode time: 7.07 s (avg step: 0.06 s) 
+episode steps: 125 
+episode reward: -105.10 
+episode max | avg | min reward: 0.40 | -0.85 | -100.00 
+T = 2.629895 
+
+---------------------------------------
+
+Episode 151 ==> CRASH {-0.60,-2.14,-40.81}    07/10/2022 07:00:19
+episode time: 14.11 s (avg step: 0.05 s) 
+episode steps: 304 
+episode reward: -123.10 
+episode max | avg | min reward: 0.40 | -0.41 | -100.00 
+T = 2.590446 
+
+---------------------------------------
+
+Episode 152 ==> CRASH {0.04,0.57,23.78}    07/10/2022 07:00:40
+episode time: 20.74 s (avg step: 0.05 s) 
+episode steps: 435 
+episode reward: -136.50 
+episode max | avg | min reward: 0.40 | -0.31 | -100.00 
+T = 2.551590 
+
+---------------------------------------
+
+Episode 153 ==> CRASH {-1.20,-0.91,-13.82}    07/10/2022 07:00:46
+episode time: 6.37 s (avg step: 0.05 s) 
+episode steps: 139 
+episode reward: -110.40 
+episode max | avg | min reward: 0.40 | -0.80 | -100.00 
+T = 2.513316 
+
+---------------------------------------
+
+Episode 154 ==> CRASH {-1.20,-1.05,15.47}    07/10/2022 07:00:53
+episode time: 6.43 s (avg step: 0.05 s) 
+episode steps: 117 
+episode reward: -113.50 
+episode max | avg | min reward: 0.40 | -0.98 | -100.00 
+T = 2.475616 
+
+---------------------------------------
+
+Episode 155 ==> CRASH {-0.59,-2.15,-41.68}    07/10/2022 07:01:07
+episode time: 14.63 s (avg step: 0.06 s) 
+episode steps: 251 
+episode reward: -128.20 
+episode max | avg | min reward: 0.40 | -0.51 | -100.00 
+T = 2.438482 
+
+---------------------------------------
+
+Episode 156 ==> CRASH {-0.62,-2.17,-38.81}    07/10/2022 07:01:21
+episode time: 13.19 s (avg step: 0.06 s) 
+episode steps: 209 
+episode reward: -115.60 
+episode max | avg | min reward: 0.40 | -0.56 | -100.00 
+T = 2.401904 
+
+---------------------------------------
+
+Episode 157 ==> CRASH {-1.98,1.75,-120.22}    07/10/2022 07:01:50
+episode time: 28.80 s (avg step: 0.06 s) 
+episode steps: 506 
+episode reward: -138.00 
+episode max | avg | min reward: 0.40 | -0.27 | -100.00 
+T = 2.365876 
+
+---------------------------------------
+
+Episode 158 ==> CRASH {-0.58,-2.16,-38.12}    07/10/2022 07:02:02
+episode time: 12.23 s (avg step: 0.06 s) 
+episode steps: 205 
+episode reward: -105.60 
+episode max | avg | min reward: 0.40 | -0.52 | -100.00 
+T = 2.330388 
+
+---------------------------------------
+
+Episode 159 ==> CRASH {-1.19,-1.05,14.92}    07/10/2022 07:02:09
+episode time: 7.16 s (avg step: 0.05 s) 
+episode steps: 131 
+episode reward: -111.20 
+episode max | avg | min reward: 0.40 | -0.86 | -100.00 
+T = 2.295432 
+
+---------------------------------------
+
+Episode 160 ==> CRASH {-0.52,-2.20,-34.13}    07/10/2022 07:02:22
+episode time: 11.99 s (avg step: 0.06 s) 
+episode steps: 212 
+episode reward: -111.00 
+episode max | avg | min reward: 0.40 | -0.53 | -100.00 
+T = 2.261000 
+
+---------------------------------------
+
+Episode 161 ==> CRASH {-1.19,-1.07,16.95}    07/10/2022 07:02:27
+episode time: 5.78 s (avg step: 0.06 s) 
+episode steps: 99 
+episode reward: -107.60 
+episode max | avg | min reward: 0.40 | -1.10 | -100.00 
+T = 2.227085 
+
+---------------------------------------
+
+Episode 162 ==> CRASH {-0.59,-2.15,-40.66}    07/10/2022 07:02:42
+episode time: 14.19 s (avg step: 0.05 s) 
+episode steps: 280 
+episode reward: -126.40 
+episode max | avg | min reward: 0.40 | -0.45 | -100.00 
+T = 2.193679 
+
+---------------------------------------
+
+Episode 163 ==> CRASH {0.07,0.56,15.95}    07/10/2022 07:03:01
+episode time: 19.29 s (avg step: 0.05 s) 
+episode steps: 351 
+episode reward: -114.80 
+episode max | avg | min reward: 0.40 | -0.33 | -100.00 
+T = 2.160774 
+
+---------------------------------------
+
+Episode 164 ==> CRASH {-1.18,-1.05,-3.61}    07/10/2022 07:03:08
+episode time: 6.16 s (avg step: 0.06 s) 
+episode steps: 105 
+episode reward: -106.70 
+episode max | avg | min reward: 0.40 | -1.03 | -100.00 
+T = 2.128362 
+
+---------------------------------------
+
+Episode 165 ==> CRASH {-0.60,-2.14,-42.31}    07/10/2022 07:03:21
+episode time: 13.79 s (avg step: 0.05 s) 
+episode steps: 288 
+episode reward: -115.00 
+episode max | avg | min reward: 0.40 | -0.40 | -100.00 
+T = 2.096437 
+
+---------------------------------------
+
+Episode 166 ==> CRASH {-0.68,-2.15,-42.47}    07/10/2022 07:03:36
+episode time: 14.67 s (avg step: 0.05 s) 
+episode steps: 324 
+episode reward: -127.00 
+episode max | avg | min reward: 0.40 | -0.39 | -100.00 
+T = 2.064990 
+
+---------------------------------------
+
+Episode 167 ==> CRASH {-0.61,-2.15,-42.46}    07/10/2022 07:03:50
+episode time: 13.81 s (avg step: 0.05 s) 
+episode steps: 267 
+episode reward: -122.40 
+episode max | avg | min reward: 0.40 | -0.46 | -100.00 
+T = 2.034016 
+
+---------------------------------------
+
+Episode 168 ==> CRASH {-0.59,-2.15,-43.05}    07/10/2022 07:04:04
+episode time: 13.66 s (avg step: 0.06 s) 
+episode steps: 245 
+episode reward: -127.00 
+episode max | avg | min reward: 0.40 | -0.52 | -100.00 
+T = 2.003505 
+
+---------------------------------------
+
+Episode 169 ==> CRASH {-0.55,-2.10,-53.41}    07/10/2022 07:04:17
+episode time: 12.94 s (avg step: 0.05 s) 
+episode steps: 255 
+episode reward: -110.60 
+episode max | avg | min reward: 0.40 | -0.44 | -100.00 
+T = 1.973453 
+
+---------------------------------------
+
+Episode 170 ==> CRASH {-0.02,0.67,30.59}    07/10/2022 07:04:35
+episode time: 17.42 s (avg step: 0.05 s) 
+episode steps: 373 
+episode reward: -122.60 
+episode max | avg | min reward: 0.40 | -0.33 | -100.00 
+T = 1.943851 
+
+---------------------------------------
+
+Episode 171 ==> CRASH {-1.19,-0.93,23.37}    07/10/2022 07:04:42
+episode time: 6.91 s (avg step: 0.07 s) 
+episode steps: 104 
+episode reward: -108.40 
+episode max | avg | min reward: 0.40 | -1.05 | -100.00 
+T = 1.914693 
+
+---------------------------------------
+
+Episode 172 ==> CRASH {-1.18,-1.02,24.19}    07/10/2022 07:04:49
+episode time: 6.97 s (avg step: 0.06 s) 
+episode steps: 119 
+episode reward: -107.90 
+episode max | avg | min reward: 0.40 | -0.91 | -100.00 
+T = 1.885973 
+
+---------------------------------------
+
+Episode 173 ==> CRASH {-1.18,-1.00,7.10}    07/10/2022 07:04:56
+episode time: 6.80 s (avg step: 0.06 s) 
+episode steps: 121 
+episode reward: -115.30 
+episode max | avg | min reward: 0.40 | -0.96 | -100.00 
+T = 1.857683 
+
+---------------------------------------
+
+Episode 174 ==> CRASH {-1.20,-1.00,12.83}    07/10/2022 07:05:02
+episode time: 6.25 s (avg step: 0.05 s) 
+episode steps: 130 
+episode reward: -107.00 
+episode max | avg | min reward: 0.40 | -0.83 | -100.00 
+T = 1.829818 
+
+---------------------------------------
+
+Episode 175 ==> CRASH {-1.18,-1.08,4.18}    07/10/2022 07:05:09
+episode time: 6.75 s (avg step: 0.05 s) 
+episode steps: 146 
+episode reward: -110.90 
+episode max | avg | min reward: 0.40 | -0.76 | -100.00 
+T = 1.802371 
+
+---------------------------------------
+
+Episode 176 ==> CRASH {-1.18,-1.11,-3.44}    07/10/2022 07:05:15
+episode time: 6.30 s (avg step: 0.06 s) 
+episode steps: 101 
+episode reward: -109.80 
+episode max | avg | min reward: 0.40 | -1.10 | -100.00 
+T = 1.775335 
+
+---------------------------------------
+
+Episode 177 ==> CRASH {-0.60,-2.15,-43.88}    07/10/2022 07:05:31
+episode time: 15.16 s (avg step: 0.05 s) 
+episode steps: 303 
+episode reward: -125.30 
+episode max | avg | min reward: 0.40 | -0.41 | -100.00 
+T = 1.748705 
+
+---------------------------------------
+
+Episode 178 ==> CRASH {-1.17,-1.06,-6.35}    07/10/2022 07:05:37
+episode time: 6.60 s (avg step: 0.05 s) 
+episode steps: 122 
+episode reward: -110.10 
+episode max | avg | min reward: 0.40 | -0.91 | -100.00 
+T = 1.722475 
+
+---------------------------------------
+
+Episode 179 ==> CRASH {-1.17,-1.04,-6.58}    07/10/2022 07:05:44
+episode time: 6.70 s (avg step: 0.06 s) 
+episode steps: 117 
+episode reward: -115.80 
+episode max | avg | min reward: 0.40 | -1.00 | -100.00 
+T = 1.696637 
+
+---------------------------------------
+
+Episode 180 ==> CRASH {-1.17,-1.05,-1.77}    07/10/2022 07:05:50
+episode time: 6.25 s (avg step: 0.05 s) 
+episode steps: 123 
+episode reward: -105.80 
+episode max | avg | min reward: 0.40 | -0.87 | -100.00 
+T = 1.671188 
+
+---------------------------------------
+
+Episode 181 ==> CRASH {-1.20,-1.10,24.39}    07/10/2022 07:05:56
+episode time: 5.66 s (avg step: 0.06 s) 
+episode steps: 96 
+episode reward: -103.80 
+episode max | avg | min reward: 0.40 | -1.09 | -100.00 
+T = 1.646120 
+
+---------------------------------------
+
+Episode 182 ==> CRASH {-0.60,-2.16,-42.76}    07/10/2022 07:06:10
+episode time: 13.90 s (avg step: 0.06 s) 
+episode steps: 231 
+episode reward: -118.90 
+episode max | avg | min reward: 0.40 | -0.52 | -100.00 
+T = 1.621428 
+
+---------------------------------------
+
+Episode 183 ==> CRASH {-0.67,-2.15,-43.18}    07/10/2022 07:06:23
+episode time: 12.36 s (avg step: 0.05 s) 
+episode steps: 249 
+episode reward: -117.20 
+episode max | avg | min reward: 0.40 | -0.47 | -100.00 
+T = 1.597107 
+
+---------------------------------------
+
+Episode 184 ==> CRASH {-1.19,-0.97,-4.23}    07/10/2022 07:06:29
+episode time: 6.25 s (avg step: 0.06 s) 
+episode steps: 100 
+episode reward: -109.80 
+episode max | avg | min reward: 0.40 | -1.11 | -100.00 
+T = 1.573150 
+
+---------------------------------------
+
+Episode 185 ==> CRASH {-0.69,-2.13,-41.39}    07/10/2022 07:06:43
+episode time: 13.56 s (avg step: 0.04 s) 
+episode steps: 327 
+episode reward: -121.30 
+episode max | avg | min reward: 0.40 | -0.37 | -100.00 
+T = 1.549553 
+
+---------------------------------------
+
+Episode 186 ==> CRASH {-0.60,-2.13,-44.51}    07/10/2022 07:06:57
+episode time: 13.96 s (avg step: 0.05 s) 
+episode steps: 280 
+episode reward: -124.50 
+episode max | avg | min reward: 0.40 | -0.45 | -100.00 
+T = 1.526310 
+
+---------------------------------------
+
+Episode 187 ==> CRASH {-0.68,-2.12,-44.32}    07/10/2022 07:07:10
+episode time: 13.47 s (avg step: 0.06 s) 
+episode steps: 210 
+episode reward: -122.80 
+episode max | avg | min reward: 0.40 | -0.59 | -100.00 
+T = 1.503415 
+
+---------------------------------------
+
+Episode 188 ==> CRASH {-1.17,-0.85,12.10}    07/10/2022 07:07:16
+episode time: 5.85 s (avg step: 0.06 s) 
+episode steps: 96 
+episode reward: -106.10 
+episode max | avg | min reward: 0.40 | -1.12 | -100.00 
+T = 1.480864 
+
+---------------------------------------
+
+Episode 189 ==> CRASH {-0.46,-2.13,-40.86}    07/10/2022 07:07:33
+episode time: 16.31 s (avg step: 0.06 s) 
+episode steps: 295 
+episode reward: -127.50 
+episode max | avg | min reward: 0.40 | -0.43 | -100.00 
+T = 1.458651 
+
+---------------------------------------
+
+Episode 190 ==> CRASH {-0.61,-2.13,-41.60}    07/10/2022 07:07:46
+episode time: 13.38 s (avg step: 0.05 s) 
+episode steps: 279 
+episode reward: -122.70 
+episode max | avg | min reward: 0.40 | -0.44 | -100.00 
+T = 1.436771 
+
+---------------------------------------
+
+Episode 191 ==> CRASH {-0.56,-2.17,-39.86}    07/10/2022 07:08:00
+episode time: 13.70 s (avg step: 0.05 s) 
+episode steps: 265 
+episode reward: -121.20 
+episode max | avg | min reward: 0.40 | -0.46 | -100.00 
+T = 1.415219 
+
+---------------------------------------
+
+Episode 192 ==> CRASH {-0.68,-2.12,-41.26}    07/10/2022 07:08:13
+episode time: 12.91 s (avg step: 0.06 s) 
+episode steps: 222 
+episode reward: -121.90 
+episode max | avg | min reward: 0.40 | -0.55 | -100.00 
+T = 1.393991 
+
+---------------------------------------
+
+Episode 193 ==> CRASH {-0.68,-2.12,-42.35}    07/10/2022 07:08:27
+episode time: 13.46 s (avg step: 0.05 s) 
+episode steps: 258 
+episode reward: -115.50 
+episode max | avg | min reward: 0.40 | -0.45 | -100.00 
+T = 1.373081 
+
+---------------------------------------
+
+Episode 194 ==> CRASH {-1.20,-1.01,15.79}    07/10/2022 07:08:34
+episode time: 6.83 s (avg step: 0.06 s) 
+episode steps: 115 
+episode reward: -107.20 
+episode max | avg | min reward: 0.40 | -0.94 | -100.00 
+T = 1.352485 
+
+---------------------------------------
+
+Episode 195 ==> CRASH {-1.18,-0.87,14.49}    07/10/2022 07:08:41
+episode time: 6.68 s (avg step: 0.06 s) 
+episode steps: 118 
+episode reward: -106.80 
+episode max | avg | min reward: 0.40 | -0.91 | -100.00 
+T = 1.332198 
+
+---------------------------------------
+
+Episode 196 ==> CRASH {-1.19,-0.94,13.94}    07/10/2022 07:08:46
+episode time: 5.57 s (avg step: 0.06 s) 
+episode steps: 101 
+episode reward: -102.40 
+episode max | avg | min reward: 0.40 | -1.02 | -100.00 
+T = 1.312215 
+
+---------------------------------------
+
+Episode 197 ==> CRASH {-1.12,-0.57,32.95}    07/10/2022 07:08:53
+episode time: 6.33 s (avg step: 0.06 s) 
+episode steps: 105 
+episode reward: -100.00 
+episode max | avg | min reward: 0.40 | -0.96 | -100.00 
+T = 1.292532 
+
+---------------------------------------
+
+Episode 198 ==> CRASH {-1.96,2.02,112.14}    07/10/2022 07:09:22
+episode time: 28.98 s (avg step: 0.05 s) 
+episode steps: 531 
+episode reward: -154.20 
+episode max | avg | min reward: 0.40 | -0.29 | -100.00 
+T = 1.273144 
+
+---------------------------------------
+
+Episode 199 ==> CRASH {0.08,0.26,-0.19}    07/10/2022 07:09:37
+episode time: 15.47 s (avg step: 0.06 s) 
+episode steps: 266 
+episode reward: -120.40 
+episode max | avg | min reward: 0.40 | -0.45 | -100.00 
+T = 1.254047 
+
+---------------------------------------
+
+Episode 200 ==> CRASH {-1.13,-0.62,31.19}    07/10/2022 07:09:45
+episode time: 7.22 s (avg step: 0.06 s) 
+episode steps: 131 
+episode reward: -111.40 
+episode max | avg | min reward: 0.40 | -0.86 | -100.00 
+T = 1.235236 
+
+---------------------------------------
+
+Episode 201 ==> CRASH {-1.12,-0.59,34.79}    07/10/2022 07:09:53
+episode time: 7.69 s (avg step: 0.07 s) 
+episode steps: 118 
+episode reward: -107.80 
+episode max | avg | min reward: 0.40 | -0.92 | -100.00 
+T = 1.216707 
+
+---------------------------------------
+
+Episode 202 ==> CRASH {-2.01,2.14,135.39}    07/10/2022 07:10:21
+episode time: 27.86 s (avg step: 0.05 s) 
+episode steps: 587 
+episode reward: -139.70 
+episode max | avg | min reward: 0.40 | -0.24 | -100.00 
+T = 1.198457 
+
+---------------------------------------
+
+Episode 203 ==> CRASH {-1.96,2.06,122.41}    07/10/2022 07:10:45
+episode time: 24.02 s (avg step: 0.05 s) 
+episode steps: 506 
+episode reward: -132.90 
+episode max | avg | min reward: 0.40 | -0.26 | -100.00 
+T = 1.180480 
+
+---------------------------------------
+
+Episode 204 ==> CRASH {2.14,1.60,-45.32}    07/10/2022 07:11:26
+episode time: 40.83 s (avg step: 0.05 s) 
+episode steps: 895 
+episode reward: -132.80 
+episode max | avg | min reward: 0.40 | -0.15 | -100.00 
+T = 1.162773 
+
+---------------------------------------
+
+Episode 205 ==> CRASH {-2.05,2.15,135.66}    07/10/2022 07:11:53
+episode time: 27.21 s (avg step: 0.05 s) 
+episode steps: 518 
+episode reward: -134.60 
+episode max | avg | min reward: 0.40 | -0.26 | -100.00 
+T = 1.145331 
+
+---------------------------------------
+
+Episode 206 ==> CRASH {2.15,1.46,-53.81}    07/10/2022 07:12:37
+episode time: 43.59 s (avg step: 0.06 s) 
+episode steps: 759 
+episode reward: -146.00 
+episode max | avg | min reward: 0.40 | -0.19 | -100.00 
+T = 1.128151 
+
+---------------------------------------
+
+Episode 207 ==> CRASH {-2.05,1.91,-146.49}    07/10/2022 07:13:05
+episode time: 27.28 s (avg step: 0.06 s) 
+episode steps: 472 
+episode reward: -119.30 
+episode max | avg | min reward: 0.40 | -0.25 | -100.00 
+T = 1.111229 
+
+---------------------------------------
+
+Episode 208 ==> CRASH {-1.03,0.82,121.62}    07/10/2022 07:13:22
+episode time: 17.17 s (avg step: 0.05 s) 
+episode steps: 322 
+episode reward: -121.50 
+episode max | avg | min reward: 0.40 | -0.38 | -100.00 
+T = 1.094560 
+
+---------------------------------------
+
+Episode 209 ==> CRASH {-2.02,2.10,149.07}    07/10/2022 07:13:47
+episode time: 25.06 s (avg step: 0.06 s) 
+episode steps: 416 
+episode reward: -135.40 
+episode max | avg | min reward: 0.40 | -0.33 | -100.00 
+T = 1.078142 
+
+---------------------------------------
+
+Episode 210 ==> CRASH {-1.96,2.09,128.57}    07/10/2022 07:14:11
+episode time: 23.42 s (avg step: 0.05 s) 
+episode steps: 438 
+episode reward: -128.20 
+episode max | avg | min reward: 0.40 | -0.29 | -100.00 
+T = 1.061970 
+
+---------------------------------------
+
+Episode 211 ==> CRASH {0.08,0.46,15.84}    07/10/2022 07:14:28
+episode time: 16.32 s (avg step: 0.05 s) 
+episode steps: 332 
+episode reward: -108.50 
+episode max | avg | min reward: 0.40 | -0.33 | -100.00 
+T = 1.046040 
+
+---------------------------------------
+
+Episode 212 ==> CRASH {-1.99,2.12,130.59}    07/10/2022 07:14:54
+episode time: 26.29 s (avg step: 0.05 s) 
+episode steps: 490 
+episode reward: -140.40 
+episode max | avg | min reward: 0.40 | -0.29 | -100.00 
+T = 1.030350 
+
+---------------------------------------
+
+Episode 213 ==> CRASH {-2.05,2.16,149.82}    07/10/2022 07:15:23
+episode time: 28.61 s (avg step: 0.05 s) 
+episode steps: 564 
+episode reward: -151.10 
+episode max | avg | min reward: 0.40 | -0.27 | -100.00 
+T = 1.014894 
+
+---------------------------------------
+
+Episode 214 ==> CRASH {-2.04,2.12,132.52}    07/10/2022 07:15:50
+episode time: 27.18 s (avg step: 0.05 s) 
+episode steps: 543 
+episode reward: -122.90 
+episode max | avg | min reward: 0.40 | -0.23 | -100.00 
+T = 0.999671 
+
+---------------------------------------
+
+Episode 215 ==> CRASH {-2.17,1.80,-128.88}    07/10/2022 07:16:16
+episode time: 25.16 s (avg step: 0.05 s) 
+episode steps: 465 
+episode reward: -116.90 
+episode max | avg | min reward: 0.40 | -0.25 | -100.00 
+T = 0.984676 
+
+---------------------------------------
+
+Episode 216 ==> CRASH {-1.01,2.04,90.31}    07/10/2022 07:16:34
+episode time: 18.28 s (avg step: 0.06 s) 
+episode steps: 309 
+episode reward: -104.00 
+episode max | avg | min reward: 0.40 | -0.34 | -100.00 
+T = 0.969906 
+
+---------------------------------------
+
+Episode 217 ==> CRASH {0.10,0.51,10.21}    07/10/2022 07:16:50
+episode time: 15.80 s (avg step: 0.06 s) 
+episode steps: 268 
+episode reward: -101.50 
+episode max | avg | min reward: 0.40 | -0.38 | -100.00 
+T = 0.955357 
+
+---------------------------------------
+
+Episode 218 ==> CRASH {2.07,-2.06,-68.11}    07/10/2022 07:17:51
+episode time: 60.78 s (avg step: 0.06 s) 
+episode steps: 1093 
+episode reward: -147.90 
+episode max | avg | min reward: 0.40 | -0.14 | -100.00 
+T = 0.941027 
+
+---------------------------------------
+
+Episode 219 ==> CRASH {-1.16,-0.70,28.02}    07/10/2022 07:17:58
+episode time: 6.73 s (avg step: 0.06 s) 
+episode steps: 105 
+episode reward: -108.80 
+episode max | avg | min reward: 0.40 | -1.05 | -100.00 
+T = 0.926911 
+
+---------------------------------------
+
+Episode 220 ==> CRASH {-1.15,-0.70,28.50}    07/10/2022 07:18:05
+episode time: 7.04 s (avg step: 0.05 s) 
+episode steps: 138 
+episode reward: -112.80 
+episode max | avg | min reward: 0.40 | -0.82 | -100.00 
+T = 0.913008 
+
+---------------------------------------
+
+Episode 221 ==> CRASH {2.09,-2.05,-66.58}    07/10/2022 07:18:36
+episode time: 30.21 s (avg step: 0.05 s) 
+episode steps: 599 
+episode reward: -144.60 
+episode max | avg | min reward: 0.40 | -0.24 | -100.00 
+T = 0.899313 
+
+---------------------------------------
+
+Episode 222 ==> CRASH {2.09,-2.05,-67.96}    07/10/2022 07:19:11
+episode time: 34.91 s (avg step: 0.05 s) 
+episode steps: 685 
+episode reward: -125.40 
+episode max | avg | min reward: 0.40 | -0.18 | -100.00 
+T = 0.885823 
+
+---------------------------------------
+
+Episode 223 ==> CRASH {-0.66,-2.14,-43.08}    07/10/2022 07:19:24
+episode time: 13.27 s (avg step: 0.05 s) 
+episode steps: 250 
+episode reward: -121.40 
+episode max | avg | min reward: 0.40 | -0.49 | -100.00 
+T = 0.872536 
+
+---------------------------------------
+
+Episode 224 ==> CRASH {-2.07,2.03,110.23}    07/10/2022 07:19:48
+episode time: 23.55 s (avg step: 0.04 s) 
+episode steps: 531 
+episode reward: -125.50 
+episode max | avg | min reward: 0.40 | -0.24 | -100.00 
+T = 0.859448 
+
+---------------------------------------
+
+Episode 225 ==> CRASH {-2.17,0.15,125.49}    07/10/2022 07:19:59
+episode time: 10.53 s (avg step: 0.06 s) 
+episode steps: 188 
+episode reward: -107.20 
+episode max | avg | min reward: 0.40 | -0.57 | -100.00 
+T = 0.846556 
+
+---------------------------------------
+
+Episode 226 ==> CRASH {-2.06,2.07,117.81}    07/10/2022 07:20:22
+episode time: 22.66 s (avg step: 0.05 s) 
+episode steps: 448 
+episode reward: -126.60 
+episode max | avg | min reward: 0.40 | -0.28 | -100.00 
+T = 0.833858 
+
+---------------------------------------
+
+Episode 227 ==> CRASH {-2.06,2.05,118.35}    07/10/2022 07:20:42
+episode time: 20.28 s (avg step: 0.05 s) 
+episode steps: 373 
+episode reward: -108.10 
+episode max | avg | min reward: 0.40 | -0.29 | -100.00 
+T = 0.821350 
+
+---------------------------------------
+
+Episode 228 ==> CRASH {1.30,-0.36,-9.52}    07/10/2022 07:21:10
+episode time: 28.11 s (avg step: 0.05 s) 
+episode steps: 520 
+episode reward: -125.80 
+episode max | avg | min reward: 0.40 | -0.24 | -100.00 
+T = 0.809029 
+
+---------------------------------------
+
+Episode 229 ==> CRASH {-2.05,2.06,113.87}    07/10/2022 07:21:32
+episode time: 21.34 s (avg step: 0.05 s) 
+episode steps: 395 
+episode reward: -111.20 
+episode max | avg | min reward: 0.40 | -0.28 | -100.00 
+T = 0.796894 
+
+---------------------------------------
+
+Episode 230 ==> CRASH {-2.05,2.05,109.87}    07/10/2022 07:21:52
+episode time: 19.66 s (avg step: 0.05 s) 
+episode steps: 376 
+episode reward: -117.30 
+episode max | avg | min reward: 0.40 | -0.31 | -100.00 
+T = 0.784941 
+
+---------------------------------------
+
+Episode 231 ==> CRASH {-2.06,2.03,114.70}    07/10/2022 07:22:15
+episode time: 23.06 s (avg step: 0.05 s) 
+episode steps: 466 
+episode reward: -130.00 
+episode max | avg | min reward: 0.40 | -0.28 | -100.00 
+T = 0.773166 
+
+---------------------------------------
+
+Episode 232 ==> CRASH {-2.17,0.19,127.03}    07/10/2022 07:22:26
+episode time: 10.77 s (avg step: 0.06 s) 
+episode steps: 186 
+episode reward: -113.10 
+episode max | avg | min reward: 0.40 | -0.61 | -100.00 
+T = 0.761569 
+
+---------------------------------------
+
+Episode 233 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 07:23:32
+episode time: 65.62 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -23.30 
+episode max | avg | min reward: 0.40 | -0.02 | -0.30 
+T = 0.750145 
+
+---------------------------------------
+
+Episode 234 ==> CRASH {-2.07,2.06,113.51}    07/10/2022 07:23:52
+episode time: 20.40 s (avg step: 0.06 s) 
+episode steps: 369 
+episode reward: -111.70 
+episode max | avg | min reward: 0.40 | -0.30 | -100.00 
+T = 0.738893 
+
+---------------------------------------
+
+Episode 235 ==> CRASH {-2.07,2.07,119.25}    07/10/2022 07:24:15
+episode time: 22.07 s (avg step: 0.05 s) 
+episode steps: 417 
+episode reward: -126.90 
+episode max | avg | min reward: 0.40 | -0.31 | -100.00 
+T = 0.727810 
+
+---------------------------------------
+
+Episode 236 ==> CRASH {-2.17,-1.36,-112.52}    07/10/2022 07:24:36
+episode time: 21.22 s (avg step: 0.06 s) 
+episode steps: 375 
+episode reward: -132.60 
+episode max | avg | min reward: 0.40 | -0.35 | -100.00 
+T = 0.716893 
+
+---------------------------------------
+
+Episode 237 ==> CRASH {2.15,1.60,-47.42}    07/10/2022 07:25:11
+episode time: 34.83 s (avg step: 0.05 s) 
+episode steps: 655 
+episode reward: -85.20 
+episode max | avg | min reward: 0.40 | -0.13 | -100.00 
+T = 0.706139 
+
+---------------------------------------
+
+Episode 238 ==> CRASH {-2.03,2.03,115.23}    07/10/2022 07:25:34
+episode time: 22.48 s (avg step: 0.05 s) 
+episode steps: 409 
+episode reward: -121.00 
+episode max | avg | min reward: 0.40 | -0.30 | -100.00 
+T = 0.695547 
+
+---------------------------------------
+
+Episode 239 ==> CRASH {-2.18,0.15,122.72}    07/10/2022 07:25:45
+episode time: 10.91 s (avg step: 0.04 s) 
+episode steps: 262 
+episode reward: -122.00 
+episode max | avg | min reward: 0.40 | -0.47 | -100.00 
+T = 0.685114 
+
+---------------------------------------
+
+Episode 240 ==> CRASH {-2.05,2.03,109.75}    07/10/2022 07:26:11
+episode time: 25.67 s (avg step: 0.05 s) 
+episode steps: 487 
+episode reward: -132.70 
+episode max | avg | min reward: 0.40 | -0.27 | -100.00 
+T = 0.674837 
+
+---------------------------------------
+
+Episode 241 ==> CRASH {-2.11,0.10,134.59}    07/10/2022 07:26:21
+episode time: 9.78 s (avg step: 0.06 s) 
+episode steps: 162 
+episode reward: -113.60 
+episode max | avg | min reward: 0.40 | -0.71 | -100.00 
+T = 0.664715 
+
+---------------------------------------
+
+Episode 242 ==> CRASH {1.36,-0.55,-30.44}    07/10/2022 07:26:51
+episode time: 30.04 s (avg step: 0.05 s) 
+episode steps: 558 
+episode reward: -142.10 
+episode max | avg | min reward: 0.40 | -0.26 | -100.00 
+T = 0.654744 
+
+---------------------------------------
+
+Episode 243 ==> CRASH {-2.00,1.80,160.18}    07/10/2022 07:27:19
+episode time: 27.89 s (avg step: 0.06 s) 
+episode steps: 491 
+episode reward: -139.40 
+episode max | avg | min reward: 0.40 | -0.28 | -100.00 
+T = 0.644923 
+
+---------------------------------------
+
+Episode 244 ==> CRASH {-2.14,0.07,117.89}    07/10/2022 07:27:28
+episode time: 8.52 s (avg step: 0.06 s) 
+episode steps: 147 
+episode reward: -113.70 
+episode max | avg | min reward: 0.40 | -0.78 | -100.00 
+T = 0.635249 
+
+---------------------------------------
+
+Episode 245 ==> CRASH {-2.15,0.11,128.97}    07/10/2022 07:27:38
+episode time: 10.61 s (avg step: 0.05 s) 
+episode steps: 225 
+episode reward: -113.60 
+episode max | avg | min reward: 0.40 | -0.51 | -100.00 
+T = 0.625720 
+
+---------------------------------------
+
+Episode 246 ==> CRASH {-2.12,0.06,118.31}    07/10/2022 07:27:47
+episode time: 8.60 s (avg step: 0.06 s) 
+episode steps: 142 
+episode reward: -115.10 
+episode max | avg | min reward: 0.40 | -0.82 | -100.00 
+T = 0.616335 
+
+---------------------------------------
+
+Episode 247 ==> CRASH {-2.18,-1.34,-110.71}    07/10/2022 07:28:08
+episode time: 20.93 s (avg step: 0.06 s) 
+episode steps: 350 
+episode reward: -133.00 
+episode max | avg | min reward: 0.40 | -0.38 | -100.00 
+T = 0.607089 
+
+---------------------------------------
+
+Episode 248 ==> CRASH {-2.10,0.05,135.33}    07/10/2022 07:28:19
+episode time: 10.80 s (avg step: 0.05 s) 
+episode steps: 212 
+episode reward: -121.00 
+episode max | avg | min reward: 0.40 | -0.57 | -100.00 
+T = 0.597983 
+
+---------------------------------------
+
+Episode 249 ==> CRASH {-2.05,1.46,-148.99}    07/10/2022 07:28:45
+episode time: 25.57 s (avg step: 0.06 s) 
+episode steps: 427 
+episode reward: -140.10 
+episode max | avg | min reward: 0.40 | -0.33 | -100.00 
+T = 0.589013 
+
+---------------------------------------
+
+Episode 250 ==> CRASH {-2.14,0.05,128.30}    07/10/2022 07:28:54
+episode time: 9.29 s (avg step: 0.05 s) 
+episode steps: 187 
+episode reward: -122.60 
+episode max | avg | min reward: 0.40 | -0.66 | -100.00 
+T = 0.580178 
+
+---------------------------------------
+
+Episode 251 ==> CRASH {-2.09,0.02,135.44}    07/10/2022 07:29:04
+episode time: 9.63 s (avg step: 0.06 s) 
+episode steps: 165 
+episode reward: -113.50 
+episode max | avg | min reward: 0.40 | -0.69 | -100.00 
+T = 0.571476 
+
+---------------------------------------
+
+Episode 252 ==> CRASH {-2.18,0.10,127.31}    07/10/2022 07:29:15
+episode time: 10.54 s (avg step: 0.04 s) 
+episode steps: 236 
+episode reward: -136.50 
+episode max | avg | min reward: 0.10 | -0.58 | -100.00 
+T = 0.562903 
+
+---------------------------------------
+
+Episode 253 ==> CRASH {-2.15,0.09,128.89}    07/10/2022 07:29:25
+episode time: 10.21 s (avg step: 0.06 s) 
+episode steps: 164 
+episode reward: -117.80 
+episode max | avg | min reward: 0.40 | -0.72 | -100.00 
+T = 0.554460 
+
+---------------------------------------
+
+Episode 254 ==> CRASH {-2.17,0.09,125.27}    07/10/2022 07:29:35
+episode time: 9.65 s (avg step: 0.05 s) 
+episode steps: 182 
+episode reward: -122.50 
+episode max | avg | min reward: 0.40 | -0.68 | -100.00 
+T = 0.546143 
+
+---------------------------------------
+
+Episode 255 ==> CRASH {-2.10,0.04,131.45}    07/10/2022 07:29:44
+episode time: 9.54 s (avg step: 0.05 s) 
+episode steps: 177 
+episode reward: -119.50 
+episode max | avg | min reward: 0.10 | -0.68 | -100.00 
+T = 0.537951 
+
+---------------------------------------
+
+Episode 256 ==> CRASH {-2.20,0.10,125.25}    07/10/2022 07:29:54
+episode time: 9.67 s (avg step: 0.05 s) 
+episode steps: 198 
+episode reward: -131.20 
+episode max | avg | min reward: 0.40 | -0.67 | -100.00 
+T = 0.529882 
+
+---------------------------------------
+
+Episode 257 ==> CRASH {-2.16,0.04,124.95}    07/10/2022 07:30:04
+episode time: 9.66 s (avg step: 0.05 s) 
+episode steps: 206 
+episode reward: -133.40 
+episode max | avg | min reward: 0.40 | -0.65 | -100.00 
+T = 0.521933 
+
+---------------------------------------
+
+Episode 258 ==> CRASH {-2.18,0.08,116.87}    07/10/2022 07:30:13
+episode time: 9.14 s (avg step: 0.06 s) 
+episode steps: 165 
+episode reward: -124.70 
+episode max | avg | min reward: 0.10 | -0.76 | -100.00 
+T = 0.514104 
+
+---------------------------------------
+
+Episode 259 ==> CRASH {0.10,-2.29,-10.61}    07/10/2022 07:30:41
+episode time: 27.38 s (avg step: 0.06 s) 
+episode steps: 460 
+episode reward: -127.00 
+episode max | avg | min reward: 0.40 | -0.28 | -100.00 
+T = 0.506393 
+
+---------------------------------------
+
+Episode 260 ==> CRASH {-2.19,0.10,121.42}    07/10/2022 07:30:51
+episode time: 10.18 s (avg step: 0.05 s) 
+episode steps: 199 
+episode reward: -127.10 
+episode max | avg | min reward: 0.40 | -0.64 | -100.00 
+T = 0.498797 
+
+---------------------------------------
+
+Episode 261 ==> CRASH {-2.17,0.06,126.33}    07/10/2022 07:31:01
+episode time: 9.51 s (avg step: 0.05 s) 
+episode steps: 184 
+episode reward: -127.30 
+episode max | avg | min reward: 0.40 | -0.70 | -100.00 
+T = 0.491315 
+
+---------------------------------------
+
+Episode 262 ==> CRASH {-2.19,0.10,122.46}    07/10/2022 07:31:10
+episode time: 9.23 s (avg step: 0.06 s) 
+episode steps: 164 
+episode reward: -126.80 
+episode max | avg | min reward: 0.40 | -0.78 | -100.00 
+T = 0.483945 
+
+---------------------------------------
+
+Episode 263 ==> CRASH {-2.18,0.07,121.19}    07/10/2022 07:31:21
+episode time: 10.39 s (avg step: 0.06 s) 
+episode steps: 181 
+episode reward: -126.50 
+episode max | avg | min reward: 0.40 | -0.70 | -100.00 
+T = 0.476686 
+
+---------------------------------------
+
+Episode 264 ==> CRASH {-2.18,0.08,114.32}    07/10/2022 07:31:30
+episode time: 9.53 s (avg step: 0.06 s) 
+episode steps: 156 
+episode reward: -123.40 
+episode max | avg | min reward: 0.40 | -0.80 | -100.00 
+T = 0.469536 
+
+---------------------------------------
+
+Episode 265 ==> CRASH {-2.17,0.06,122.70}    07/10/2022 07:31:42
+episode time: 11.45 s (avg step: 0.05 s) 
+episode steps: 234 
+episode reward: -132.70 
+episode max | avg | min reward: 0.40 | -0.57 | -100.00 
+T = 0.462493 
+
+---------------------------------------
+
+Episode 266 ==> CRASH {-1.82,1.53,-158.21}    07/10/2022 07:32:06
+episode time: 23.70 s (avg step: 0.05 s) 
+episode steps: 462 
+episode reward: -126.90 
+episode max | avg | min reward: 0.40 | -0.28 | -100.00 
+T = 0.455555 
+
+---------------------------------------
+
+Episode 267 ==> CRASH {-2.00,-1.36,-68.35}    07/10/2022 07:32:33
+episode time: 27.23 s (avg step: 0.05 s) 
+episode steps: 562 
+episode reward: -150.20 
+episode max | avg | min reward: 0.40 | -0.27 | -100.00 
+T = 0.448722 
+
+---------------------------------------
+
+Episode 268 ==> CRASH {-2.16,0.03,124.37}    07/10/2022 07:32:43
+episode time: 9.48 s (avg step: 0.06 s) 
+episode steps: 157 
+episode reward: -122.50 
+episode max | avg | min reward: 0.40 | -0.79 | -100.00 
+T = 0.441991 
+
+---------------------------------------
+
+Episode 269 ==> CRASH {-2.09,2.10,138.47}    07/10/2022 07:33:11
+episode time: 27.47 s (avg step: 0.05 s) 
+episode steps: 571 
+episode reward: -184.30 
+episode max | avg | min reward: 0.40 | -0.32 | -100.00 
+T = 0.435361 
+
+---------------------------------------
+
+Episode 270 ==> CRASH {-2.07,2.08,138.85}    07/10/2022 07:33:38
+episode time: 27.14 s (avg step: 0.05 s) 
+episode steps: 529 
+episode reward: -162.50 
+episode max | avg | min reward: 0.40 | -0.31 | -100.00 
+T = 0.428831 
+
+---------------------------------------
+
+Episode 271 ==> CRASH {-2.08,2.08,140.84}    07/10/2022 07:34:06
+episode time: 28.02 s (avg step: 0.06 s) 
+episode steps: 448 
+episode reward: -165.60 
+episode max | avg | min reward: 0.40 | -0.37 | -100.00 
+T = 0.422398 
+
+---------------------------------------
+
+Episode 272 ==> CRASH {-2.10,2.10,142.81}    07/10/2022 07:34:31
+episode time: 24.85 s (avg step: 0.05 s) 
+episode steps: 514 
+episode reward: -174.50 
+episode max | avg | min reward: 0.40 | -0.34 | -100.00 
+T = 0.416062 
+
+---------------------------------------
+
+Episode 273 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 07:35:35
+episode time: 63.50 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -87.40 
+episode max | avg | min reward: 0.40 | -0.07 | -0.30 
+T = 0.409821 
+
+---------------------------------------
+
+Episode 274 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 07:36:36
+episode time: 59.91 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -99.00 
+episode max | avg | min reward: 0.40 | -0.08 | -0.30 
+T = 0.403674 
+
+---------------------------------------
+
+Episode 275 ==> CRASH {1.18,-1.48,-114.15}    07/10/2022 07:37:43
+episode time: 66.98 s (avg step: 0.06 s) 
+episode steps: 1180 
+episode reward: -187.70 
+episode max | avg | min reward: 0.40 | -0.16 | -100.00 
+T = 0.397619 
+
+---------------------------------------
+
+Episode 276 ==> CRASH {2.10,0.08,-92.99}    07/10/2022 07:38:38
+episode time: 54.56 s (avg step: 0.05 s) 
+episode steps: 1035 
+episode reward: -172.60 
+episode max | avg | min reward: 0.40 | -0.17 | -100.00 
+T = 0.391655 
+
+---------------------------------------
+
+Episode 277 ==> CRASH {2.03,0.08,-94.92}    07/10/2022 07:39:28
+episode time: 50.00 s (avg step: 0.04 s) 
+episode steps: 1125 
+episode reward: -164.10 
+episode max | avg | min reward: 0.40 | -0.15 | -100.00 
+T = 0.385780 
+
+---------------------------------------
+
+Episode 278 ==> CRASH {2.04,0.11,-105.39}    07/10/2022 07:40:22
+episode time: 53.62 s (avg step: 0.05 s) 
+episode steps: 1089 
+episode reward: -174.30 
+episode max | avg | min reward: 0.40 | -0.16 | -100.00 
+T = 0.379993 
+
+---------------------------------------
+
+Episode 279 ==> CRASH {2.13,1.63,-46.22}    07/10/2022 07:41:06
+episode time: 43.59 s (avg step: 0.05 s) 
+episode steps: 860 
+episode reward: -155.80 
+episode max | avg | min reward: 0.40 | -0.18 | -100.00 
+T = 0.374293 
+
+---------------------------------------
+
+Episode 280 ==> CRASH {-0.74,2.06,61.09}    07/10/2022 07:41:30
+episode time: 23.13 s (avg step: 0.05 s) 
+episode steps: 475 
+episode reward: -140.80 
+episode max | avg | min reward: 0.40 | -0.30 | -100.00 
+T = 0.368679 
+
+---------------------------------------
+
+Episode 281 ==> CRASH {-1.11,2.06,58.10}    07/10/2022 07:41:54
+episode time: 24.31 s (avg step: 0.06 s) 
+episode steps: 426 
+episode reward: -139.90 
+episode max | avg | min reward: 0.40 | -0.33 | -100.00 
+T = 0.363149 
+
+---------------------------------------
+
+Episode 282 ==> CRASH {0.11,0.56,46.55}    07/10/2022 07:42:13
+episode time: 18.56 s (avg step: 0.05 s) 
+episode steps: 399 
+episode reward: -158.90 
+episode max | avg | min reward: 0.40 | -0.40 | -100.00 
+T = 0.357702 
+
+---------------------------------------
+
+Episode 283 ==> CRASH {-1.13,2.04,57.48}    07/10/2022 07:42:37
+episode time: 23.46 s (avg step: 0.05 s) 
+episode steps: 463 
+episode reward: -147.40 
+episode max | avg | min reward: 0.40 | -0.32 | -100.00 
+T = 0.352336 
+
+---------------------------------------
+
+Episode 284 ==> CRASH {-1.01,2.07,54.78}    07/10/2022 07:43:01
+episode time: 23.77 s (avg step: 0.05 s) 
+episode steps: 451 
+episode reward: -143.50 
+episode max | avg | min reward: 0.40 | -0.32 | -100.00 
+T = 0.347051 
+
+---------------------------------------
+
+Episode 285 ==> CRASH {1.72,1.22,-132.63}    07/10/2022 07:43:43
+episode time: 42.16 s (avg step: 0.06 s) 
+episode steps: 719 
+episode reward: -141.00 
+episode max | avg | min reward: 0.40 | -0.20 | -100.00 
+T = 0.341845 
+
+---------------------------------------
+
+Episode 286 ==> CRASH {2.02,0.11,-93.75}    07/10/2022 07:44:39
+episode time: 55.53 s (avg step: 0.05 s) 
+episode steps: 1077 
+episode reward: -185.80 
+episode max | avg | min reward: 0.40 | -0.17 | -100.00 
+T = 0.336718 
+
+---------------------------------------
+
+Episode 287 ==> CRASH {-1.16,-0.61,25.21}    07/10/2022 07:44:46
+episode time: 7.10 s (avg step: 0.04 s) 
+episode steps: 168 
+episode reward: -119.40 
+episode max | avg | min reward: 0.10 | -0.71 | -100.00 
+T = 0.331667 
+
+---------------------------------------
+
+Episode 288 ==> CRASH {-1.15,-0.74,26.18}    07/10/2022 07:44:54
+episode time: 7.21 s (avg step: 0.05 s) 
+episode steps: 136 
+episode reward: -113.90 
+episode max | avg | min reward: 0.40 | -0.84 | -100.00 
+T = 0.326692 
+
+---------------------------------------
+
+Episode 289 ==> CRASH {2.03,0.09,-92.58}    07/10/2022 07:45:48
+episode time: 54.36 s (avg step: 0.05 s) 
+episode steps: 997 
+episode reward: -188.20 
+episode max | avg | min reward: 0.40 | -0.19 | -100.00 
+T = 0.321791 
+
+---------------------------------------
+
+Episode 290 ==> CRASH {2.03,0.10,-96.40}    07/10/2022 07:46:39
+episode time: 50.63 s (avg step: 0.06 s) 
+episode steps: 904 
+episode reward: -163.50 
+episode max | avg | min reward: 0.40 | -0.18 | -100.00 
+T = 0.316964 
+
+---------------------------------------
+
+Episode 291 ==> CRASH {-1.12,-0.74,29.65}    07/10/2022 07:46:46
+episode time: 6.00 s (avg step: 0.06 s) 
+episode steps: 107 
+episode reward: -106.00 
+episode max | avg | min reward: 0.40 | -1.00 | -100.00 
+T = 0.312210 
+
+---------------------------------------
+
+Episode 292 ==> CRASH {-1.17,-0.76,23.49}    07/10/2022 07:46:51
+episode time: 5.72 s (avg step: 0.05 s) 
+episode steps: 108 
+episode reward: -108.90 
+episode max | avg | min reward: 0.40 | -1.02 | -100.00 
+T = 0.307527 
+
+---------------------------------------
+
+Episode 293 ==> CRASH {2.03,0.06,-98.48}    07/10/2022 07:47:43
+episode time: 51.73 s (avg step: 0.06 s) 
+episode steps: 934 
+episode reward: -182.20 
+episode max | avg | min reward: 0.40 | -0.20 | -100.00 
+T = 0.302914 
+
+---------------------------------------
+
+Episode 294 ==> CRASH {-0.21,2.15,39.21}    07/10/2022 07:48:10
+episode time: 26.16 s (avg step: 0.06 s) 
+episode steps: 443 
+episode reward: -148.40 
+episode max | avg | min reward: 0.40 | -0.34 | -100.00 
+T = 0.298370 
+
+---------------------------------------
+
+Episode 295 ==> CRASH {-1.07,-0.59,40.01}    07/10/2022 07:48:19
+episode time: 8.92 s (avg step: 0.05 s) 
+episode steps: 164 
+episode reward: -118.10 
+episode max | avg | min reward: 0.40 | -0.72 | -100.00 
+T = 0.293895 
+
+---------------------------------------
+
+Episode 296 ==> CRASH {2.13,1.63,-46.42}    07/10/2022 07:49:04
+episode time: 44.34 s (avg step: 0.06 s) 
+episode steps: 791 
+episode reward: -168.50 
+episode max | avg | min reward: 0.40 | -0.21 | -100.00 
+T = 0.289486 
+
+---------------------------------------
+
+Episode 297 ==> CRASH {-0.17,-2.30,-15.05}    07/10/2022 07:49:20
+episode time: 16.44 s (avg step: 0.05 s) 
+episode steps: 354 
+episode reward: -136.90 
+episode max | avg | min reward: 0.40 | -0.39 | -100.00 
+T = 0.285144 
+
+---------------------------------------
+
+Episode 298 ==> CRASH {2.11,1.63,-45.47}    07/10/2022 07:50:03
+episode time: 42.09 s (avg step: 0.05 s) 
+episode steps: 803 
+episode reward: -168.20 
+episode max | avg | min reward: 0.40 | -0.21 | -100.00 
+T = 0.280867 
+
+---------------------------------------
+
+Episode 299 ==> CRASH {-1.16,-0.77,27.96}    07/10/2022 07:50:09
+episode time: 6.06 s (avg step: 0.04 s) 
+episode steps: 141 
+episode reward: -111.00 
+episode max | avg | min reward: 0.40 | -0.79 | -100.00 
+T = 0.276654 
+
+---------------------------------------
+
+Episode 300 ==> CRASH {-1.16,-0.87,22.18}    07/10/2022 07:50:14
+episode time: 5.51 s (avg step: 0.06 s) 
+episode steps: 95 
+episode reward: -105.70 
+episode max | avg | min reward: 0.40 | -1.12 | -100.00 
+T = 0.272504 
+
+---------------------------------------
+
+Episode 301 ==> CRASH {-1.14,-0.69,31.96}    07/10/2022 07:50:21
+episode time: 6.59 s (avg step: 0.05 s) 
+episode steps: 121 
+episode reward: -111.60 
+episode max | avg | min reward: 0.40 | -0.93 | -100.00 
+T = 0.268416 
+
+---------------------------------------
+
+Episode 302 ==> CRASH {1.61,1.99,-11.51}    07/10/2022 07:50:58
+episode time: 36.46 s (avg step: 0.05 s) 
+episode steps: 670 
+episode reward: -158.30 
+episode max | avg | min reward: 0.40 | -0.24 | -100.00 
+T = 0.264390 
+
+---------------------------------------
+
+Episode 303 ==> CRASH {1.64,1.97,-15.50}    07/10/2022 07:51:36
+episode time: 37.86 s (avg step: 0.05 s) 
+episode steps: 772 
+episode reward: -162.00 
+episode max | avg | min reward: 0.40 | -0.21 | -100.00 
+T = 0.260424 
+
+---------------------------------------
+
+Episode 304 ==> CRASH {-1.16,-0.59,24.30}    07/10/2022 07:51:43
+episode time: 6.86 s (avg step: 0.05 s) 
+episode steps: 131 
+episode reward: -114.70 
+episode max | avg | min reward: 0.10 | -0.88 | -100.00 
+T = 0.256518 
+
+---------------------------------------
+
+Episode 305 ==> CRASH {-2.04,2.13,143.59}    07/10/2022 07:52:13
+episode time: 30.23 s (avg step: 0.05 s) 
+episode steps: 584 
+episode reward: -165.00 
+episode max | avg | min reward: 0.40 | -0.28 | -100.00 
+T = 0.252670 
+
+---------------------------------------
+
+Episode 306 ==> CRASH {1.52,2.04,-11.29}    07/10/2022 07:52:50
+episode time: 35.82 s (avg step: 0.05 s) 
+episode steps: 694 
+episode reward: -157.00 
+episode max | avg | min reward: 0.40 | -0.23 | -100.00 
+T = 0.248880 
+
+---------------------------------------
+
+Episode 307 ==> CRASH {-0.71,-1.87,-7.34}    07/10/2022 07:53:02
+episode time: 11.97 s (avg step: 0.06 s) 
+episode steps: 198 
+episode reward: -110.90 
+episode max | avg | min reward: 0.40 | -0.56 | -100.00 
+T = 0.245147 
+
+---------------------------------------
+
+Episode 308 ==> CRASH {-1.14,-0.57,27.53}    07/10/2022 07:53:08
+episode time: 6.28 s (avg step: 0.05 s) 
+episode steps: 123 
+episode reward: -105.80 
+episode max | avg | min reward: 0.40 | -0.87 | -100.00 
+T = 0.241470 
+
+---------------------------------------
+
+Episode 309 ==> CRASH {-1.14,-0.56,28.03}    07/10/2022 07:53:14
+episode time: 6.03 s (avg step: 0.05 s) 
+episode steps: 131 
+episode reward: -107.00 
+episode max | avg | min reward: 0.40 | -0.82 | -100.00 
+T = 0.237848 
+
+---------------------------------------
+
+Episode 310 ==> CRASH {-1.18,-0.95,21.23}    07/10/2022 07:53:19
+episode time: 5.05 s (avg step: 0.05 s) 
+episode steps: 96 
+episode reward: -103.90 
+episode max | avg | min reward: 0.40 | -1.09 | -100.00 
+T = 0.234280 
+
+---------------------------------------
+
+Episode 311 ==> CRASH {0.03,0.68,7.05}    07/10/2022 07:53:36
+episode time: 16.57 s (avg step: 0.05 s) 
+episode steps: 355 
+episode reward: -120.00 
+episode max | avg | min reward: 0.40 | -0.34 | -100.00 
+T = 0.230766 
+
+---------------------------------------
+
+Episode 312 ==> CRASH {-1.10,-0.53,29.42}    07/10/2022 07:53:42
+episode time: 6.33 s (avg step: 0.05 s) 
+episode steps: 120 
+episode reward: -100.70 
+episode max | avg | min reward: 0.40 | -0.85 | -100.00 
+T = 0.227304 
+
+---------------------------------------
+
+Episode 313 ==> CRASH {-1.17,-0.61,23.28}    07/10/2022 07:53:48
+episode time: 5.88 s (avg step: 0.05 s) 
+episode steps: 115 
+episode reward: -107.20 
+episode max | avg | min reward: 0.40 | -0.94 | -100.00 
+T = 0.223895 
+
+---------------------------------------
+
+Episode 314 ==> CRASH {-1.14,-0.58,25.81}    07/10/2022 07:53:55
+episode time: 6.26 s (avg step: 0.05 s) 
+episode steps: 119 
+episode reward: -106.10 
+episode max | avg | min reward: 0.40 | -0.90 | -100.00 
+T = 0.220536 
+
+---------------------------------------
+
+Episode 315 ==> CRASH {-0.16,-2.31,-14.04}    07/10/2022 07:54:11
+episode time: 15.71 s (avg step: 0.06 s) 
+episode steps: 285 
+episode reward: -127.70 
+episode max | avg | min reward: 0.40 | -0.45 | -100.00 
+T = 0.217228 
+
+---------------------------------------
+
+Episode 316 ==> CRASH {-0.12,-2.31,-12.02}    07/10/2022 07:54:27
+episode time: 16.21 s (avg step: 0.05 s) 
+episode steps: 342 
+episode reward: -133.30 
+episode max | avg | min reward: 0.40 | -0.39 | -100.00 
+T = 0.213970 
+
+---------------------------------------
+
+Episode 317 ==> CRASH {-1.20,-0.82,-11.71}    07/10/2022 07:54:35
+episode time: 8.02 s (avg step: 0.05 s) 
+episode steps: 150 
+episode reward: -123.90 
+episode max | avg | min reward: 0.10 | -0.83 | -100.00 
+T = 0.210760 
+
+---------------------------------------
+
+Episode 318 ==> CRASH {-1.19,-0.73,-10.67}    07/10/2022 07:54:44
+episode time: 8.54 s (avg step: 0.06 s) 
+episode steps: 140 
+episode reward: -121.80 
+episode max | avg | min reward: 0.40 | -0.88 | -100.00 
+T = 0.207599 
+
+---------------------------------------
+
+Episode 319 ==> CRASH {-1.18,-0.83,-11.11}    07/10/2022 07:54:52
+episode time: 7.97 s (avg step: 0.05 s) 
+episode steps: 148 
+episode reward: -120.40 
+episode max | avg | min reward: 0.10 | -0.82 | -100.00 
+T = 0.204485 
+
+---------------------------------------
+
+Episode 320 ==> CRASH {-1.17,-0.97,21.86}    07/10/2022 07:54:59
+episode time: 7.28 s (avg step: 0.07 s) 
+episode steps: 112 
+episode reward: -121.20 
+episode max | avg | min reward: 0.40 | -1.09 | -100.00 
+T = 0.201418 
+
+---------------------------------------
+
+Episode 321 ==> CRASH {0.11,-2.31,-11.37}    07/10/2022 07:55:17
+episode time: 17.13 s (avg step: 0.05 s) 
+episode steps: 335 
+episode reward: -132.50 
+episode max | avg | min reward: 0.40 | -0.40 | -100.00 
+T = 0.198396 
+
+---------------------------------------
+
+Episode 322 ==> CRASH {-1.17,-0.96,18.40}    07/10/2022 07:55:22
+episode time: 5.74 s (avg step: 0.05 s) 
+episode steps: 123 
+episode reward: -116.80 
+episode max | avg | min reward: 0.40 | -0.96 | -100.00 
+T = 0.195420 
+
+---------------------------------------
+
+Episode 323 ==> CRASH {-1.19,-0.93,16.96}    07/10/2022 07:55:30
+episode time: 7.14 s (avg step: 0.05 s) 
+episode steps: 139 
+episode reward: -117.30 
+episode max | avg | min reward: 0.40 | -0.85 | -100.00 
+T = 0.192489 
+
+---------------------------------------
+
+Episode 324 ==> CRASH {-1.18,-0.80,-9.54}    07/10/2022 07:55:38
+episode time: 7.96 s (avg step: 0.07 s) 
+episode steps: 119 
+episode reward: -120.00 
+episode max | avg | min reward: 0.10 | -1.02 | -100.00 
+T = 0.189602 
+
+---------------------------------------
+
+Episode 325 ==> CRASH {-1.19,-0.92,16.70}    07/10/2022 07:55:45
+episode time: 6.83 s (avg step: 0.06 s) 
+episode steps: 123 
+episode reward: -116.40 
+episode max | avg | min reward: 0.40 | -0.95 | -100.00 
+T = 0.186758 
+
+---------------------------------------
+
+Episode 326 ==> CRASH {-1.20,-0.83,-13.85}    07/10/2022 07:55:53
+episode time: 8.07 s (avg step: 0.05 s) 
+episode steps: 166 
+episode reward: -129.40 
+episode max | avg | min reward: 0.10 | -0.78 | -100.00 
+T = 0.183956 
+
+---------------------------------------
+
+Episode 327 ==> CRASH {-1.19,-0.90,17.40}    07/10/2022 07:56:00
+episode time: 7.08 s (avg step: 0.06 s) 
+episode steps: 119 
+episode reward: -116.80 
+episode max | avg | min reward: 0.10 | -0.99 | -100.00 
+T = 0.181197 
+
+---------------------------------------
+
+Episode 328 ==> CRASH {-1.16,-0.90,13.82}    07/10/2022 07:56:07
+episode time: 6.84 s (avg step: 0.04 s) 
+episode steps: 157 
+episode reward: -117.20 
+episode max | avg | min reward: 0.40 | -0.75 | -100.00 
+T = 0.178479 
+
+---------------------------------------
+
+Episode 329 ==> CRASH {-1.19,-0.82,-13.63}    07/10/2022 07:56:15
+episode time: 8.17 s (avg step: 0.04 s) 
+episode steps: 186 
+episode reward: -129.20 
+episode max | avg | min reward: 0.10 | -0.70 | -100.00 
+T = 0.175802 
+
+---------------------------------------
+
+Episode 330 ==> CRASH {0.13,-2.24,-17.78}    07/10/2022 07:56:35
+episode time: 19.49 s (avg step: 0.06 s) 
+episode steps: 347 
+episode reward: -137.50 
+episode max | avg | min reward: 0.40 | -0.40 | -100.00 
+T = 0.173165 
+
+---------------------------------------
+
+Episode 331 ==> CRASH {0.10,-2.22,-13.45}    07/10/2022 07:56:54
+episode time: 18.85 s (avg step: 0.05 s) 
+episode steps: 355 
+episode reward: -139.90 
+episode max | avg | min reward: 0.40 | -0.40 | -100.00 
+T = 0.170567 
+
+---------------------------------------
+
+Episode 332 ==> CRASH {0.16,-2.26,-16.40}    07/10/2022 07:57:14
+episode time: 19.98 s (avg step: 0.05 s) 
+episode steps: 369 
+episode reward: -139.80 
+episode max | avg | min reward: 0.40 | -0.38 | -100.00 
+T = 0.168009 
+
+---------------------------------------
+
+Episode 333 ==> CRASH {0.12,-2.26,-16.95}    07/10/2022 07:57:34
+episode time: 19.80 s (avg step: 0.05 s) 
+episode steps: 372 
+episode reward: -141.70 
+episode max | avg | min reward: 0.40 | -0.38 | -100.00 
+T = 0.165489 
+
+---------------------------------------
+
+Episode 334 ==> CRASH {0.17,-2.23,-18.35}    07/10/2022 07:57:54
+episode time: 19.73 s (avg step: 0.06 s) 
+episode steps: 358 
+episode reward: -139.20 
+episode max | avg | min reward: 0.40 | -0.39 | -100.00 
+T = 0.163006 
+
+---------------------------------------
+
+Episode 335 ==> CRASH {0.10,-2.28,-9.60}    07/10/2022 07:58:14
+episode time: 19.61 s (avg step: 0.06 s) 
+episode steps: 350 
+episode reward: -139.40 
+episode max | avg | min reward: 0.40 | -0.40 | -100.00 
+T = 0.160561 
+
+---------------------------------------
+
+Episode 336 ==> CRASH {-1.18,-0.96,13.39}    07/10/2022 07:58:21
+episode time: 7.14 s (avg step: 0.06 s) 
+episode steps: 117 
+episode reward: -114.00 
+episode max | avg | min reward: 0.40 | -0.98 | -100.00 
+T = 0.158153 
+
+---------------------------------------
+
+Episode 337 ==> CRASH {-1.16,-0.95,21.01}    07/10/2022 07:58:29
+episode time: 7.53 s (avg step: 0.05 s) 
+episode steps: 154 
+episode reward: -121.80 
+episode max | avg | min reward: 0.40 | -0.80 | -100.00 
+T = 0.155781 
+
+---------------------------------------
+
+Episode 338 ==> CRASH {-0.16,-2.30,-13.44}    07/10/2022 07:58:44
+episode time: 15.37 s (avg step: 0.05 s) 
+episode steps: 292 
+episode reward: -135.40 
+episode max | avg | min reward: 0.40 | -0.47 | -100.00 
+T = 0.153444 
+
+---------------------------------------
+
+Episode 339 ==> CRASH {-1.17,-0.95,18.17}    07/10/2022 07:58:52
+episode time: 7.25 s (avg step: 0.06 s) 
+episode steps: 115 
+episode reward: -115.80 
+episode max | avg | min reward: 0.40 | -1.02 | -100.00 
+T = 0.151142 
+
+---------------------------------------
+
+Episode 340 ==> CRASH {-1.16,-0.94,18.79}    07/10/2022 07:58:59
+episode time: 7.33 s (avg step: 0.05 s) 
+episode steps: 145 
+episode reward: -123.40 
+episode max | avg | min reward: 0.10 | -0.86 | -100.00 
+T = 0.148875 
+
+---------------------------------------
+
+Episode 341 ==> CRASH {-0.19,-2.30,-14.66}    07/10/2022 07:59:15
+episode time: 15.64 s (avg step: 0.05 s) 
+episode steps: 322 
+episode reward: -133.50 
+episode max | avg | min reward: 0.40 | -0.42 | -100.00 
+T = 0.146642 
+
+---------------------------------------
+
+Episode 342 ==> CRASH {-1.17,-0.96,18.59}    07/10/2022 07:59:22
+episode time: 6.91 s (avg step: 0.05 s) 
+episode steps: 127 
+episode reward: -115.70 
+episode max | avg | min reward: 0.40 | -0.92 | -100.00 
+T = 0.144442 
+
+---------------------------------------
+
+Episode 343 ==> CRASH {-1.19,-0.98,18.76}    07/10/2022 07:59:29
+episode time: 6.96 s (avg step: 0.06 s) 
+episode steps: 116 
+episode reward: -114.20 
+episode max | avg | min reward: 0.40 | -0.99 | -100.00 
+T = 0.142276 
+
+---------------------------------------
+
+Episode 344 ==> CRASH {-1.18,-0.94,20.16}    07/10/2022 07:59:36
+episode time: 7.38 s (avg step: 0.06 s) 
+episode steps: 122 
+episode reward: -118.70 
+episode max | avg | min reward: 0.10 | -0.98 | -100.00 
+T = 0.140142 
+
+---------------------------------------
+
+Episode 345 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:00:39
+episode time: 62.46 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -100.70 
+episode max | avg | min reward: 0.40 | -0.08 | -0.30 
+T = 0.138039 
+
+---------------------------------------
+
+Episode 346 ==> CRASH {0.33,-0.92,98.75}    07/10/2022 08:01:03
+episode time: 23.89 s (avg step: 0.06 s) 
+episode steps: 424 
+episode reward: -129.60 
+episode max | avg | min reward: 0.40 | -0.31 | -100.00 
+T = 0.135969 
+
+---------------------------------------
+
+Episode 347 ==> CRASH {1.21,-1.05,7.54}    07/10/2022 08:01:29
+episode time: 25.46 s (avg step: 0.06 s) 
+episode steps: 430 
+episode reward: -126.90 
+episode max | avg | min reward: 0.40 | -0.30 | -100.00 
+T = 0.133929 
+
+---------------------------------------
+
+Episode 348 ==> CRASH {0.27,-1.04,98.65}    07/10/2022 08:01:53
+episode time: 23.40 s (avg step: 0.06 s) 
+episode steps: 425 
+episode reward: -130.60 
+episode max | avg | min reward: 0.40 | -0.31 | -100.00 
+T = 0.131920 
+
+---------------------------------------
+
+Episode 349 ==> CRASH {0.46,-0.19,77.02}    07/10/2022 08:02:20
+episode time: 26.51 s (avg step: 0.05 s) 
+episode steps: 512 
+episode reward: -121.80 
+episode max | avg | min reward: 0.40 | -0.24 | -100.00 
+T = 0.129942 
+
+---------------------------------------
+
+Episode 350 ==> CRASH {0.28,-1.38,95.32}    07/10/2022 08:02:42
+episode time: 22.47 s (avg step: 0.05 s) 
+episode steps: 496 
+episode reward: -145.00 
+episode max | avg | min reward: 0.40 | -0.29 | -100.00 
+T = 0.127992 
+
+---------------------------------------
+
+Episode 351 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:03:45
+episode time: 62.06 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -109.90 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.126073 
+
+---------------------------------------
+
+Episode 352 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:04:45
+episode time: 60.49 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -117.20 
+episode max | avg | min reward: 0.40 | -0.10 | -0.30 
+T = 0.124182 
+
+---------------------------------------
+
+Episode 353 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:05:48
+episode time: 62.35 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -106.60 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.122319 
+
+---------------------------------------
+
+Episode 354 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:06:54
+episode time: 65.63 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -108.00 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.120484 
+
+---------------------------------------
+
+Episode 355 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:08:01
+episode time: 65.90 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -113.00 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.118677 
+
+---------------------------------------
+
+Episode 356 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:09:03
+episode time: 62.18 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -99.50 
+episode max | avg | min reward: 0.40 | -0.08 | -0.30 
+T = 0.116897 
+
+---------------------------------------
+
+Episode 357 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:10:07
+episode time: 62.87 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -114.50 
+episode max | avg | min reward: 0.40 | -0.10 | -0.30 
+T = 0.115143 
+
+---------------------------------------
+
+Episode 358 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:11:08
+episode time: 61.22 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -104.50 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.113416 
+
+---------------------------------------
+
+Episode 359 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:12:12
+episode time: 63.65 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -110.30 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.111715 
+
+---------------------------------------
+
+Episode 360 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:13:20
+episode time: 66.90 s (avg step: 0.06 s) 
+episode steps: 1200 
+episode reward: -103.60 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.110039 
+
+---------------------------------------
+
+Episode 361 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:14:20
+episode time: 60.04 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -97.90 
+episode max | avg | min reward: 0.40 | -0.08 | -0.30 
+T = 0.108388 
+
+---------------------------------------
+
+Episode 362 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:15:19
+episode time: 58.38 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -103.40 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.106763 
+
+---------------------------------------
+
+Episode 363 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:16:18
+episode time: 58.21 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -103.10 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.105161 
+
+---------------------------------------
+
+Episode 364 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:17:19
+episode time: 60.80 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -102.30 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.103584 
+
+---------------------------------------
+
+Episode 365 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:18:23
+episode time: 63.38 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -109.90 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.102030 
+
+---------------------------------------
+
+Episode 366 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:19:30
+episode time: 66.55 s (avg step: 0.06 s) 
+episode steps: 1200 
+episode reward: -107.50 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.100500 
+
+---------------------------------------
+
+Episode 367 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:20:32
+episode time: 61.81 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -113.60 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.098992 
+
+---------------------------------------
+
+Episode 368 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:21:32
+episode time: 60.01 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -108.90 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.097507 
+
+---------------------------------------
+
+Episode 369 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:22:39
+episode time: 66.27 s (avg step: 0.06 s) 
+episode steps: 1200 
+episode reward: -106.30 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.096045 
+
+---------------------------------------
+
+Episode 370 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:23:41
+episode time: 61.37 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -116.00 
+episode max | avg | min reward: 0.40 | -0.10 | -0.30 
+T = 0.094604 
+
+---------------------------------------
+
+Episode 371 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:24:49
+episode time: 67.43 s (avg step: 0.06 s) 
+episode steps: 1200 
+episode reward: -106.80 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.093185 
+
+---------------------------------------
+
+Episode 372 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:25:51
+episode time: 61.46 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -110.40 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.091787 
+
+---------------------------------------
+
+Episode 373 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:26:51
+episode time: 60.27 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -102.20 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.090410 
+
+---------------------------------------
+
+Episode 374 ==> CRASH {2.14,0.25,46.80}    07/10/2022 08:27:29
+episode time: 37.13 s (avg step: 0.05 s) 
+episode steps: 734 
+episode reward: -170.90 
+episode max | avg | min reward: 0.40 | -0.23 | -100.00 
+T = 0.089054 
+
+---------------------------------------
+
+Episode 375 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:28:29
+episode time: 60.14 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -105.30 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.087718 
+
+---------------------------------------
+
+Episode 376 ==> CRASH {-0.20,2.20,148.17}    07/10/2022 08:29:30
+episode time: 59.96 s (avg step: 0.05 s) 
+episode steps: 1139 
+episode reward: -203.60 
+episode max | avg | min reward: 0.40 | -0.18 | -100.00 
+T = 0.086403 
+
+---------------------------------------
+
+Episode 377 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:30:31
+episode time: 60.84 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -109.60 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.085106 
+
+---------------------------------------
+
+Episode 378 ==> CRASH {-0.20,2.21,143.99}    07/10/2022 08:31:32
+episode time: 59.95 s (avg step: 0.06 s) 
+episode steps: 1077 
+episode reward: -189.70 
+episode max | avg | min reward: 0.40 | -0.18 | -100.00 
+T = 0.083830 
+
+---------------------------------------
+
+Episode 379 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:32:32
+episode time: 60.09 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -101.10 
+episode max | avg | min reward: 0.40 | -0.08 | -0.30 
+T = 0.082572 
+
+---------------------------------------
+
+Episode 380 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:33:34
+episode time: 61.42 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -119.80 
+episode max | avg | min reward: 0.40 | -0.10 | -0.30 
+T = 0.081334 
+
+---------------------------------------
+
+Episode 381 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:34:37
+episode time: 63.04 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -107.80 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.080114 
+
+---------------------------------------
+
+Episode 382 ==> CRASH {2.18,0.40,53.14}    07/10/2022 08:35:16
+episode time: 38.42 s (avg step: 0.06 s) 
+episode steps: 692 
+episode reward: -166.90 
+episode max | avg | min reward: 0.40 | -0.24 | -100.00 
+T = 0.078912 
+
+---------------------------------------
+
+Episode 383 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:36:16
+episode time: 59.19 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -93.20 
+episode max | avg | min reward: 0.40 | -0.08 | -0.30 
+T = 0.077728 
+
+---------------------------------------
+
+Episode 384 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:37:20
+episode time: 63.99 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -110.90 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.076563 
+
+---------------------------------------
+
+Episode 385 ==> CRASH {2.10,-2.10,-48.95}    07/10/2022 08:37:52
+episode time: 32.00 s (avg step: 0.05 s) 
+episode steps: 613 
+episode reward: -182.60 
+episode max | avg | min reward: 0.40 | -0.30 | -100.00 
+T = 0.075414 
+
+---------------------------------------
+
+Episode 386 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:38:55
+episode time: 62.51 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -94.70 
+episode max | avg | min reward: 0.40 | -0.08 | -0.30 
+T = 0.074283 
+
+---------------------------------------
+
+Episode 387 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:40:02
+episode time: 66.58 s (avg step: 0.06 s) 
+episode steps: 1200 
+episode reward: -115.50 
+episode max | avg | min reward: 0.40 | -0.10 | -0.30 
+T = 0.073169 
+
+---------------------------------------
+
+Episode 388 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:41:03
+episode time: 59.78 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -95.90 
+episode max | avg | min reward: 0.40 | -0.08 | -0.30 
+T = 0.072071 
+
+---------------------------------------
+
+Episode 389 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:42:03
+episode time: 59.76 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -107.60 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.070990 
+
+---------------------------------------
+
+Episode 390 ==> CRASH {2.10,0.23,45.13}    07/10/2022 08:42:40
+episode time: 37.54 s (avg step: 0.05 s) 
+episode steps: 692 
+episode reward: -165.30 
+episode max | avg | min reward: 0.40 | -0.24 | -100.00 
+T = 0.069925 
+
+---------------------------------------
+
+Episode 391 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:43:45
+episode time: 64.02 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -110.90 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.068876 
+
+---------------------------------------
+
+Episode 392 ==> CRASH {2.15,0.31,50.50}    07/10/2022 08:44:23
+episode time: 37.74 s (avg step: 0.05 s) 
+episode steps: 714 
+episode reward: -166.70 
+episode max | avg | min reward: 0.40 | -0.23 | -100.00 
+T = 0.067843 
+
+---------------------------------------
+
+Episode 393 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:45:28
+episode time: 64.88 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -104.70 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.066826 
+
+---------------------------------------
+
+Episode 394 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:46:33
+episode time: 64.16 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -102.60 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.065823 
+
+---------------------------------------
+
+Episode 395 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:47:38
+episode time: 64.27 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -114.10 
+episode max | avg | min reward: 0.40 | -0.10 | -0.30 
+T = 0.064836 
+
+---------------------------------------
+
+Episode 396 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:48:43
+episode time: 65.18 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -105.00 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.063863 
+
+---------------------------------------
+
+Episode 397 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:49:48
+episode time: 63.69 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -104.70 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.062905 
+
+---------------------------------------
+
+Episode 398 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:50:51
+episode time: 63.48 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -106.00 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.061962 
+
+---------------------------------------
+
+Episode 399 ==> CRASH {2.17,0.41,52.36}    07/10/2022 08:51:31
+episode time: 39.24 s (avg step: 0.06 s) 
+episode steps: 713 
+episode reward: -173.20 
+episode max | avg | min reward: 0.40 | -0.24 | -100.00 
+T = 0.061032 
+
+---------------------------------------
+
+Episode 400 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:52:35
+episode time: 63.58 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -119.90 
+episode max | avg | min reward: 0.40 | -0.10 | -0.30 
+T = 0.060117 
+
+---------------------------------------
+
+Episode 401 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:53:39
+episode time: 63.71 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -104.60 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.059215 
+
+---------------------------------------
+
+Episode 402 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:54:45
+episode time: 65.83 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -104.10 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.058327 
+
+---------------------------------------
+
+Episode 403 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:55:48
+episode time: 61.85 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -106.00 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.057452 
+
+---------------------------------------
+
+Episode 404 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:56:46
+episode time: 58.29 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -95.10 
+episode max | avg | min reward: 0.40 | -0.08 | -0.30 
+T = 0.056590 
+
+---------------------------------------
+
+Episode 405 ==> CRASH {2.09,-2.08,-40.31}    07/10/2022 08:57:18
+episode time: 31.43 s (avg step: 0.05 s) 
+episode steps: 617 
+episode reward: -182.50 
+episode max | avg | min reward: 0.40 | -0.30 | -100.00 
+T = 0.055741 
+
+---------------------------------------
+
+Episode 406 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:58:23
+episode time: 64.68 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -113.50 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.054905 
+
+---------------------------------------
+
+Episode 407 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 08:59:25
+episode time: 61.30 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -109.40 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.054082 
+
+---------------------------------------
+
+Episode 408 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:00:31
+episode time: 65.19 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -106.20 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.053270 
+
+---------------------------------------
+
+Episode 409 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:01:30
+episode time: 58.97 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -98.80 
+episode max | avg | min reward: 0.40 | -0.08 | -0.30 
+T = 0.052471 
+
+---------------------------------------
+
+Episode 410 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:02:34
+episode time: 63.81 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -101.60 
+episode max | avg | min reward: 0.40 | -0.08 | -0.30 
+T = 0.051684 
+
+---------------------------------------
+
+Episode 411 ==> CRASH {2.15,0.31,50.28}    07/10/2022 09:03:13
+episode time: 38.15 s (avg step: 0.05 s) 
+episode steps: 769 
+episode reward: -185.90 
+episode max | avg | min reward: 0.40 | -0.24 | -100.00 
+T = 0.050909 
+
+---------------------------------------
+
+Episode 412 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:04:17
+episode time: 64.19 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -100.60 
+episode max | avg | min reward: 0.40 | -0.08 | -0.30 
+T = 0.050145 
+
+---------------------------------------
+
+Episode 413 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:05:23
+episode time: 65.08 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -108.30 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.049393 
+
+---------------------------------------
+
+Episode 414 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:06:25
+episode time: 61.78 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -101.30 
+episode max | avg | min reward: 0.40 | -0.08 | -0.30 
+T = 0.048652 
+
+---------------------------------------
+
+Episode 415 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:07:26
+episode time: 61.04 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -114.60 
+episode max | avg | min reward: 0.40 | -0.10 | -0.30 
+T = 0.047922 
+
+---------------------------------------
+
+Episode 416 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:08:30
+episode time: 63.62 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -113.80 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.047204 
+
+---------------------------------------
+
+Episode 417 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:09:32
+episode time: 61.10 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -101.20 
+episode max | avg | min reward: 0.40 | -0.08 | -0.30 
+T = 0.046496 
+
+---------------------------------------
+
+Episode 418 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:10:37
+episode time: 64.16 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -102.30 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.045798 
+
+---------------------------------------
+
+Episode 419 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:11:44
+episode time: 67.12 s (avg step: 0.06 s) 
+episode steps: 1200 
+episode reward: -98.20 
+episode max | avg | min reward: 0.40 | -0.08 | -0.30 
+T = 0.045111 
+
+---------------------------------------
+
+Episode 420 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:12:48
+episode time: 63.01 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -113.70 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.044435 
+
+---------------------------------------
+
+Episode 421 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:13:56
+episode time: 67.83 s (avg step: 0.06 s) 
+episode steps: 1200 
+episode reward: -109.90 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.043768 
+
+---------------------------------------
+
+Episode 422 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:15:00
+episode time: 63.17 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -116.60 
+episode max | avg | min reward: 0.40 | -0.10 | -0.30 
+T = 0.043111 
+
+---------------------------------------
+
+Episode 423 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:16:07
+episode time: 66.88 s (avg step: 0.06 s) 
+episode steps: 1200 
+episode reward: -104.10 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.042465 
+
+---------------------------------------
+
+Episode 424 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:17:13
+episode time: 65.20 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -104.20 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.041828 
+
+---------------------------------------
+
+Episode 425 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:18:17
+episode time: 64.16 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -100.70 
+episode max | avg | min reward: 0.40 | -0.08 | -0.30 
+T = 0.041200 
+
+---------------------------------------
+
+Episode 426 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:19:21
+episode time: 62.94 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -102.10 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.040582 
+
+---------------------------------------
+
+Episode 427 ==> CRASH {2.16,0.32,50.86}    07/10/2022 09:19:59
+episode time: 37.94 s (avg step: 0.06 s) 
+episode steps: 671 
+episode reward: -165.90 
+episode max | avg | min reward: 0.40 | -0.25 | -100.00 
+T = 0.039974 
+
+---------------------------------------
+
+Episode 428 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:21:00
+episode time: 60.60 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -97.80 
+episode max | avg | min reward: 0.40 | -0.08 | -0.30 
+T = 0.039374 
+
+---------------------------------------
+
+Episode 429 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:22:00
+episode time: 59.43 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -106.90 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.038783 
+
+---------------------------------------
+
+Episode 430 ==> CRASH {2.17,0.33,49.62}    07/10/2022 09:22:38
+episode time: 38.16 s (avg step: 0.05 s) 
+episode steps: 747 
+episode reward: -168.00 
+episode max | avg | min reward: 0.40 | -0.23 | -100.00 
+T = 0.038202 
+
+---------------------------------------
+
+Episode 431 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:23:46
+episode time: 67.04 s (avg step: 0.06 s) 
+episode steps: 1200 
+episode reward: -117.80 
+episode max | avg | min reward: 0.40 | -0.10 | -0.30 
+T = 0.037629 
+
+---------------------------------------
+
+Episode 432 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:24:54
+episode time: 67.87 s (avg step: 0.06 s) 
+episode steps: 1200 
+episode reward: -112.40 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.037064 
+
+---------------------------------------
+
+Episode 433 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:25:59
+episode time: 64.22 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -116.40 
+episode max | avg | min reward: 0.40 | -0.10 | -0.30 
+T = 0.036508 
+
+---------------------------------------
+
+Episode 434 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:27:01
+episode time: 61.88 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -92.40 
+episode max | avg | min reward: 0.40 | -0.08 | -0.30 
+T = 0.035961 
+
+---------------------------------------
+
+Episode 435 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:28:07
+episode time: 64.88 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -105.20 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.035421 
+
+---------------------------------------
+
+Episode 436 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:29:10
+episode time: 63.40 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -104.30 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.034890 
+
+---------------------------------------
+
+Episode 437 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:30:14
+episode time: 63.15 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -102.60 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.034367 
+
+---------------------------------------
+
+Episode 438 ==> CRASH {2.08,-2.10,-35.41}    07/10/2022 09:30:47
+episode time: 33.12 s (avg step: 0.05 s) 
+episode steps: 640 
+episode reward: -197.80 
+episode max | avg | min reward: 0.40 | -0.31 | -100.00 
+T = 0.033851 
+
+---------------------------------------
+
+Episode 439 ==> MAX STEPS PER EPISODE REACHED {1200}    07/10/2022 09:31:53
+episode time: 65.16 s (avg step: 0.05 s) 
+episode steps: 1200 
+episode reward: -113.70 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.033343 
+
+---------------------------------------
+
+Episode 440 ==> CRASH {2.15,0.30,52.46}    07/10/2022 09:32:31
+episode time: 37.68 s (avg step: 0.05 s) 
+episode steps: 735 
+episode reward: -175.10 
+episode max | avg | min reward: 0.40 | -0.24 | -100.00 
+T = 0.032843 
+
+---------------------------------------
+
+Episode 441 ==> CRASH {-0.20,2.21,147.51}    07/10/2022 09:33:31
+episode time: 59.64 s (avg step: 0.05 s) 
+episode steps: 1116 
+episode reward: -200.20 
+episode max | avg | min reward: 0.40 | -0.18 | -100.00 
+T = 0.032351 
+
+---------------------------------------
+
+Episode 442 ==> CRASH {-0.22,2.21,147.15}    07/10/2022 09:34:32
+episode time: 60.07 s (avg step: 0.05 s) 
+episode steps: 1093 
+episode reward: -201.90 
+episode max | avg | min reward: 0.40 | -0.18 | -100.00 
+T = 0.031865 
+
+---------------------------------------
+
+Episode 443 ==> CRASH {2.19,0.38,51.51}    07/10/2022 09:35:10
+episode time: 37.85 s (avg step: 0.05 s) 
+episode steps: 697 
+episode reward: -166.40 
+episode max | avg | min reward: 0.40 | -0.24 | -100.00 
+T = 0.031387 
+
+---------------------------------------
+
+Episode 444 ==> CRASH {2.13,0.19,43.84}    07/10/2022 09:35:47
+episode time: 36.87 s (avg step: 0.05 s) 
+episode steps: 750 
+episode reward: -153.80 
+episode max | avg | min reward: 0.40 | -0.21 | -100.00 
+T = 0.030916 
+
+---------------------------------------
+
+Episode 445 ==> CRASH {-2.03,-1.37,-79.85}    07/10/2022 09:35:50
+episode time: 3.38 s (avg step: 0.06 s) 
+episode steps: 57 
+episode reward: -109.00 
+episode max | avg | min reward: 0.40 | -1.95 | -100.00 
+T = 0.030453 
+
+---------------------------------------
+
+Episode 446 ==> CRASH {-2.03,-1.36,-81.50}    07/10/2022 09:35:54
+episode time: 3.31 s (avg step: 0.05 s) 
+episode steps: 63 
+episode reward: -107.90 
+episode max | avg | min reward: 0.10 | -1.74 | -100.00 
+T = 0.029996 
+
+---------------------------------------
+
+Episode 447 ==> CRASH {-2.04,-1.33,-81.96}    07/10/2022 09:35:57
+episode time: 3.22 s (avg step: 0.05 s) 
+episode steps: 70 
+episode reward: -109.00 
+episode max | avg | min reward: 0.10 | -1.58 | -100.00 
+T = 0.029546 
+
+---------------------------------------
+
+Episode 448 ==> CRASH {-2.04,-1.36,-75.59}    07/10/2022 09:36:01
+episode time: 3.50 s (avg step: 0.06 s) 
+episode steps: 63 
+episode reward: -110.10 
+episode max | avg | min reward: 0.10 | -1.78 | -100.00 
+T = 0.029103 
+
+---------------------------------------
+
+Episode 449 ==> CRASH {-2.04,-1.35,-76.36}    07/10/2022 09:36:04
+episode time: 3.56 s (avg step: 0.07 s) 
+episode steps: 51 
+episode reward: -106.90 
+episode max | avg | min reward: 0.10 | -2.14 | -100.00 
+T = 0.028666 
+
+---------------------------------------
+
+Episode 450 ==> CRASH {-2.04,-1.35,-76.31}    07/10/2022 09:36:08
+episode time: 3.53 s (avg step: 0.07 s) 
+episode steps: 49 
+episode reward: -106.30 
+episode max | avg | min reward: 0.10 | -2.21 | -100.00 
+T = 0.028236 
+
+---------------------------------------
+
+Episode 451 ==> CRASH {-2.05,-1.33,-77.77}    07/10/2022 09:36:11
+episode time: 3.48 s (avg step: 0.04 s) 
+episode steps: 82 
+episode reward: -113.20 
+episode max | avg | min reward: 0.10 | -1.40 | -100.00 
+T = 0.027813 
+
+---------------------------------------
+
+Episode 452 ==> CRASH {-2.04,-1.36,-78.49}    07/10/2022 09:36:15
+episode time: 3.45 s (avg step: 0.04 s) 
+episode steps: 90 
+episode reward: -111.00 
+episode max | avg | min reward: 0.40 | -1.25 | -100.00 
+T = 0.027396 
+
+---------------------------------------
+
+Episode 453 ==> CRASH {-0.68,-2.13,-42.46}    07/10/2022 09:36:28
+episode time: 13.32 s (avg step: 0.05 s) 
+episode steps: 243 
+episode reward: -118.70 
+episode max | avg | min reward: 0.40 | -0.49 | -100.00 
+T = 0.026985 
+
+---------------------------------------
+
+Episode 454 ==> CRASH {-2.04,-1.34,-80.55}    07/10/2022 09:36:32
+episode time: 3.57 s (avg step: 0.06 s) 
+episode steps: 59 
+episode reward: -110.50 
+episode max | avg | min reward: 0.10 | -1.91 | -100.00 
+T = 0.026580 
+
+---------------------------------------
+
+Episode 455 ==> CRASH {-2.04,-1.35,-77.31}    07/10/2022 09:36:36
+episode time: 3.57 s (avg step: 0.07 s) 
+episode steps: 54 
+episode reward: -107.80 
+episode max | avg | min reward: 0.10 | -2.03 | -100.00 
+T = 0.026181 
+
+---------------------------------------
+
+Episode 456 ==> CRASH {-2.04,-1.35,-76.67}    07/10/2022 09:36:39
+episode time: 3.51 s (avg step: 0.05 s) 
+episode steps: 66 
+episode reward: -108.10 
+episode max | avg | min reward: 0.40 | -1.66 | -100.00 
+T = 0.025788 
+
+---------------------------------------
+
+Episode 457 ==> CRASH {-2.04,-1.34,-77.17}    07/10/2022 09:36:43
+episode time: 3.46 s (avg step: 0.05 s) 
+episode steps: 63 
+episode reward: -108.90 
+episode max | avg | min reward: 0.10 | -1.76 | -100.00 
+T = 0.025402 
+
+---------------------------------------
+
+Episode 458 ==> CRASH {-2.03,-1.38,-77.69}    07/10/2022 09:36:46
+episode time: 3.60 s (avg step: 0.06 s) 
+episode steps: 58 
+episode reward: -106.90 
+episode max | avg | min reward: 0.40 | -1.88 | -100.00 
+T = 0.025021 
+
+---------------------------------------
+
+Episode 459 ==> CRASH {2.07,0.10,33.87}    07/10/2022 09:37:22
+episode time: 35.48 s (avg step: 0.05 s) 
+episode steps: 678 
+episode reward: -163.20 
+episode max | avg | min reward: 0.40 | -0.24 | -100.00 
+T = 0.024645 
+
+---------------------------------------
+
+Episode 460 ==> CRASH {2.05,0.03,26.91}    07/10/2022 09:37:58
+episode time: 35.88 s (avg step: 0.05 s) 
+episode steps: 694 
+episode reward: -164.70 
+episode max | avg | min reward: 0.40 | -0.24 | -100.00 
+T = 0.024276 
+
+---------------------------------------
+
+Episode 461 ==> CRASH {2.06,0.11,29.81}    07/10/2022 09:38:35
+episode time: 35.96 s (avg step: 0.05 s) 
+episode steps: 745 
+episode reward: -162.20 
+episode max | avg | min reward: 0.40 | -0.22 | -100.00 
+T = 0.023911 
+
+---------------------------------------
+
+Episode 462 ==> CRASH {2.08,0.05,27.39}    07/10/2022 09:39:10
+episode time: 35.25 s (avg step: 0.05 s) 
+episode steps: 674 
+episode reward: -154.80 
+episode max | avg | min reward: 0.40 | -0.23 | -100.00 
+T = 0.023553 
+
+---------------------------------------
+
+Episode 463 ==> CRASH {2.06,0.07,32.97}    07/10/2022 09:39:46
+episode time: 35.76 s (avg step: 0.05 s) 
+episode steps: 659 
+episode reward: -156.10 
+episode max | avg | min reward: 0.40 | -0.24 | -100.00 
+T = 0.023199 
+
+---------------------------------------
+
+Episode 464 ==> CRASH {2.05,0.10,29.67}    07/10/2022 09:40:22
+episode time: 35.05 s (avg step: 0.05 s) 
+episode steps: 666 
+episode reward: -152.80 
+episode max | avg | min reward: 0.40 | -0.23 | -100.00 
+T = 0.022852 
+
+---------------------------------------
+
+Episode 465 ==> CRASH {0.60,-0.30,84.75}    07/10/2022 09:40:47
+episode time: 24.69 s (avg step: 0.05 s) 
+episode steps: 546 
+episode reward: -118.70 
+episode max | avg | min reward: 0.40 | -0.22 | -100.00 
+T = 0.022509 
+
+---------------------------------------
+
+Episode 466 ==> CRASH {1.17,-0.98,19.57}    07/10/2022 09:41:11
+episode time: 24.19 s (avg step: 0.06 s) 
+episode steps: 411 
+episode reward: -110.60 
+episode max | avg | min reward: 0.40 | -0.27 | -100.00 
+T = 0.022171 
+
+---------------------------------------
+
+Episode 467 ==> CRASH {1.18,-0.92,28.93}    07/10/2022 09:41:37
+episode time: 25.65 s (avg step: 0.05 s) 
+episode steps: 506 
+episode reward: -126.90 
+episode max | avg | min reward: 0.40 | -0.25 | -100.00 
+T = 0.021839 
+
+---------------------------------------
+
+Episode 468 ==> CRASH {2.04,0.03,29.83}    07/10/2022 09:42:12
+episode time: 34.83 s (avg step: 0.05 s) 
+episode steps: 645 
+episode reward: -151.20 
+episode max | avg | min reward: 0.40 | -0.23 | -100.00 
+T = 0.021511 
+
+---------------------------------------
+
+Episode 469 ==> CRASH {2.06,0.03,32.79}    07/10/2022 09:42:47
+episode time: 34.95 s (avg step: 0.05 s) 
+episode steps: 687 
+episode reward: -157.10 
+episode max | avg | min reward: 0.40 | -0.23 | -100.00 
+T = 0.021188 
+
+---------------------------------------
+
+Episode 470 ==> CRASH {2.07,0.09,32.77}    07/10/2022 09:43:24
+episode time: 36.62 s (avg step: 0.05 s) 
+episode steps: 734 
+episode reward: -166.40 
+episode max | avg | min reward: 0.40 | -0.23 | -100.00 
+T = 0.020870 
+
+---------------------------------------
+
+Episode 471 ==> CRASH {2.05,0.04,30.40}    07/10/2022 09:43:59
+episode time: 34.56 s (avg step: 0.06 s) 
+episode steps: 599 
+episode reward: -147.40 
+episode max | avg | min reward: 0.40 | -0.25 | -100.00 
+T = 0.020557 
+
+---------------------------------------
+
+Episode 472 ==> CRASH {0.69,-0.07,71.79}    07/10/2022 09:44:26
+episode time: 26.69 s (avg step: 0.05 s) 
+episode steps: 526 
+episode reward: -112.90 
+episode max | avg | min reward: 0.40 | -0.22 | -100.00 
+T = 0.020249 
+
+---------------------------------------
+
+Episode 473 ==> CRASH {1.29,-1.27,14.83}    07/10/2022 09:44:49
+episode time: 23.27 s (avg step: 0.06 s) 
+episode steps: 421 
+episode reward: -119.00 
+episode max | avg | min reward: 0.40 | -0.28 | -100.00 
+T = 0.019945 
+
+---------------------------------------
+
+Episode 474 ==> CRASH {1.29,-1.24,19.59}    07/10/2022 09:45:13
+episode time: 23.20 s (avg step: 0.05 s) 
+episode steps: 464 
+episode reward: -121.60 
+episode max | avg | min reward: 0.40 | -0.26 | -100.00 
+T = 0.019646 
+
+---------------------------------------
+
+Episode 475 ==> CRASH {1.28,-1.26,13.95}    07/10/2022 09:45:36
+episode time: 23.40 s (avg step: 0.05 s) 
+episode steps: 426 
+episode reward: -127.80 
+episode max | avg | min reward: 0.40 | -0.30 | -100.00 
+T = 0.019351 
+
+---------------------------------------
+
+Episode 476 ==> CRASH {1.29,-1.26,14.56}    07/10/2022 09:46:00
+episode time: 23.41 s (avg step: 0.06 s) 
+episode steps: 422 
+episode reward: -113.70 
+episode max | avg | min reward: 0.40 | -0.27 | -100.00 
+T = 0.019061 
+
+---------------------------------------
+
+Episode 477 ==> CRASH {1.31,-1.29,20.72}    07/10/2022 09:46:24
+episode time: 24.38 s (avg step: 0.06 s) 
+episode steps: 441 
+episode reward: -126.40 
+episode max | avg | min reward: 0.40 | -0.29 | -100.00 
+T = 0.018775 
+
+---------------------------------------
+
+Episode 478 ==> CRASH {1.34,-1.29,22.54}    07/10/2022 09:46:49
+episode time: 23.95 s (avg step: 0.06 s) 
+episode steps: 426 
+episode reward: -117.80 
+episode max | avg | min reward: 0.40 | -0.28 | -100.00 
+T = 0.018494 
+
+---------------------------------------
+
+Episode 479 ==> CRASH {1.27,-1.25,9.12}    07/10/2022 09:47:12
+episode time: 23.38 s (avg step: 0.05 s) 
+episode steps: 454 
+episode reward: -118.20 
+episode max | avg | min reward: 0.40 | -0.26 | -100.00 
+T = 0.018216 
+
+---------------------------------------
+
+Episode 480 ==> CRASH {1.28,-1.27,17.79}    07/10/2022 09:47:35
+episode time: 23.17 s (avg step: 0.05 s) 
+episode steps: 481 
+episode reward: -114.60 
+episode max | avg | min reward: 0.40 | -0.24 | -100.00 
+T = 0.017943 
+
+---------------------------------------
+
+Episode 481 ==> CRASH {1.29,-1.29,16.63}    07/10/2022 09:47:59
+episode time: 23.43 s (avg step: 0.05 s) 
+episode steps: 453 
+episode reward: -114.30 
+episode max | avg | min reward: 0.40 | -0.25 | -100.00 
+T = 0.017674 
+
+---------------------------------------
+
+Episode 482 ==> CRASH {1.27,-1.24,10.04}    07/10/2022 09:48:22
+episode time: 23.28 s (avg step: 0.05 s) 
+episode steps: 485 
+episode reward: -114.00 
+episode max | avg | min reward: 0.40 | -0.24 | -100.00 
+T = 0.017409 
+
+---------------------------------------
+
+Episode 483 ==> CRASH {1.30,-1.25,13.99}    07/10/2022 09:48:46
+episode time: 23.27 s (avg step: 0.06 s) 
+episode steps: 382 
+episode reward: -114.90 
+episode max | avg | min reward: 0.40 | -0.30 | -100.00 
+T = 0.017148 
+
+---------------------------------------
+
+Episode 484 ==> CRASH {-0.63,-2.10,-40.85}    07/10/2022 09:49:00
+episode time: 13.66 s (avg step: 0.06 s) 
+episode steps: 217 
+episode reward: -118.40 
+episode max | avg | min reward: 0.40 | -0.55 | -100.00 
+T = 0.016890 
+
+---------------------------------------
+
+Episode 485 ==> CRASH {-0.58,-2.12,-44.65}    07/10/2022 09:49:14
+episode time: 13.77 s (avg step: 0.05 s) 
+episode steps: 265 
+episode reward: -119.30 
+episode max | avg | min reward: 0.40 | -0.45 | -100.00 
+T = 0.016637 
+
+---------------------------------------
+
+Episode 486 ==> CRASH {1.46,-1.16,23.41}    07/10/2022 09:49:36
+episode time: 22.34 s (avg step: 0.05 s) 
+episode steps: 428 
+episode reward: -96.30 
+episode max | avg | min reward: 0.40 | -0.23 | -100.00 
+T = 0.016387 
+
+---------------------------------------
+
+Episode 487 ==> CRASH {-0.55,-2.14,-41.03}    07/10/2022 09:49:50
+episode time: 13.85 s (avg step: 0.05 s) 
+episode steps: 301 
+episode reward: -129.10 
+episode max | avg | min reward: 0.40 | -0.43 | -100.00 
+T = 0.016142 
+
+---------------------------------------
+
+Episode 488 ==> CRASH {-0.53,-2.16,-41.60}    07/10/2022 09:50:04
+episode time: 13.69 s (avg step: 0.06 s) 
+episode steps: 245 
+episode reward: -124.30 
+episode max | avg | min reward: 0.40 | -0.51 | -100.00 
+T = 0.015900 
+
+---------------------------------------
+
+Episode 489 ==> CRASH {1.36,-1.28,26.64}    07/10/2022 09:50:26
+episode time: 21.66 s (avg step: 0.05 s) 
+episode steps: 415 
+episode reward: -104.90 
+episode max | avg | min reward: 0.40 | -0.25 | -100.00 
+T = 0.015661 
+
+---------------------------------------
+
+Episode 490 ==> CRASH {1.53,-1.15,35.23}    07/10/2022 09:50:47
+episode time: 20.91 s (avg step: 0.05 s) 
+episode steps: 406 
+episode reward: -99.30 
+episode max | avg | min reward: 0.40 | -0.25 | -100.00 
+T = 0.015426 
+
+---------------------------------------
+
+Episode 491 ==> CRASH {-0.56,-2.13,-42.83}    07/10/2022 09:51:00
+episode time: 13.29 s (avg step: 0.05 s) 
+episode steps: 256 
+episode reward: -116.40 
+episode max | avg | min reward: 0.40 | -0.46 | -100.00 
+T = 0.015195 
+
+---------------------------------------
+
+Episode 492 ==> CRASH {-0.57,-2.13,-43.50}    07/10/2022 09:51:14
+episode time: 13.33 s (avg step: 0.06 s) 
+episode steps: 211 
+episode reward: -121.60 
+episode max | avg | min reward: 0.40 | -0.58 | -100.00 
+T = 0.014967 
+
+---------------------------------------
+
+Episode 493 ==> CRASH {-0.54,-2.15,-40.50}    07/10/2022 09:51:28
+episode time: 13.66 s (avg step: 0.05 s) 
+episode steps: 264 
+episode reward: -122.40 
+episode max | avg | min reward: 0.40 | -0.47 | -100.00 
+T = 0.014742 
+
+---------------------------------------
+
+Episode 494 ==> CRASH {-0.56,-2.14,-43.70}    07/10/2022 09:51:41
+episode time: 13.70 s (avg step: 0.05 s) 
+episode steps: 275 
+episode reward: -119.60 
+episode max | avg | min reward: 0.40 | -0.44 | -100.00 
+T = 0.014521 
+
+---------------------------------------
+
+Episode 495 ==> CRASH {-0.57,-2.12,-43.32}    07/10/2022 09:51:55
+episode time: 13.50 s (avg step: 0.06 s) 
+episode steps: 238 
+episode reward: -122.60 
+episode max | avg | min reward: 0.40 | -0.52 | -100.00 
+T = 0.014303 
+
+---------------------------------------
+
+Episode 496 ==> CRASH {-0.57,-2.14,-41.11}    07/10/2022 09:52:09
+episode time: 13.35 s (avg step: 0.06 s) 
+episode steps: 227 
+episode reward: -119.70 
+episode max | avg | min reward: 0.40 | -0.53 | -100.00 
+T = 0.014089 
+
+---------------------------------------
+
+Episode 497 ==> CRASH {-0.54,-2.14,-43.56}    07/10/2022 09:52:23
+episode time: 13.76 s (avg step: 0.05 s) 
+episode steps: 257 
+episode reward: -125.10 
+episode max | avg | min reward: 0.40 | -0.49 | -100.00 
+T = 0.013877 
+
+---------------------------------------
+
+Episode 498 ==> CRASH {2.11,-2.11,-50.51}    07/10/2022 09:52:52
+episode time: 29.23 s (avg step: 0.06 s) 
+episode steps: 518 
+episode reward: -134.90 
+episode max | avg | min reward: 0.40 | -0.26 | -100.00 
+T = 0.013669 
+
+---------------------------------------
+
+Episode 499 ==> CRASH {-0.51,-2.16,-36.87}    07/10/2022 09:53:06
+episode time: 13.38 s (avg step: 0.06 s) 
+episode steps: 218 
+episode reward: -118.00 
+episode max | avg | min reward: 0.40 | -0.54 | -100.00 
+T = 0.013464 
+
+---------------------------------------
+
+Episode 500 ==> CRASH {-0.52,-2.15,-42.97}    07/10/2022 09:53:19
+episode time: 13.51 s (avg step: 0.05 s) 
+episode steps: 273 
+episode reward: -122.70 
+episode max | avg | min reward: 0.40 | -0.45 | -100.00 
+T = 0.013262 
+
+---------------------------------------
+
+Episode 501 ==> CRASH {2.10,-2.10,-42.53}    07/10/2022 09:53:49
+episode time: 29.34 s (avg step: 0.06 s) 
+episode steps: 491 
+episode reward: -146.40 
+episode max | avg | min reward: 0.40 | -0.30 | -100.00 
+T = 0.013063 
+
+---------------------------------------
+
+Episode 502 ==> CRASH {2.10,-2.08,-42.20}    07/10/2022 09:54:18
+episode time: 28.77 s (avg step: 0.06 s) 
+episode steps: 508 
+episode reward: -137.50 
+episode max | avg | min reward: 0.40 | -0.27 | -100.00 
+T = 0.012867 
+
+---------------------------------------
+
+Episode 503 ==> CRASH {2.09,-2.08,-38.85}    07/10/2022 09:54:46
+episode time: 27.58 s (avg step: 0.05 s) 
+episode steps: 511 
+episode reward: -119.10 
+episode max | avg | min reward: 0.40 | -0.23 | -100.00 
+T = 0.012674 
+
+---------------------------------------
+
+Episode 504 ==> CRASH {2.10,-2.09,-41.55}    07/10/2022 09:55:14
+episode time: 28.50 s (avg step: 0.06 s) 
+episode steps: 489 
+episode reward: -134.00 
+episode max | avg | min reward: 0.40 | -0.27 | -100.00 
+T = 0.012484 
+
+---------------------------------------
+
+Episode 505 ==> CRASH {-0.59,-2.15,-42.89}    07/10/2022 09:55:27
+episode time: 12.64 s (avg step: 0.05 s) 
+episode steps: 240 
+episode reward: -113.50 
+episode max | avg | min reward: 0.40 | -0.47 | -100.00 
+T = 0.012297 
+
+---------------------------------------
+
+Episode 506 ==> CRASH {-0.58,-2.13,-42.42}    07/10/2022 09:55:39
+episode time: 12.04 s (avg step: 0.04 s) 
+episode steps: 269 
+episode reward: -117.20 
+episode max | avg | min reward: 0.40 | -0.44 | -100.00 
+T = 0.012113 
+
+---------------------------------------
+
+Episode 507 ==> CRASH {2.11,-2.11,-45.80}    07/10/2022 09:56:07
+episode time: 27.21 s (avg step: 0.06 s) 
+episode steps: 481 
+episode reward: -134.00 
+episode max | avg | min reward: 0.40 | -0.28 | -100.00 
+T = 0.011931 
+
+---------------------------------------
+
+Episode 508 ==> CRASH {-0.55,-2.16,-40.02}    07/10/2022 09:56:20
+episode time: 12.64 s (avg step: 0.06 s) 
+episode steps: 217 
+episode reward: -115.40 
+episode max | avg | min reward: 0.40 | -0.53 | -100.00 
+T = 0.011752 
+
+---------------------------------------
+
+Episode 509 ==> CRASH {-0.56,-2.15,-42.82}    07/10/2022 09:56:32
+episode time: 12.69 s (avg step: 0.06 s) 
+episode steps: 207 
+episode reward: -110.20 
+episode max | avg | min reward: 0.40 | -0.53 | -100.00 
+T = 0.011576 
+
+---------------------------------------
+
+Episode 510 ==> CRASH {-0.57,-2.14,-44.16}    07/10/2022 09:56:45
+episode time: 12.32 s (avg step: 0.06 s) 
+episode steps: 213 
+episode reward: -110.80 
+episode max | avg | min reward: 0.40 | -0.52 | -100.00 
+T = 0.011402 
+
+---------------------------------------
+
+Episode 511 ==> CRASH {1.51,-1.17,29.83}    07/10/2022 09:57:05
+episode time: 19.49 s (avg step: 0.05 s) 
+episode steps: 399 
+episode reward: -84.30 
+episode max | avg | min reward: 0.40 | -0.21 | -100.00 
+T = 0.011231 
+
+---------------------------------------
+
+Episode 512 ==> CRASH {-0.54,-2.16,-40.00}    07/10/2022 09:57:18
+episode time: 13.02 s (avg step: 0.06 s) 
+episode steps: 226 
+episode reward: -118.30 
+episode max | avg | min reward: 0.40 | -0.53 | -100.00 
+T = 0.011063 
+
+---------------------------------------
+
+Episode 513 ==> CRASH {1.38,-1.27,26.42}    07/10/2022 09:57:38
+episode time: 19.66 s (avg step: 0.06 s) 
+episode steps: 325 
+episode reward: -100.00 
+episode max | avg | min reward: 0.40 | -0.31 | -100.00 
+T = 0.010897 
+
+---------------------------------------
+
+Episode 514 ==> CRASH {-0.77,-1.77,-18.94}    07/10/2022 09:57:50
+episode time: 12.31 s (avg step: 0.05 s) 
+episode steps: 233 
+episode reward: -124.60 
+episode max | avg | min reward: 0.10 | -0.54 | -100.00 
+T = 0.010733 
+
+---------------------------------------
+
+Episode 515 ==> CRASH {-0.79,-1.77,-21.72}    07/10/2022 09:58:02
+episode time: 12.13 s (avg step: 0.05 s) 
+episode steps: 221 
+episode reward: -127.10 
+episode max | avg | min reward: 0.40 | -0.58 | -100.00 
+T = 0.010572 
+
+---------------------------------------
+
+Episode 516 ==> CRASH {-0.76,-1.78,-19.53}    07/10/2022 09:58:14
+episode time: 11.99 s (avg step: 0.05 s) 
+episode steps: 232 
+episode reward: -122.50 
+episode max | avg | min reward: 0.40 | -0.53 | -100.00 
+T = 0.010414 
+
+---------------------------------------
+
+Episode 517 ==> CRASH {-0.79,-1.77,-21.98}    07/10/2022 09:58:27
+episode time: 12.90 s (avg step: 0.05 s) 
+episode steps: 283 
+episode reward: -131.50 
+episode max | avg | min reward: 0.40 | -0.47 | -100.00 
+T = 0.010257 
+
+---------------------------------------
+
+Episode 518 ==> CRASH {-0.78,-1.79,-19.36}    07/10/2022 09:58:40
+episode time: 12.69 s (avg step: 0.07 s) 
+episode steps: 193 
+episode reward: -120.60 
+episode max | avg | min reward: 0.10 | -0.63 | -100.00 
+T = 0.010103 
+
+---------------------------------------
+
+Episode 519 ==> CRASH {-0.73,-1.84,-11.11}    07/10/2022 09:58:54
+episode time: 13.97 s (avg step: 0.06 s) 
+episode steps: 241 
+episode reward: -128.30 
+episode max | avg | min reward: 0.10 | -0.53 | -100.00 
+T = 0.009952 
+
+---------------------------------------
+
+Episode 520 ==> CRASH {-0.72,-1.84,-12.77}    07/10/2022 09:59:08
+episode time: 13.87 s (avg step: 0.06 s) 
+episode steps: 240 
+episode reward: -125.70 
+episode max | avg | min reward: 0.10 | -0.53 | -100.00 
+T = 0.009803 
+
+---------------------------------------
+
+Episode 521 ==> CRASH {-0.73,-1.86,-11.88}    07/10/2022 09:59:22
+episode time: 13.36 s (avg step: 0.07 s) 
+episode steps: 201 
+episode reward: -120.80 
+episode max | avg | min reward: 0.40 | -0.60 | -100.00 
+T = 0.009656 
+
+---------------------------------------
+
+Episode 522 ==> CRASH {-0.64,-1.86,-2.07}    07/10/2022 09:59:37
+episode time: 14.31 s (avg step: 0.06 s) 
+episode steps: 235 
+episode reward: -123.00 
+episode max | avg | min reward: 0.40 | -0.53 | -100.00 
+T = 0.009511 
+
+---------------------------------------
+
+Episode 523 ==> CRASH {1.35,-1.33,23.70}    07/10/2022 09:59:58
+episode time: 21.11 s (avg step: 0.05 s) 
+episode steps: 408 
+episode reward: -101.70 
+episode max | avg | min reward: 0.40 | -0.25 | -100.00 
+T = 0.009368 
+
+---------------------------------------
+
+Episode 524 ==> CRASH {1.36,-1.33,23.80}    07/10/2022 10:00:19
+episode time: 21.41 s (avg step: 0.05 s) 
+episode steps: 418 
+episode reward: -110.50 
+episode max | avg | min reward: 0.40 | -0.26 | -100.00 
+T = 0.009228 
+
+---------------------------------------
+
+Episode 525 ==> CRASH {1.37,-1.36,29.44}    07/10/2022 10:00:41
+episode time: 20.77 s (avg step: 0.06 s) 
+episode steps: 331 
+episode reward: -106.30 
+episode max | avg | min reward: 0.40 | -0.32 | -100.00 
+T = 0.009089 
+
+---------------------------------------
+
+Episode 526 ==> CRASH {1.47,-1.28,29.24}    07/10/2022 10:01:02
+episode time: 21.07 s (avg step: 0.05 s) 
+episode steps: 440 
+episode reward: -102.60 
+episode max | avg | min reward: 0.40 | -0.23 | -100.00 
+T = 0.008953 
+
+---------------------------------------
+
+Episode 527 ==> CRASH {-0.46,-2.13,-42.94}    07/10/2022 10:01:18
+episode time: 16.06 s (avg step: 0.05 s) 
+episode steps: 335 
+episode reward: -142.90 
+episode max | avg | min reward: 0.10 | -0.43 | -100.00 
+T = 0.008819 
+
+---------------------------------------
+
+Episode 528 ==> CRASH {-0.45,-2.14,-40.77}    07/10/2022 10:01:33
+episode time: 14.45 s (avg step: 0.06 s) 
+episode steps: 242 
+episode reward: -124.80 
+episode max | avg | min reward: 0.10 | -0.52 | -100.00 
+T = 0.008686 
+
+---------------------------------------
+
+Episode 529 ==> CRASH {2.10,-2.11,-48.35}    07/10/2022 10:02:06
+episode time: 33.30 s (avg step: 0.05 s) 
+episode steps: 648 
+episode reward: -161.00 
+episode max | avg | min reward: 0.40 | -0.25 | -100.00 
+T = 0.008556 
+
+---------------------------------------
+
+Episode 530 ==> CRASH {-0.47,-2.14,-42.60}    07/10/2022 10:02:22
+episode time: 15.22 s (avg step: 0.06 s) 
+episode steps: 238 
+episode reward: -129.50 
+episode max | avg | min reward: 0.10 | -0.55 | -100.00 
+T = 0.008428 
+
+---------------------------------------
+
+Episode 531 ==> CRASH {-0.45,-2.14,-40.68}    07/10/2022 10:02:37
+episode time: 14.94 s (avg step: 0.05 s) 
+episode steps: 291 
+episode reward: -133.80 
+episode max | avg | min reward: 0.10 | -0.46 | -100.00 
+T = 0.008301 
+
+---------------------------------------
+
+Episode 532 ==> CRASH {-0.42,-2.15,-42.78}    07/10/2022 10:02:52
+episode time: 15.49 s (avg step: 0.06 s) 
+episode steps: 250 
+episode reward: -131.50 
+episode max | avg | min reward: 0.40 | -0.53 | -100.00 
+T = 0.008177 
+
+---------------------------------------
+
+Episode 533 ==> CRASH {2.11,-2.12,-40.72}    07/10/2022 10:03:25
+episode time: 32.88 s (avg step: 0.05 s) 
+episode steps: 671 
+episode reward: -170.50 
+episode max | avg | min reward: 0.40 | -0.25 | -100.00 
+T = 0.008054 
+
+---------------------------------------
+
+Episode 534 ==> CRASH {-0.46,-2.16,-42.26}    07/10/2022 10:03:41
+episode time: 15.90 s (avg step: 0.05 s) 
+episode steps: 339 
+episode reward: -144.80 
+episode max | avg | min reward: 0.40 | -0.43 | -100.00 
+T = 0.007933 
+
+---------------------------------------
+
+Episode 535 ==> CRASH {-0.46,-2.13,-40.26}    07/10/2022 10:03:56
+episode time: 15.01 s (avg step: 0.05 s) 
+episode steps: 307 
+episode reward: -138.00 
+episode max | avg | min reward: 0.10 | -0.45 | -100.00 
+T = 0.007814 
+
+---------------------------------------
+
+Episode 536 ==> CRASH {-0.48,-2.14,-42.74}    07/10/2022 10:04:11
+episode time: 14.86 s (avg step: 0.05 s) 
+episode steps: 292 
+episode reward: -131.50 
+episode max | avg | min reward: 0.40 | -0.45 | -100.00 
+T = 0.007697 
+
+---------------------------------------
+
+Episode 537 ==> CRASH {-0.51,-2.14,-42.33}    07/10/2022 10:04:26
+episode time: 14.62 s (avg step: 0.06 s) 
+episode steps: 256 
+episode reward: -132.70 
+episode max | avg | min reward: 0.10 | -0.52 | -100.00 
+T = 0.007582 
+
+---------------------------------------
+
+Episode 538 ==> CRASH {-0.46,-2.14,-39.27}    07/10/2022 10:04:41
+episode time: 14.34 s (avg step: 0.06 s) 
+episode steps: 225 
+episode reward: -125.70 
+episode max | avg | min reward: 0.10 | -0.56 | -100.00 
+T = 0.007468 
+
+---------------------------------------
+
+Episode 539 ==> CRASH {-0.46,-2.14,-41.13}    07/10/2022 10:04:55
+episode time: 14.56 s (avg step: 0.05 s) 
+episode steps: 290 
+episode reward: -131.80 
+episode max | avg | min reward: 0.40 | -0.46 | -100.00 
+T = 0.007356 
+
+---------------------------------------
+
+Episode 540 ==> CRASH {-0.35,-2.13,-37.76}    07/10/2022 10:05:11
+episode time: 15.84 s (avg step: 0.05 s) 
+episode steps: 298 
+episode reward: -141.00 
+episode max | avg | min reward: 0.10 | -0.47 | -100.00 
+T = 0.007245 
+
+---------------------------------------
+
+Episode 541 ==> CRASH {-0.48,-2.16,-40.50}    07/10/2022 10:05:27
+episode time: 15.38 s (avg step: 0.05 s) 
+episode steps: 285 
+episode reward: -136.70 
+episode max | avg | min reward: 0.10 | -0.48 | -100.00 
+T = 0.007137 
+
+---------------------------------------
+
+Episode 542 ==> CRASH {-0.32,-2.16,-44.03}    07/10/2022 10:05:44
+episode time: 17.04 s (avg step: 0.05 s) 
+episode steps: 321 
+episode reward: -143.40 
+episode max | avg | min reward: 0.40 | -0.45 | -100.00 
+T = 0.007030 
+
+---------------------------------------
+
+Episode 543 ==> CRASH {-0.33,-2.15,-43.10}    07/10/2022 10:06:01
+episode time: 16.64 s (avg step: 0.05 s) 
+episode steps: 346 
+episode reward: -142.30 
+episode max | avg | min reward: 0.40 | -0.41 | -100.00 
+T = 0.006924 
+
+---------------------------------------
+
+Episode 544 ==> CRASH {-1.18,-1.05,11.28}    07/10/2022 10:06:09
+episode time: 7.94 s (avg step: 0.06 s) 
+episode steps: 138 
+episode reward: -122.40 
+episode max | avg | min reward: 0.40 | -0.89 | -100.00 
+T = 0.006820 
+
+---------------------------------------
+
+Episode 545 ==> CRASH {-0.38,-2.11,-41.30}    07/10/2022 10:06:24
+episode time: 15.12 s (avg step: 0.05 s) 
+episode steps: 320 
+episode reward: -138.30 
+episode max | avg | min reward: 0.40 | -0.43 | -100.00 
+T = 0.006718 
+
+---------------------------------------
+
+Episode 546 ==> CRASH {-0.41,-2.12,-41.97}    07/10/2022 10:06:40
+episode time: 15.09 s (avg step: 0.05 s) 
+episode steps: 280 
+episode reward: -132.20 
+episode max | avg | min reward: 0.10 | -0.47 | -100.00 
+T = 0.006617 
+
+---------------------------------------
+
+Episode 547 ==> CRASH {-0.33,-2.14,-41.94}    07/10/2022 10:06:56
+episode time: 16.07 s (avg step: 0.06 s) 
+episode steps: 273 
+episode reward: -133.30 
+episode max | avg | min reward: 0.40 | -0.49 | -100.00 
+T = 0.006518 
+
+---------------------------------------
+
+Episode 548 ==> CRASH {-0.37,-2.15,-41.78}    07/10/2022 10:07:12
+episode time: 15.58 s (avg step: 0.05 s) 
+episode steps: 308 
+episode reward: -135.00 
+episode max | avg | min reward: 0.40 | -0.44 | -100.00 
+T = 0.006420 
+
+---------------------------------------
+
+Episode 549 ==> CRASH {-0.35,-2.14,-42.32}    07/10/2022 10:07:28
+episode time: 15.87 s (avg step: 0.05 s) 
+episode steps: 316 
+episode reward: -142.90 
+episode max | avg | min reward: 0.40 | -0.45 | -100.00 
+T = 0.006324 
+
+---------------------------------------
+
+Episode 550 ==> CRASH {-0.41,-2.12,-40.10}    07/10/2022 10:07:43
+episode time: 15.28 s (avg step: 0.05 s) 
+episode steps: 324 
+episode reward: -143.30 
+episode max | avg | min reward: 0.40 | -0.44 | -100.00 
+T = 0.006229 
+
+---------------------------------------
+
+Episode 551 ==> CRASH {-0.38,-2.15,-41.37}    07/10/2022 10:08:00
+episode time: 16.71 s (avg step: 0.05 s) 
+episode steps: 335 
+episode reward: -143.00 
+episode max | avg | min reward: 0.40 | -0.43 | -100.00 
+T = 0.006136 
+
+---------------------------------------
+
+Episode 552 ==> CRASH {-0.39,-2.12,-42.55}    07/10/2022 10:08:16
+episode time: 15.84 s (avg step: 0.06 s) 
+episode steps: 273 
+episode reward: -131.50 
+episode max | avg | min reward: 0.10 | -0.48 | -100.00 
+T = 0.006044 
+
+---------------------------------------
+
+Episode 553 ==> CRASH {-0.38,-2.13,-44.24}    07/10/2022 10:08:32
+episode time: 16.02 s (avg step: 0.05 s) 
+episode steps: 302 
+episode reward: -139.00 
+episode max | avg | min reward: 0.40 | -0.46 | -100.00 
+T = 0.005953 
+
+---------------------------------------
+
+Episode 554 ==> CRASH {-0.36,-2.16,-39.84}    07/10/2022 10:08:49
+episode time: 17.01 s (avg step: 0.06 s) 
+episode steps: 291 
+episode reward: -138.50 
+episode max | avg | min reward: 0.40 | -0.48 | -100.00 
+T = 0.005864 
+
+---------------------------------------
+
+Episode 555 ==> CRASH {-0.38,-2.14,-43.45}    07/10/2022 10:09:05
+episode time: 15.90 s (avg step: 0.05 s) 
+episode steps: 303 
+episode reward: -142.40 
+episode max | avg | min reward: 0.10 | -0.47 | -100.00 
+T = 0.005776 
+
+---------------------------------------
+
+Episode 556 ==> CRASH {-0.39,-2.16,-41.92}    07/10/2022 10:09:22
+episode time: 16.40 s (avg step: 0.06 s) 
+episode steps: 286 
+episode reward: -137.00 
+episode max | avg | min reward: 0.40 | -0.48 | -100.00 
+T = 0.005689 
+
+---------------------------------------
+
+Episode 557 ==> CRASH {-0.36,-2.16,-41.67}    07/10/2022 10:09:39
+episode time: 16.66 s (avg step: 0.06 s) 
+episode steps: 283 
+episode reward: -133.70 
+episode max | avg | min reward: 0.40 | -0.47 | -100.00 
+T = 0.005604 
+
+---------------------------------------
+
+Episode 558 ==> CRASH {-0.43,-2.11,-45.23}    07/10/2022 10:09:55
+episode time: 15.97 s (avg step: 0.05 s) 
+episode steps: 305 
+episode reward: -137.20 
+episode max | avg | min reward: 0.40 | -0.45 | -100.00 
+T = 0.005520 
+
+---------------------------------------
+
+Episode 559 ==> CRASH {-0.42,-2.12,-39.49}    07/10/2022 10:10:10
+episode time: 15.41 s (avg step: 0.06 s) 
+episode steps: 242 
+episode reward: -133.30 
+episode max | avg | min reward: 0.10 | -0.55 | -100.00 
+T = 0.005437 
+
+---------------------------------------
+
+Episode 560 ==> CRASH {-0.42,-2.12,-44.15}    07/10/2022 10:10:26
+episode time: 15.63 s (avg step: 0.05 s) 
+episode steps: 308 
+episode reward: -135.80 
+episode max | avg | min reward: 0.40 | -0.44 | -100.00 
+T = 0.005355 
+
+---------------------------------------
+
+Episode 561 ==> CRASH {-0.32,-2.16,-40.99}    07/10/2022 10:10:43
+episode time: 16.47 s (avg step: 0.05 s) 
+episode steps: 300 
+episode reward: -134.70 
+episode max | avg | min reward: 0.40 | -0.45 | -100.00 
+T = 0.005275 
+
+---------------------------------------
+
+Episode 562 ==> CRASH {-0.37,-2.14,-43.08}    07/10/2022 10:10:58
+episode time: 15.40 s (avg step: 0.05 s) 
+episode steps: 309 
+episode reward: -142.20 
+episode max | avg | min reward: 0.10 | -0.46 | -100.00 
+T = 0.005196 
+
+---------------------------------------
+
+Episode 563 ==> CRASH {-0.39,-2.14,-37.77}    07/10/2022 10:11:14
+episode time: 15.56 s (avg step: 0.05 s) 
+episode steps: 305 
+episode reward: -144.70 
+episode max | avg | min reward: 0.40 | -0.48 | -100.00 
+T = 0.005118 
+
+---------------------------------------
+
+Episode 564 ==> CRASH {-0.38,-2.12,-43.44}    07/10/2022 10:11:30
+episode time: 15.53 s (avg step: 0.05 s) 
+episode steps: 308 
+episode reward: -138.10 
+episode max | avg | min reward: 0.10 | -0.45 | -100.00 
+T = 0.005041 
+
+---------------------------------------
+
+Episode 565 ==> CRASH {-0.34,-2.16,-40.95}    07/10/2022 10:11:46
+episode time: 16.08 s (avg step: 0.05 s) 
+episode steps: 296 
+episode reward: -136.70 
+episode max | avg | min reward: 0.10 | -0.46 | -100.00 
+T = 0.004966 
+
+---------------------------------------
+
+Episode 566 ==> CRASH {-0.34,-2.15,-40.98}    07/10/2022 10:12:03
+episode time: 16.55 s (avg step: 0.06 s) 
+episode steps: 262 
+episode reward: -136.70 
+episode max | avg | min reward: 0.10 | -0.52 | -100.00 
+T = 0.004891 
+
+---------------------------------------
+
+Episode 567 ==> CRASH {-0.48,-2.15,-42.20}    07/10/2022 10:12:18
+episode time: 15.42 s (avg step: 0.06 s) 
+episode steps: 254 
+episode reward: -131.60 
+episode max | avg | min reward: 0.10 | -0.52 | -100.00 
+T = 0.004818 
+
+---------------------------------------
+
+Episode 568 ==> CRASH {-0.45,-2.15,-39.41}    07/10/2022 10:12:33
+episode time: 14.93 s (avg step: 0.05 s) 
+episode steps: 280 
+episode reward: -130.50 
+episode max | avg | min reward: 0.10 | -0.47 | -100.00 
+T = 0.004746 
+
+---------------------------------------
+
+Episode 569 ==> CRASH {-0.45,-2.16,-41.94}    07/10/2022 10:12:49
+episode time: 15.52 s (avg step: 0.06 s) 
+episode steps: 246 
+episode reward: -130.60 
+episode max | avg | min reward: 0.40 | -0.53 | -100.00 
+T = 0.004674 
+
+---------------------------------------
+
+Episode 570 ==> CRASH {-0.52,-2.11,-41.83}    07/10/2022 10:13:04
+episode time: 14.70 s (avg step: 0.06 s) 
+episode steps: 266 
+episode reward: -133.30 
+episode max | avg | min reward: 0.40 | -0.50 | -100.00 
+T = 0.004604 
+
+---------------------------------------
+
+Episode 571 ==> CRASH {-0.42,-2.16,-38.41}    07/10/2022 10:13:19
+episode time: 15.17 s (avg step: 0.06 s) 
+episode steps: 238 
+episode reward: -128.90 
+episode max | avg | min reward: 0.10 | -0.54 | -100.00 
+T = 0.004535 
+
+---------------------------------------
+
+Episode 572 ==> CRASH {-0.48,-2.14,-41.19}    07/10/2022 10:13:35
+episode time: 15.32 s (avg step: 0.05 s) 
+episode steps: 314 
+episode reward: -137.70 
+episode max | avg | min reward: 0.10 | -0.44 | -100.00 
+T = 0.004467 
+
+---------------------------------------
+
+Episode 573 ==> CRASH {-0.48,-2.13,-42.32}    07/10/2022 10:13:50
+episode time: 15.20 s (avg step: 0.05 s) 
+episode steps: 288 
+episode reward: -136.90 
+episode max | avg | min reward: 0.10 | -0.48 | -100.00 
+T = 0.004400 
+
+---------------------------------------
+
+Episode 574 ==> CRASH {-0.43,-2.16,-39.41}    07/10/2022 10:14:05
+episode time: 14.73 s (avg step: 0.05 s) 
+episode steps: 290 
+episode reward: -134.40 
+episode max | avg | min reward: 0.10 | -0.47 | -100.00 
+T = 0.004334 
+
+---------------------------------------
+
+Episode 575 ==> CRASH {-0.46,-2.14,-42.75}    07/10/2022 10:14:19
+episode time: 14.57 s (avg step: 0.06 s) 
+episode steps: 246 
+episode reward: -129.50 
+episode max | avg | min reward: 0.10 | -0.53 | -100.00 
+T = 0.004269 
+
+---------------------------------------
+
+Episode 576 ==> CRASH {-0.45,-2.15,-42.36}    07/10/2022 10:14:35
+episode time: 15.30 s (avg step: 0.06 s) 
+episode steps: 277 
+episode reward: -130.20 
+episode max | avg | min reward: 0.10 | -0.47 | -100.00 
+T = 0.004205 
+
+---------------------------------------
+
+Episode 577 ==> CRASH {-0.48,-2.12,-42.89}    07/10/2022 10:14:50
+episode time: 14.59 s (avg step: 0.05 s) 
+episode steps: 267 
+episode reward: -132.80 
+episode max | avg | min reward: 0.40 | -0.50 | -100.00 
+T = 0.004142 
+
+---------------------------------------
+
+Episode 578 ==> CRASH {-0.49,-2.12,-42.40}    07/10/2022 10:15:05
+episode time: 15.03 s (avg step: 0.06 s) 
+episode steps: 236 
+episode reward: -128.30 
+episode max | avg | min reward: 0.40 | -0.55 | -100.00 
+T = 0.004080 
+
+---------------------------------------
+
+Episode 579 ==> CRASH {-0.42,-2.16,-41.29}    07/10/2022 10:15:20
+episode time: 15.24 s (avg step: 0.06 s) 
+episode steps: 246 
+episode reward: -129.40 
+episode max | avg | min reward: 0.10 | -0.53 | -100.00 
+T = 0.004019 
+
+---------------------------------------
+
+Episode 580 ==> CRASH {-0.49,-2.14,-43.54}    07/10/2022 10:15:36
+episode time: 15.11 s (avg step: 0.06 s) 
+episode steps: 246 
+episode reward: -131.30 
+episode max | avg | min reward: 0.40 | -0.54 | -100.00 
+T = 0.003958 
+
+---------------------------------------
+
+Episode 581 ==> CRASH {-0.43,-2.16,-42.72}    07/10/2022 10:15:51
+episode time: 15.50 s (avg step: 0.06 s) 
+episode steps: 271 
+episode reward: -131.20 
+episode max | avg | min reward: 0.40 | -0.49 | -100.00 
+T = 0.003899 
+
+---------------------------------------
+
+Episode 582 ==> CRASH {-0.48,-2.11,-40.98}    07/10/2022 10:16:07
+episode time: 15.31 s (avg step: 0.05 s) 
+episode steps: 329 
+episode reward: -139.10 
+episode max | avg | min reward: 0.40 | -0.42 | -100.00 
+T = 0.003841 
+
+---------------------------------------
+
+Episode 583 ==> CRASH {-0.40,-2.15,-43.16}    07/10/2022 10:16:22
+episode time: 15.64 s (avg step: 0.05 s) 
+episode steps: 288 
+episode reward: -132.40 
+episode max | avg | min reward: 0.10 | -0.46 | -100.00 
+T = 0.003783 
+
+---------------------------------------
+
+Episode 584 ==> CRASH {-0.43,-2.14,-42.15}    07/10/2022 10:16:38
+episode time: 15.00 s (avg step: 0.05 s) 
+episode steps: 307 
+episode reward: -136.60 
+episode max | avg | min reward: 0.10 | -0.45 | -100.00 
+T = 0.003726 
+
+---------------------------------------
+
+Episode 585 ==> CRASH {-0.45,-2.12,-42.63}    07/10/2022 10:16:53
+episode time: 15.35 s (avg step: 0.06 s) 
+episode steps: 273 
+episode reward: -133.00 
+episode max | avg | min reward: 0.40 | -0.49 | -100.00 
+T = 0.003670 
+
+---------------------------------------
+
+Episode 586 ==> CRASH {-0.41,-2.16,-39.46}    07/10/2022 10:17:09
+episode time: 15.33 s (avg step: 0.05 s) 
+episode steps: 282 
+episode reward: -136.10 
+episode max | avg | min reward: 0.10 | -0.48 | -100.00 
+T = 0.003615 
+
+---------------------------------------
+
+Episode 587 ==> CRASH {-0.45,-2.12,-42.26}    07/10/2022 10:17:24
+episode time: 15.23 s (avg step: 0.06 s) 
+episode steps: 257 
+episode reward: -126.40 
+episode max | avg | min reward: 0.40 | -0.49 | -100.00 
+T = 0.003561 
+
+---------------------------------------
+
+Episode 588 ==> CRASH {-0.46,-2.13,-42.16}    07/10/2022 10:17:39
+episode time: 14.88 s (avg step: 0.05 s) 
+episode steps: 281 
+episode reward: -131.90 
+episode max | avg | min reward: 0.10 | -0.47 | -100.00 
+T = 0.003508 
+
+---------------------------------------
+
+Episode 589 ==> CRASH {-0.37,-2.18,-43.08}    07/10/2022 10:17:55
+episode time: 15.64 s (avg step: 0.05 s) 
+episode steps: 295 
+episode reward: -133.90 
+episode max | avg | min reward: 0.40 | -0.46 | -100.00 
+T = 0.003455 
+
+---------------------------------------
+
+Episode 590 ==> CRASH {-0.42,-2.17,-41.10}    07/10/2022 10:18:11
+episode time: 16.09 s (avg step: 0.05 s) 
+episode steps: 296 
+episode reward: -137.20 
+episode max | avg | min reward: 0.40 | -0.47 | -100.00 
+T = 0.003403 
+
+---------------------------------------
+
+Episode 591 ==> CRASH {-0.44,-2.13,-45.08}    07/10/2022 10:18:27
+episode time: 15.54 s (avg step: 0.06 s) 
+episode steps: 248 
+episode reward: -128.40 
+episode max | avg | min reward: 0.40 | -0.52 | -100.00 
+T = 0.003352 
+
+---------------------------------------
+
+Episode 592 ==> CRASH {-0.41,-2.16,-41.80}    07/10/2022 10:18:43
+episode time: 15.65 s (avg step: 0.06 s) 
+episode steps: 256 
+episode reward: -128.20 
+episode max | avg | min reward: 0.10 | -0.50 | -100.00 
+T = 0.003302 
+
+---------------------------------------
+
+Episode 593 ==> CRASH {-0.41,-2.16,-42.00}    07/10/2022 10:18:58
+episode time: 15.15 s (avg step: 0.05 s) 
+episode steps: 321 
+episode reward: -138.90 
+episode max | avg | min reward: 0.10 | -0.43 | -100.00 
+T = 0.003252 
+
+---------------------------------------
+
+Episode 594 ==> CRASH {-0.44,-2.12,-40.31}    07/10/2022 10:19:13
+episode time: 14.50 s (avg step: 0.06 s) 
+episode steps: 232 
+episode reward: -127.50 
+episode max | avg | min reward: 0.40 | -0.55 | -100.00 
+T = 0.003203 
+
+---------------------------------------
+
+Episode 595 ==> CRASH {-0.43,-2.13,-41.77}    07/10/2022 10:19:28
+episode time: 14.89 s (avg step: 0.05 s) 
+episode steps: 275 
+episode reward: -130.60 
+episode max | avg | min reward: 0.10 | -0.48 | -100.00 
+T = 0.003155 
+
+---------------------------------------
+
+Episode 596 ==> CRASH {-0.42,-2.14,-42.69}    07/10/2022 10:19:42
+episode time: 14.57 s (avg step: 0.06 s) 
+episode steps: 263 
+episode reward: -128.90 
+episode max | avg | min reward: 0.10 | -0.49 | -100.00 
+T = 0.003108 
+
+---------------------------------------
+
+Episode 597 ==> CRASH {-0.42,-2.15,-43.89}    07/10/2022 10:19:58
+episode time: 15.86 s (avg step: 0.06 s) 
+episode steps: 280 
+episode reward: -133.00 
+episode max | avg | min reward: 0.40 | -0.48 | -100.00 
+T = 0.003061 
+
+---------------------------------------
+
+Episode 598 ==> CRASH {-0.48,-2.10,-44.60}    07/10/2022 10:20:13
+episode time: 14.77 s (avg step: 0.06 s) 
+episode steps: 250 
+episode reward: -131.90 
+episode max | avg | min reward: 0.10 | -0.53 | -100.00 
+T = 0.003016 
+
+---------------------------------------
+
+Episode 599 ==> CRASH {-0.49,-2.12,-43.74}    07/10/2022 10:20:29
+episode time: 15.24 s (avg step: 0.06 s) 
+episode steps: 271 
+episode reward: -132.40 
+episode max | avg | min reward: 0.10 | -0.49 | -100.00 
+T = 0.002970 
+
+---------------------------------------
+
+Episode 600 ==> CRASH {-0.43,-2.13,-39.64}    07/10/2022 10:20:44
+episode time: 15.09 s (avg step: 0.06 s) 
+episode steps: 270 
+episode reward: -129.10 
+episode max | avg | min reward: 0.10 | -0.48 | -100.00 
+T = 0.002926 
+
+---------------------------------------
+
+Episode 601 ==> CRASH {-0.45,-2.14,-43.03}    07/10/2022 10:21:00
+episode time: 15.51 s (avg step: 0.05 s) 
+episode steps: 289 
+episode reward: -132.10 
+episode max | avg | min reward: 0.40 | -0.46 | -100.00 
+T = 0.002882 
+
+---------------------------------------
+
+Episode 602 ==> CRASH {-0.46,-2.12,-42.76}    07/10/2022 10:21:15
+episode time: 15.11 s (avg step: 0.05 s) 
+episode steps: 286 
+episode reward: -133.00 
+episode max | avg | min reward: 0.10 | -0.47 | -100.00 
+T = 0.002839 
+
+---------------------------------------
+
+Episode 603 ==> CRASH {-0.44,-2.15,-41.84}    07/10/2022 10:21:30
+episode time: 15.23 s (avg step: 0.05 s) 
+episode steps: 320 
+episode reward: -142.10 
+episode max | avg | min reward: 0.40 | -0.45 | -100.00 
+T = 0.002796 
+
+---------------------------------------
+
+Episode 604 ==> CRASH {-0.41,-2.15,-41.00}    07/10/2022 10:21:46
+episode time: 15.53 s (avg step: 0.05 s) 
+episode steps: 315 
+episode reward: -133.10 
+episode max | avg | min reward: 0.40 | -0.42 | -100.00 
+T = 0.002754 
+
+---------------------------------------
+
+Episode 605 ==> CRASH {-0.47,-2.14,-43.52}    07/10/2022 10:22:01
+episode time: 15.10 s (avg step: 0.06 s) 
+episode steps: 256 
+episode reward: -131.10 
+episode max | avg | min reward: 0.40 | -0.51 | -100.00 
+T = 0.002713 
+
+---------------------------------------
+
+Episode 606 ==> CRASH {-0.39,-2.17,-40.93}    07/10/2022 10:22:17
+episode time: 15.83 s (avg step: 0.06 s) 
+episode steps: 253 
+episode reward: -130.10 
+episode max | avg | min reward: 0.40 | -0.52 | -100.00 
+T = 0.002672 
+
+---------------------------------------
+
+Episode 607 ==> CRASH {-0.44,-2.16,-39.25}    07/10/2022 10:22:32
+episode time: 15.20 s (avg step: 0.04 s) 
+episode steps: 352 
+episode reward: -142.30 
+episode max | avg | min reward: 0.40 | -0.41 | -100.00 
+T = 0.002632 
+
+---------------------------------------
+
+Episode 608 ==> CRASH {-0.44,-2.15,-43.24}    07/10/2022 10:22:47
+episode time: 14.61 s (avg step: 0.05 s) 
+episode steps: 291 
+episode reward: -130.50 
+episode max | avg | min reward: 0.10 | -0.45 | -100.00 
+T = 0.002593 
+
+---------------------------------------
+
+Episode 609 ==> CRASH {-0.47,-2.13,-39.25}    07/10/2022 10:23:03
+episode time: 15.47 s (avg step: 0.05 s) 
+episode steps: 284 
+episode reward: -133.40 
+episode max | avg | min reward: 0.10 | -0.47 | -100.00 
+T = 0.002554 
+
+---------------------------------------
+
+Episode 610 ==> CRASH {-0.37,-2.16,-42.62}    07/10/2022 10:23:18
+episode time: 15.46 s (avg step: 0.07 s) 
+episode steps: 233 
+episode reward: -122.70 
+episode max | avg | min reward: 0.40 | -0.53 | -100.00 
+T = 0.002515 
+
+---------------------------------------
+
+Episode 611 ==> CRASH {-0.46,-2.13,-42.21}    07/10/2022 10:23:33
+episode time: 14.65 s (avg step: 0.05 s) 
+episode steps: 277 
+episode reward: -132.60 
+episode max | avg | min reward: 0.10 | -0.48 | -100.00 
+T = 0.002478 
+
+---------------------------------------
+
+Episode 612 ==> CRASH {-0.46,-2.12,-41.11}    07/10/2022 10:23:49
+episode time: 15.22 s (avg step: 0.04 s) 
+episode steps: 342 
+episode reward: -139.30 
+episode max | avg | min reward: 0.40 | -0.41 | -100.00 
+T = 0.002440 
+
+---------------------------------------
+
+Episode 613 ==> CRASH {-0.45,-2.13,-43.20}    07/10/2022 10:24:04
+episode time: 15.21 s (avg step: 0.06 s) 
+episode steps: 268 
+episode reward: -132.80 
+episode max | avg | min reward: 0.40 | -0.50 | -100.00 
+T = 0.002404 
+
+---------------------------------------
+
+Episode 614 ==> CRASH {-0.42,-2.13,-44.53}    07/10/2022 10:24:19
+episode time: 15.02 s (avg step: 0.06 s) 
+episode steps: 263 
+episode reward: -128.90 
+episode max | avg | min reward: 0.40 | -0.49 | -100.00 
+T = 0.002368 
+
+---------------------------------------
+
+Episode 615 ==> CRASH {-0.42,-2.14,-41.20}    07/10/2022 10:24:35
+episode time: 15.14 s (avg step: 0.06 s) 
+episode steps: 252 
+episode reward: -128.70 
+episode max | avg | min reward: 0.40 | -0.51 | -100.00 
+T = 0.002332 
+
+---------------------------------------
+
+Episode 616 ==> CRASH {-0.40,-2.16,-40.06}    07/10/2022 10:24:50
+episode time: 15.50 s (avg step: 0.06 s) 
+episode steps: 259 
+episode reward: -132.10 
+episode max | avg | min reward: 0.10 | -0.51 | -100.00 
+T = 0.002297 
+
+---------------------------------------
+
+Episode 617 ==> CRASH {-0.35,-2.12,-41.66}    07/10/2022 10:25:07
+episode time: 16.59 s (avg step: 0.07 s) 
+episode steps: 246 
+episode reward: -128.60 
+episode max | avg | min reward: 0.40 | -0.52 | -100.00 
+T = 0.002263 
+
+---------------------------------------
+
+Episode 618 ==> CRASH {-0.23,-2.14,-45.66}    07/10/2022 10:25:24
+episode time: 16.80 s (avg step: 0.06 s) 
+episode steps: 293 
+episode reward: -136.70 
+episode max | avg | min reward: 0.10 | -0.47 | -100.00 
+T = 0.002229 
+
+---------------------------------------
+
+Episode 619 ==> CRASH {2.10,-2.11,-45.38}    07/10/2022 10:25:57
+episode time: 32.36 s (avg step: 0.05 s) 
+episode steps: 613 
+episode reward: -175.40 
+episode max | avg | min reward: 0.40 | -0.29 | -100.00 
+T = 0.002195 
+
+---------------------------------------
+
+Episode 620 ==> CRASH {-0.22,-2.17,-41.91}    07/10/2022 10:26:14
+episode time: 17.00 s (avg step: 0.06 s) 
+episode steps: 307 
+episode reward: -138.60 
+episode max | avg | min reward: 0.40 | -0.45 | -100.00 
+T = 0.002163 
+
+---------------------------------------
+
+Episode 621 ==> CRASH {-0.33,-2.11,-45.98}    07/10/2022 10:26:30
+episode time: 16.27 s (avg step: 0.06 s) 
+episode steps: 290 
+episode reward: -136.80 
+episode max | avg | min reward: 0.10 | -0.47 | -100.00 
+T = 0.002130 
+
+---------------------------------------
+
+Episode 622 ==> CRASH {-0.28,-2.14,-44.16}    07/10/2022 10:26:47
+episode time: 16.66 s (avg step: 0.06 s) 
+episode steps: 295 
+episode reward: -136.40 
+episode max | avg | min reward: 0.10 | -0.46 | -100.00 
+T = 0.002098 
+
+---------------------------------------
+
+Episode 623 ==> CRASH {-0.33,-2.11,-43.15}    07/10/2022 10:27:04
+episode time: 16.55 s (avg step: 0.06 s) 
+episode steps: 259 
+episode reward: -132.00 
+episode max | avg | min reward: 0.40 | -0.51 | -100.00 
+T = 0.002067 
+
+---------------------------------------
+
+Episode 624 ==> CRASH {-0.28,-2.14,-39.28}    07/10/2022 10:27:21
+episode time: 16.72 s (avg step: 0.06 s) 
+episode steps: 276 
+episode reward: -134.40 
+episode max | avg | min reward: 0.40 | -0.49 | -100.00 
+T = 0.002036 
+
+---------------------------------------
+
+Episode 625 ==> CRASH {-0.31,-2.16,-41.00}    07/10/2022 10:27:37
+episode time: 16.36 s (avg step: 0.06 s) 
+episode steps: 277 
+episode reward: -132.00 
+episode max | avg | min reward: 0.40 | -0.48 | -100.00 
+T = 0.002005 
+
+---------------------------------------
+
+Episode 626 ==> CRASH {-0.28,-2.14,-41.49}    07/10/2022 10:27:55
+episode time: 17.06 s (avg step: 0.06 s) 
+episode steps: 270 
+episode reward: -131.30 
+episode max | avg | min reward: 0.40 | -0.49 | -100.00 
+T = 0.001975 
+
+---------------------------------------
+
+Episode 627 ==> CRASH {-0.27,-2.13,-41.17}    07/10/2022 10:28:11
+episode time: 16.21 s (avg step: 0.05 s) 
+episode steps: 341 
+episode reward: -139.30 
+episode max | avg | min reward: 0.10 | -0.41 | -100.00 
+T = 0.001945 
+
+---------------------------------------
+
+Episode 628 ==> CRASH {-0.23,-2.14,-39.27}    07/10/2022 10:28:27
+episode time: 16.22 s (avg step: 0.05 s) 
+episode steps: 338 
+episode reward: -139.50 
+episode max | avg | min reward: 0.10 | -0.41 | -100.00 
+T = 0.001916 
+
+---------------------------------------
+
+Episode 629 ==> CRASH {-0.28,-2.14,-41.83}    07/10/2022 10:28:43
+episode time: 15.95 s (avg step: 0.04 s) 
+episode steps: 378 
+episode reward: -142.70 
+episode max | avg | min reward: 0.40 | -0.38 | -100.00 
+T = 0.001888 
+
+---------------------------------------
+
+Episode 630 ==> CRASH {-0.30,-2.13,-41.62}    07/10/2022 10:29:00
+episode time: 16.58 s (avg step: 0.06 s) 
+episode steps: 274 
+episode reward: -132.00 
+episode max | avg | min reward: 0.40 | -0.48 | -100.00 
+T = 0.001859 
+
+---------------------------------------
+
+Episode 631 ==> CRASH {-0.27,-2.15,-41.62}    07/10/2022 10:29:17
+episode time: 16.65 s (avg step: 0.06 s) 
+episode steps: 267 
+episode reward: -128.40 
+episode max | avg | min reward: 0.10 | -0.48 | -100.00 
+T = 0.001831 
+
+---------------------------------------
+
+Episode 632 ==> CRASH {-0.32,-2.13,-43.84}    07/10/2022 10:29:33
+episode time: 15.77 s (avg step: 0.06 s) 
+episode steps: 252 
+episode reward: -128.70 
+episode max | avg | min reward: 0.10 | -0.51 | -100.00 
+T = 0.001804 
+
+---------------------------------------
+
+Episode 633 ==> CRASH {-0.43,-2.12,-43.62}    07/10/2022 10:29:49
+episode time: 15.57 s (avg step: 0.06 s) 
+episode steps: 256 
+episode reward: -130.00 
+episode max | avg | min reward: 0.40 | -0.51 | -100.00 
+T = 0.001777 
+
+---------------------------------------
+
+Episode 634 ==> CRASH {-0.35,-2.16,-40.58}    07/10/2022 10:30:06
+episode time: 16.71 s (avg step: 0.06 s) 
+episode steps: 265 
+episode reward: -134.50 
+episode max | avg | min reward: 0.40 | -0.51 | -100.00 
+T = 0.001750 
+
+---------------------------------------
+
+Episode 635 ==> CRASH {-0.39,-2.15,-43.78}    07/10/2022 10:30:22
+episode time: 16.20 s (avg step: 0.06 s) 
+episode steps: 275 
+episode reward: -133.30 
+episode max | avg | min reward: 0.10 | -0.49 | -100.00 
+T = 0.001724 
+
+---------------------------------------
+
+Episode 636 ==> CRASH {-0.33,-2.16,-40.59}    07/10/2022 10:30:38
+episode time: 15.80 s (avg step: 0.06 s) 
+episode steps: 270 
+episode reward: -131.80 
+episode max | avg | min reward: 0.40 | -0.49 | -100.00 
+T = 0.001698 
+
+---------------------------------------
+
+Episode 637 ==> CRASH {-0.34,-2.15,-40.70}    07/10/2022 10:30:54
+episode time: 15.60 s (avg step: 0.05 s) 
+episode steps: 299 
+episode reward: -136.10 
+episode max | avg | min reward: 0.10 | -0.46 | -100.00 
+T = 0.001673 
+
+---------------------------------------
+
+Episode 638 ==> CRASH {-0.34,-2.14,-42.04}    07/10/2022 10:31:09
+episode time: 15.42 s (avg step: 0.06 s) 
+episode steps: 275 
+episode reward: -131.90 
+episode max | avg | min reward: 0.40 | -0.48 | -100.00 
+T = 0.001647 
+
+---------------------------------------
+
+Episode 639 ==> CRASH {-0.40,-2.14,-42.64}    07/10/2022 10:31:25
+episode time: 15.47 s (avg step: 0.05 s) 
+episode steps: 323 
+episode reward: -143.90 
+episode max | avg | min reward: 0.10 | -0.45 | -100.00 
+T = 0.001623 
+
+---------------------------------------
+
+Episode 640 ==> CRASH {-0.37,-2.13,-46.14}    07/10/2022 10:31:42
+episode time: 16.50 s (avg step: 0.06 s) 
+episode steps: 271 
+episode reward: -131.90 
+episode max | avg | min reward: 0.10 | -0.49 | -100.00 
+T = 0.001598 
+
+---------------------------------------
+
+Episode 641 ==> CRASH {-0.34,-2.15,-41.05}    07/10/2022 10:31:58
+episode time: 16.20 s (avg step: 0.06 s) 
+episode steps: 285 
+episode reward: -133.10 
+episode max | avg | min reward: 0.10 | -0.47 | -100.00 
+T = 0.001574 
+
+---------------------------------------
+
+Episode 642 ==> CRASH {-0.39,-2.13,-44.45}    07/10/2022 10:32:14
+episode time: 16.27 s (avg step: 0.06 s) 
+episode steps: 277 
+episode reward: -138.50 
+episode max | avg | min reward: 0.40 | -0.50 | -100.00 
+T = 0.001551 
+
+---------------------------------------
+
+Episode 643 ==> CRASH {-0.41,-2.12,-45.88}    07/10/2022 10:32:30
+episode time: 15.88 s (avg step: 0.05 s) 
+episode steps: 290 
+episode reward: -135.10 
+episode max | avg | min reward: 0.10 | -0.47 | -100.00 
+T = 0.001528 
+
+---------------------------------------
+
+Episode 644 ==> CRASH {-0.32,-2.16,-42.12}    07/10/2022 10:32:47
+episode time: 16.09 s (avg step: 0.06 s) 
+episode steps: 270 
+episode reward: -133.00 
+episode max | avg | min reward: 0.40 | -0.49 | -100.00 
+T = 0.001505 
+
+---------------------------------------
+
+Episode 645 ==> CRASH {-0.37,-2.12,-43.98}    07/10/2022 10:33:03
+episode time: 15.92 s (avg step: 0.06 s) 
+episode steps: 261 
+episode reward: -135.80 
+episode max | avg | min reward: 0.10 | -0.52 | -100.00 
+T = 0.001482 
+
+---------------------------------------
+
+Episode 646 ==> CRASH {-0.34,-2.15,-43.41}    07/10/2022 10:33:19
+episode time: 15.91 s (avg step: 0.07 s) 
+episode steps: 239 
+episode reward: -133.40 
+episode max | avg | min reward: 0.10 | -0.56 | -100.00 
+T = 0.001460 
+
+---------------------------------------
+
+Episode 647 ==> CRASH {-0.36,-2.14,-44.31}    07/10/2022 10:33:35
+episode time: 15.95 s (avg step: 0.05 s) 
+episode steps: 322 
+episode reward: -142.40 
+episode max | avg | min reward: 0.40 | -0.44 | -100.00 
+T = 0.001438 
+
+---------------------------------------
+
+Episode 648 ==> CRASH {-0.36,-2.14,-41.98}    07/10/2022 10:33:52
+episode time: 16.40 s (avg step: 0.05 s) 
+episode steps: 331 
+episode reward: -143.60 
+episode max | avg | min reward: 0.40 | -0.44 | -100.00 
+T = 0.001416 
+
+---------------------------------------
+
+Episode 649 ==> CRASH {-0.38,-2.15,-42.51}    07/10/2022 10:34:08
+episode time: 16.00 s (avg step: 0.06 s) 
+episode steps: 278 
+episode reward: -131.70 
+episode max | avg | min reward: 0.40 | -0.48 | -100.00 
+T = 0.001395 
+
+---------------------------------------
+
+Episode 650 ==> CRASH {-0.37,-2.13,-42.79}    07/10/2022 10:34:24
+episode time: 15.84 s (avg step: 0.04 s) 
+episode steps: 357 
+episode reward: -142.50 
+episode max | avg | min reward: 0.10 | -0.40 | -100.00 
+T = 0.001374 
+
+--------------------------------------- 
+
+MAX EPISODES REACHED(650), LEARNING FINISHED ==> 07/10/2022 10:34:24
+Simulation time: 3:56:31  h/m/s 
+Real time: 3:58:12  h/m/s 
+
