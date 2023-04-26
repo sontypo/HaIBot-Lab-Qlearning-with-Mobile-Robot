@@ -1,5 +1,7 @@
 # HaIBot-Lab-Qlearning-with-Mobile-Robot
 
+__Inspired by: https://github.com/lukovicaleksa/autonomous-driving-turtlebot-with-reinforcement-learning__
+
 <Son_Nguyen: son94227@gmail.com> 
 
 >> Vietnamese Version (English update later - Translate into English if nessesary)
