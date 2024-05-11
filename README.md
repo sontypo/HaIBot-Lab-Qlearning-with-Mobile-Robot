@@ -11,7 +11,7 @@ __Inspired by: https://github.com/lukovicaleksa/autonomous-driving-turtlebot-wit
 ---------------------------------------------------------
 	- diffbot_landing: chứa file launch robot vi sai tích hợp cảm biến hokuyo (lidar2d), imu, kinect_v2 (tof camera) mô phỏng trong gazebo, tích hợp chương trình chạy teleop từ bàn phím;
 	- differential_robot: chứa file urdf của robot vi sai;
-	- deep_rl_gazebo: gói chứa các thuật toán deep reinforcement learning đào tạo robot vi sai;
+	- Q_learning_Diffbot: gói chứa các thuật toán deep reinforcement learning đào tạo robot vi sai;
 	- ekf: gói bộ lọc kalman mở rộng giúp trộn dữ liệu cảm biến;
 	- mybot_description: chứa file urdf và meshs của cảm biến Hokuyo;
 	- navigation: chứa các gói tiện ích cho việc điều hướng robot;
